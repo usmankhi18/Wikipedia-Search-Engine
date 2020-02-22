@@ -1,0 +1,137 @@
+﻿
+Paragon (video game)
+From Wikipedia, the free encyclopedia
+Paragon
+Paragon cover art.jpg
+Cover art of Paragon Essentials Edition
+Developer(s)	Epic Games
+Publisher(s)	Epic Games
+Distributor(s)	Sony Interactive Entertainment (PS4)
+Director(s)	Steve Superville
+Producer(s)	John Wasilczyk
+Engine	Unreal Engine 4
+Platform(s)	
+Microsoft Windows
+PlayStation 4
+Release date(s)	Early Access
+WW: March 18, 2016
+Open Beta
+WW: August 16, 2016
+Genre(s)	Multiplayer online battle arena
+Mode(s)	Multiplayer
+Paragon is a free-to-play multiplayer online battle arena game developed and published by Epic Games. It is set to be released for Microsoft Windows and PlayStation 4 in mid 2016. Powered by Epic's own Unreal Engine 4, the game entered early access in March 2016.
+
+Contents  [hide] 
+1	Gameplay
+2	Development
+3	References
+4	External links
+Gameplay[edit]
+Paragon is a third-person multiplayer online battle arena video game. The maps featured in the game are symmetrical, and bases are located at the two opposite ends of a map.[1] Players are tasked with defeating the enemy team and destroying the core in their base.[2] They can reach their opponents' bases through the three lanes featured in each map. Each lane is protected by defensive towers that protect the bases by attacking any incoming enemies that stand within its range automatically.[1] The lanes are surrounded by jungles. Inside the jungle, players can find additional resources for their teams, at the risk of encountering monsters. There are also shadow pads which temporarily turn players invisible while inside.[3]
+
+In a match, 10 players are divided into two teams. Each player assumes control of a "hero". Each hero has their own major attack and possesses five sets of abilities,[4] with one of them being the ultimate ability.[1] Different heroes have different skills and weapons. For instance, Grux, an offensive hero, has the ability to smash enemies, while Muriel, a defensive hero, can aid her allies with a shield.[5] Both teams have minions, which slowly march towards their opponents' bases and support the heroes.[1]
+
+When players kill an enemy hero or destroy an enemy tower, they will gain experience and card points. Before a match is about to start, players can utilize a deck, which allows players to use these card points to purchase upgrades such as health boosts and strength-enhancing artifacts for their heroes and customize them.[6] Heroes and cards are divided into five different affinities. Each hero has two affinities, and can use the cards matching their affinities alongside universal cards.[3] Card packs can be purchased by reputation points, which are earned through completing a match. Players can also use real-world currency to boost their reputation points and experience points.[5] According to Epic, the game is not pay-to-win. As a result, players can only purchase cosmetic items with real-world currency.[7] The game also features a replay system, which allows players to observe the match as a spectator.[8]
+
+Development[edit]
+With years of experience creating beautiful and immersive action games, we knew we had something fresh to bring to the MOBA genre. In Paragon, we put you in the middle of the action with direct control over your hero. At the same time, we made the decision to preserve what makes MOBAs great. Paragon is not a hybrid. It is clearly and faithfully a MOBA, brought to life with explosive action.
+
+— Steve Superville, creative director of Paragon
+Paragon is currently being developed by Epic Games. According to executive producer John Wasilczyk, the team was given the chance to "make anything", and had a lot of creative freedom when they started the project.[9] One of the main goals for developing the game is to introduce action elements into the genre. To achieve this, the game features gameplay similar to a third-person shooter, and the in-game characters were designed to possess mobility skills. For example, some of the characters have the ability to leap and strike.[10] The team focused on verticality while developing the game's maps. Such approach allowed them to turn the moments shown in MOBA CGI's trailers into an actual gameplay experience.[9] According to Steve Superville, the game's creative director, the maps were designed to "[shape] like a bowl" so that players can look across the map easily when they respawn, observe the battle situation and plan their attacks strategically. The card system was designed to make the game more accessible for new players, to simplify the traditional item system and create more strategic choices. According to Epic, it is a feature that can help the game to differentiate itself from its competitors.[3] Epic also transferred some of the resources for making Fortnite to Paragon's development.[11] ESports is currently under consideration, with Wasilczyk saying that it will depend on the demand of the community and the game's popularity.[12]
+
+Paragon is set to be a non-boxed game released by Epic. According to Superville, the team were excited about the change as this format allows them to receive responses from the community and make adjustments at once.[13] The game was officially announced on November 3, 2015, and the first gameplay trailer debuted at PlayStation Experience 2015.[14][15] The game entered early access on March 18, 2016 for PlayStation 4 and Microsoft Windows, with Cross-platform play between the two platforms common in most matches. While the product is now free-to-play, payment was required for early access to the game before the open beta release on August 16, 2016. The early access version of the game had three versions: Founder's Pack, Challenger Packs and Master Packs. All of them featured cosmetic items, additional boosts and upgrades.[16] At the start of the early access version, the game contained 13 characters. Epic promised that new characters would be added to the game for free one by one every three weeks and that they did not fix the roster size.[3] An open beta for the game started on August 16, 2016.[17] A retail PS4 version, titled Essentials Edition, which adds multiple in-game items, is also set to be released alongside the game's digital free-to-play version.[18] The Essentials Edition was released on June 7, 2016.[19]
+
+References[edit]
+^ Jump up to: a b c d Clements, Ryan (February 18, 2016). "Paragon Will Change the Way You Compete on PS4". PlayStation Blog. Retrieved April 11, 2016.
+Jump up ^ Buchholz, Jon (February 18, 2015). "Watch Heroes Rush The Core In This New Paragon Gameplay Trailer". Game Informer. Retrieved April 11, 2016.
+^ Jump up to: a b c d Warr, Philippa (February 18, 2016). "Paragon: What You Need To Know About Epic's MOBA". Rock, Paper, Shotgun. Retrieved April 11, 2016.
+Jump up ^ Jagneaux, David (February 18, 2016). "Paragon First Hands-On Gameplay Impression (PS4/PC)". IGN. Retrieved April 11, 2016.
+^ Jump up to: a b Tan, Nick (February 18, 2016). "Paragon preview". Game Revolution. Retrieved April 11, 2016.
+Jump up ^ Stubbsy, Mike (February 18, 2016). "Paragon preview: Epic Games re-energises the MOBA with classic shooter elements and unique twists". International Business Times. Retrieved April 11, 2016.
+Jump up ^ Williams, Mike (March 3, 2016). "Epic's Paragon is Free-To-Play, But Early Access Will Cost You". USgamer. Retrieved April 11, 2016.
+Jump up ^ Warr, Phillipa (February 22, 2016). "Paragon Interview: Why Epic Are Making A MOBA & More". Rock, Paper, Shotgun. Retrieved April 11, 2016.
+^ Jump up to: a b Paget, Mat (December 9, 2015). "Epic Talks Moving From Gears of War to MOBAs with Paragon". GameSpot. Retrieved April 11, 2016.
+Jump up ^ Shea, Brian (December 6, 2015). "We Talk With Epic Games To Find Out What Makes This MOBA Different". Game Informer. Retrieved April 11, 2016.
+Jump up ^ Campbell, Spencer (March 18, 2016). "Epic Games still working on Fortnite, though Paragon takes priority". Electronic Gaming Monthly. Retrieved April 11, 2016.
+Jump up ^ Mahardy, Mike (February 18, 2016). "How Gears of War and Unreal Have Shaped Epic's Next Game: Paragon<". GameSpot. Retrieved April 11, 2016.
+Jump up ^ Thursten, Chris (December 22, 2016). "Paragon devs talk MOBAs, map design, and more". PC Gamer. Retrieved April 11, 2016.
+Jump up ^ Nakamura, Darren (November 3, 2016). "Epic announces Paragon, teases a beefy dude with metal arms". Destructoid. Retrieved April 11, 2016.
+Jump up ^ Silva, Marty (December 5, 2016). "PSX 2015: Epic's Paragon Is Coming To PlayStation 4". IGN. Retrieved April 11, 2016.
+Jump up ^ Gies, Arthur (March 3, 2016). "Paragon will be totally free-to-play — but not in early access". Polygon. Retrieved April 11, 2016.
+Jump up ^ Scammell, David (June 10, 2016). "Paragon enters open beta in August on PS4 & PC". VideoGamer.com. Retrieved June 10, 2016.
+Jump up ^ Bertz, Matt (April 25, 2016). "Epic Games Announces Paragon Essentials Edition For PS4". Game Informer. Retrieved April 26, 2016.
+Jump up ^ Futter, Mike (June 7, 2016). "Paragon Retail Packaging Could Do A Better Job Explaining The Game Isn't Finished". Game Informer. Retrieved June 7, 2016.
+External links[edit]
+Official website
+[hide] v t e
+Epic Games
+Games
+developed	
+Jazz Jackrabbit series
+Jazz Jackrabbit 2 3
+Unreal series
+Unreal Tournament (1999) Tournament 2003 Championship Tournament 2004 Championship 2: The Liandri Conflict Tournament 3 Tournament (upcoming)
+Gears of War series
+Gears of War 2 3 Judgment
+Infinity Blade series
+Infinity Blade II III
+Other games
+Dare to Dream ZZT Jill of the Jungle Kiloblaster Overkill Super ZZT Silverball Xargon Extreme Pinball 7th Legion Age of Wonders Shadow Complex Bulletstorm Fortnite Paragon Spyjinx
+Games
+published	
+Castle of the Winds Brix Electro Man Ken's Labyrinth Ancients 1: Death Watch Solar Winds Zone 66 The Adventures of Robbo Epic Pinball Heartlight Highway Hunter One Must Fall: 2097 Traffic Department 2192 Radix: Beyond the Void Tyrian Seek and Destroy
+Subsidiaries	
+Current	
+Chair Entertainment
+Former	
+Safari Software Impossible Studios Titan Studios Pitbull Studio People Can Fly
+People	
+Current	
+Tim Sweeney Mark Rein Steve Polge Sjoerd De Jong
+Former	
+Rod Fergusson Cliff Bleszinski Mike Capps
+Technology	
+Unreal Engine UnrealScript UnrealEd Epic Citadel ZZT-oop
+Related	
+List of Unreal Engine games Make Something Unreal
+Categories: Upcoming video games scheduled for 2016Early access video gamesEpic GamesFree-to-play video gamesMultiplayer online battle arena gamesMultiplayer online gamesMultiplayer-only video gamesPlayStation 4 gamesScience fantasy video gamesThird-person shootersUnreal Engine gamesVideo games developed in the United StatesVideo games with cross-platform playWindows games
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+العربية
+Deutsch
+Français
+Українська
+Edit links
+This page was last modified on 6 December 2016, at 14:16.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

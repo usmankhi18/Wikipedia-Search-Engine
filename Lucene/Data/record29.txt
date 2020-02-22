@@ -1,0 +1,119 @@
+﻿
+Everyday Mathematics
+From Wikipedia, the free encyclopedia
+See also: Mathematics
+Everyday Mathematics is a pre-K and elementary school mathematics curriculum developed by the University of Chicago School Mathematics Project (not to be confused with the University of Chicago School of Mathematics). The program, now published by McGraw-Hill Education, has sparked debate.
+
+Contents  [hide] 
+1	History
+2	Curriculum structure
+3	Scientific support for the curriculum
+4	Criticism
+5	Notes
+6	External links
+History[edit]
+Everyday Mathematics curriculum was developed by the University of Chicago School Math Project (or UCSMP )[1] which was founded in 1983.
+
+Work on it started in the summer of 1985. The 1st edition was released in 1998 and the 2nd in 2002. A third edition was released in 2007 and a fourth in 2014-2015.[2]
+
+Curriculum structure[edit]
+Below is an outline of the components of EM as they are generally seen throughout the curriculum.
+
+Lessons
+A typical lesson outlined in one of the teacher’s manuals includes three parts[3]
+
+Teaching the Lesson—Provides main instructional activities for the lesson.
+Ongoing Learning and Practice—Supports previously introduced concepts and skills; essential for maintaining skills.
+Differentiation Options—Includes options for supporting the needs of all students; usually an extension of Part 1, Teaching the Lesson.
+Daily Routines
+Every day, there are certain things that each EM lesson requires the student to do routinely. These components can be dispersed throughout the day or they can be part of the main math lesson.
+
+Math Messages—These are problems, displayed in a manner chosen by the teacher, that students complete before the lesson and then discuss as an opener to the main lesson.
+Mental Math and Reflexes—These are brief (no longer than 5 min) sessions “…designed to strengthen children's number sense and to review and advance essential basic skills…” (Program Components 2003).
+Math Boxes—These are pages intended to have students routinely practice problems independently.
+Home Links/Study Links—Everyday homework is sent home. Grades K-4 they are called Home Links and 4-6 they are Study Links. They are meant to reinforce instruction as well as connect home to the work at school.
+Supplemental Aspects
+Beyond the components already listed, there are supplemental resources to the program. The two most common are games and explorations.
+
+Games— “…Everyday Mathematics sees games as enjoyable ways to practice number skills, especially those that help children develop fact power…” (Program Components 2003). Therefore, authors of the series have interwoven games throughout daily lessons and activities.
+Scientific support for the curriculum[edit]
+What Works Clearinghouse ( or WWC ) [4] reviewed the evidence in support of the Everyday Mathematics program. Of the 61 pieces of evidence submitted by the publisher, 57 did not meet the WWC minimum standards for scientific evidence, four met evidence standards with reservations, and one of those four showed a statistically significant positive effect. Based on the four studies considered, the WWC gave Everyday Math a rating of "Potentially Positive Effect" with the four studies showing a mean improvement in elementary math achievement (versus unspecified alternative programs) of 6 percentile rank points with a range of -7 to +14 percentile rank points, on a scale from -50 to +50.[5][6]
+
+Criticism[edit]
+After the first edition was released, it became part of a nationwide controversy over reform mathematics. In October 1999, US Department of Education issued a report labeling Everyday Mathematics one of five "promising" new math programs.[7] The perceived endorsement of Everyday Mathematics and a number of other textbooks by an agency of the US government caused such outrage among practicing mathematicians and scientists that a group of them drafted an open letter to then Secretary of Education Richard Riley urging him to withdraw the report. The letter [8] appeared in the November 18, 1999 edition of the Post and was eventually signed by more than 200 prominent mathematicians and scientists including four Nobel Laureates (one of whom, Steven Chu, has since become Secretary of Energy), three Fields Medalists, a National Medal of Science winner from the University of Chicago, and the some chairs of math departments.[9]
+
+The debate has continued at the state and local level as school districts across the country consider the adoption of Everyday Math. Two states where the controversy has attracted national attention are California and Texas. California has one of the most rigorous textbook adoption processes and in January 2001 rejected Everyday Mathematics for failing to meet state content standards.[10] Everyday Math stayed off the California textbook lists until 2007 when the publisher released a California version of the 3rd edition that is supplemented with more traditional arithmetic,[11] reigniting debate at the local level.[12] In late 2007, the Texas State Board of Education took the unusual step of rejecting the 3rd edition of Everyday Math [13] after earlier editions had been in use in more than 70 districts across the state. The fact that they singled out Everyday Math while approving all 162 other books and educational materials raised questions about the board's legal powers.[14] The state of Texas dropped Everyday Mathematics, saying it was leaving public school graduates unprepared for college.[15]
+
+Notes[edit]
+Jump up ^ Chicago educational- retrieved in 2004
+Jump up ^ Max Bell was Project Director and James McBride was Project Director
+Jump up ^ Example of typical lesson online- retrieved in April 2009
+Jump up ^ WWC: is a database math interventions prepared by a contractor for the U.S. Department of Education)
+Jump up ^ Interpretation: An average (50th percentile rank) student taught with Everyday Math could be expected to perform on average as well on the measurements used in the various studies as a student in one of the comparison programs performing at the 56th percentile rank
+Jump up ^ What Works Clearinghouse Intervention Report on Everyday Mathematics, updated April 2007 - retrieved 2009-04-11
+Jump up ^ Jackson, A.;Notices of the American Mathematical Society,2000
+Jump up ^ AN OPEN LETTER TO UNITED STATES SECRETARY OF EDUCATION, RICHARD RILEY
+Jump up ^ departments : at Caltech, Cornell, Stanford, UC Irvine, University of Maryland, University of Rochester, University of Wisconsin, and Yale University
+Jump up ^ California State Board of Education 2001 Mathematics Adoption Report, January 2001 [1] Retrieved April 19, 2009
+Jump up ^ California State Board of Education 2007 Mathematics Primary Adoption Report, (2008)- Url retrieved April 19, 2009
+Jump up ^ quote by Samuels,D,2009-04- 14, "Palo Alto school-URL retrieved April 19, 2009
+Jump up ^ State Board of Education Summary of Action Items, November 16, 2007 [2] Retrieved April 19, 2009
+Jump up ^ Smith, K, (2008-01-16) "Rejection of math textbook sparks debate on state board's authority", Dallas Morning News, Retrieved April 19, 2009.
+Jump up ^ [3]
+Additional References
+About Everyday Mathematics: Research & Development. (2003) Retrieved June 27, 2006.
+Bas, Braams. (2003) Spiraling Through UCSMP Everyday Mathematics. Retrieved June 27, 2006.
+Current Curriculum: About Everyday Mathematics. (2002) Retrieved June 27, 2006.
+Knight, Michelle. (2005) Everyday Math Has Its Proponents. Retrieved June 27, 2006.
+Foundations for Success, The Final Report of the National Mathematics Advisory Panel (2008) U.S. Department of Education. Retrieved April 19, 2009
+Johnson, Jerry. (2000) Teaching and Learning Mathematics: Using Research to Shift from “Yesterday” Mind to “Tomorrow” Mind. Retrieved June 27, 2006.
+Program Components for Grades 1-6. (2003) Retrieved June 27, 2006.
+University of Chicago School Mathematics Project. (2005) . Retrieved June 29, 2006.
+Wertheimer, Richard. (2002) Forum: Making It All Add Up. Retrieved June 29, 2006.
+External links[edit]
+Everyday Mathematics Center Website
+Wright Group/McGraw-Hill Publisher Web site
+A+Click Everyday Math
+[hide] v t e
+Standards-based mathematics controversy
+Traditional mathematics	
+Mathematically Correct (David Klein) NYC HOLD Saxon math Singapore math
+Reform mathematics	
+Connected Mathematics Core-Plus Mathematics Project Everyday Mathematics Focus on Algebra Integrated mathematics Interactive Mathematics Program Investigations in Numbers, Data, and Space Mathland WASL
+Categories: Mathematics education reformCurriculaUniversity of Chicago
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+Add links
+This page was last modified on 10 November 2016, at 05:16.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

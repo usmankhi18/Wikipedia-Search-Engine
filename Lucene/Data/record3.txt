@@ -1,0 +1,182 @@
+﻿
+Moto E (2nd generation)
+From Wikipedia, the free encyclopedia
+Moto E
+Moto E2 LTE.jpg
+Moto E (2nd generation 4G LTE)
+Codename	3G Model: Otus
+4G Model: Surnia
+Manufacturer	Motorola Mobility
+Compatible networks	
+3G Model:
+GSM/GPRS/EDGE (850, 900, 1800, 1900 MHz)
+UMTS/HSPA+ up to 21 Mbps (850, 900, 1900, 2100 MHz)
+4G Model: 2G/3G/4G
+First released	February 25, 2015
+Availability by country	Yes
+Predecessor	Moto E (1st generation)
+Successor	Moto E3 Power
+Related	Moto G (2nd generation)
+Moto X (2nd generation)
+Type	Smartphone
+Form factor	Bar
+Dimensions	129.9 mm (5.11 in) H
+66.8 mm (2.63 in) W
+12.3 mm (0.48 in) D
+Weight	145 g (5.1 oz)
+Operating system	Android 5.0.2 Lollipop
+(3G Model: Upgradeable to 5.1.1 Lollipop)
+(4G Model: Upgradeable to 6.0 Marshmallow)
+System on chip	3G Model: Qualcomm Snapdragon 200
+4G Model: Qualcomm Snapdragon 410
+CPU	
+Quad-core 1.2 GHz Cortex-A7 - 3G modelARM
+
+Quad-core 1.2 GHz Cortex-A53 - LTE model ARM
+GPU	3G Model: Adreno 302
+4G Model: Adreno 306
+Memory	1 GB RAM
+Storage	8 GB Flash
+Removable storage	MicroSDHC (up to 32 GB)
+Battery	2390 mAh
+Display	
+4.5 inches IPS LCD capacitive touchscreen, 16M colors
+
+Corning Gorilla Glass 3, oleophobic coating
+Rear camera	5 MP, f/2.2, autofocus, no flash
+Front camera	(VGA)0.3 MP
+Sound	Front-facing mono speaker
+Connectivity	GPS / GLONASS, Wi-Fi 802.11 b/g/n, Bluetooth 4.0, FM Radio, Micro USB, 3.5mm audio jack
+Website	www.startwithmotoe.com
+The second generation Moto E (marketed as the New Moto E) is an Android smartphone developed by Motorola Mobility. Released on 25 February 2015, it is a successor to the Moto E released in 2014.[1] The New Moto E is an entry-level device for first-time smartphone owners or budget-minded consumers. It was made available in 40 countries worldwide.
+
+Motorola has announced that the LTE version of Moto E will be receiving an update to Android 6.0 "Marshmallow" in some countries.[2]
+
+Contents  [hide] 
+1	Hardware
+2	Software
+3	Generation comparison
+4	Models
+5	Official accessories
+6	Press release
+7	Reception
+8	References
+9	External links
+Hardware[edit]
+The second generation Moto E has a 4.5-inch qHD LCD screen, 1.2 GHz quad core processor, 1GB RAM, storage of 8GB (5.47 GB is user accessible) with microSD card slot (supports expandable storage of up to 32GB). It also has a water-resistant coating which protects it from light water splash; however, the phone itself is not water resistant. It is available in either 3G or 4G LTE. The 3G version has a Snapdragon 200 SoC while the 4G LTE version runs a Snapdragon 410 SoC.[3]
+
+The rear camera is a 5 MP shooter, but does not have a LED flash; it also has a VGA front-facing camera. It has a 2390 mAh Li-ion battery which is not user replaceable. It does not have a LED notification light as it uses Motorola's Moto Display technology, and it's the first budget phone to include this. It also features a Corning Gorilla Glass 3 display, making it scratch resistant but not shatter resistant. It does not feature a removable back cover; the SIM and Micro SD card slots are located under a removable plastic outer band - the "Motorola Band",[4] which Motorola calls "accent bands". These are available directly from Motorola in packs of three; aside from the stock black and white, there are six other colors to choose from.
+
+Software[edit]
+The smartphone was originally launched with Android 5.0.2 "Lollipop",[5] but was later updated to 5.1.1 "Lollipop".[6][7] The 4G variant of the Moto E was updated to 6.0 "Marshmallow" in February 2016.
+
+Motorola had promised that it would push future Android version updates to the Moto E. The phone was not included in the initial list to be updated to Android 6.0 "Marshmallow".[8] Motorola later announced that the LTE version of Moto E would receive the update in Canada, Latin America, Europe and Asia (except China).[9][2][10][11]
+
+Generation comparison[edit]
+1st Gen (2014)	2nd Gen (2015)	3rd Gen (2016)
+Internal storage	4 GB	8 GB	16 GB
+Display	4.3 inch	4.5 inch (256 ppi)	5 inch (294 ppi)
+Processor	Snapdragon 200	4G - Snapdragon 410
+3G - Snapdragon 200	1GHz MediaTek MT6753P
+Memory	1 GB	1 GB	2 GB
+Rear camera	5 MP	5 MP	8 MP
+Front camera	No	Yes, 0.3 MP	Yes, 5 MP
+Flash	No	No	Yes
+Quick launch camera	none	Double twist	Press power twice
+Android version	4.4 KitKat (at launch)	5.0.2 Lollipop (at launch)	6.0 Marshmallow
+Removable battery	No, 1980 mAh	No, 2390 mAh	Yes, 3500mAh
+All three generations use micro-SIMs and use micro-USB B power connectors.
+
+Models[edit]
+There are two models of the 2nd generation Moto E:[3]
+
+3G - Otus - with a Snapdragon 200
+
+XT1505 - Global models
+XT1506 - Global, Dual SIM
+XT1511 - US model
+4G/LTE - Surnia - with a Snapdragon 410
+
+XT1514 - Brazil, Dual SIM
+XT1521 - Global, Dual SIM
+XT1523 - Brazil, Dual Sim, 16 GB
+XT1524 - Global models
+XT1526 - 4G/LTE (CDMA) for Sprint (Sprint Prepaid, Boost, Virgin Mobile), US
+XT1527 - USA model
+XT1528 - 4G/LTE (CDMA) for Verizon Prepaid, US
+Official accessories[edit]
+To customize the phone, Motorola released the new Moto E in either black or white bezel. Motorola released replaceable color bands (yellow, turquoise, blue, raspberry, purple and red) in addition to larger "Grip Shell" cases.[12]
+
+Press release[edit]
+In February 2015, Motorola shipped promo boxes to various members of the press, to arrive on the 25th. Inside the box was a mock-press conference to announce the phone. Inside the box contained a miniature stage, press pass, a Moto E and replaceable color band.[13]
+
+On 18 August 2015, Lenovo announced that it had begun manufacturing Motorola smartphones at a plant in Sriperumbudur near Chennai, India run by Singapore-based contract manufacturer Flextronics International Ltd. The first smartphone manufactured at the facility was the 4G variant of the Moto E (2nd generation).[14][15]
+
+Reception[edit]
+Ars Technica liked that the phone is well-built, the screen is decent, it has near-stock Android, the phone has decent performance and has excellent battery life. They did not like the camera, the limited storage, lack of NFC for mobile payments and that the $119 model (the 3G only) doesn't have some of the $149 model's best capabilities.[16]
+
+References[edit]
+Jump up ^ "Hands On With The New Moto E". TechCrunch. AOL. 25 February 2015.
+^ Jump up to: a b "Motorola Says The Moto E 2015 Is Getting Marshmallow After All, Just Not In The USA". Android Police.
+^ Jump up to: a b "Motorola's new Moto E has LTE and a bigger screen for just $149". The Verge. Retrieved 2015-02-25.
+Jump up ^ https://motorola-global-portal.custhelp.com/app/answers/prod_answer_detail/a_id/103896/p/30,6720,9299
+Jump up ^ "The New Moto E: Super-Cheap Phones Are Getting Really Good". Wired. 2015-02-25.
+Jump up ^ Chavez, Chris (13 May 2015). "Moto E (2nd Gen) now receiving Android 5.1 update over-the-air". phandroid.com. Retrieved 24 May 2015.
+Jump up ^ "The Second Generation Moto E Is Getting Its Lollipop 5.1 OTA Update Now". androidpolice.com. 13 May 2015. Retrieved 24 May 2015.
+Jump up ^ "[WTF] Motorola Marketed The Moto E 2015 On Promise Of Updates, Is Now Apparently Ending Them After 219 Days". Android Police. 2015-10-02. Retrieved 2015-10-02.
+Jump up ^ "Marshmallow and S'more - Updated".
+Jump up ^ "[WTF] Motorola Marketed The Moto E 2015 On Promise Of Updates, Is Now Apparently Ending Them After 219 Days". Android Police.
+Jump up ^ "Moto E 2015 is going to receive the Marshmallow update after all, albeit in select regions". Android Central.
+Jump up ^ Barbara Krasnoff (25 February 2015). "First look: The new Moto E -- a better, still affordable phone". Computerworld.
+Jump up ^ "Motorola Debuts The New Moto E With A Unique Press Conference". TechCrunch. AOL. 25 February 2015.
+Jump up ^ "Make In India: Lenovo-Motorola starts making smartphones at Chennai plant". Times of India.
+Jump up ^ Moulishree Srivastava. "Lenovo starts manufacturing smartphones in India". Livemint.com/.
+Jump up ^ The new Moto E is the most phone you can get for $150. Retrieved 5 March 2015.
+External links[edit]
+Official website
+[show] v t e
+Android
+[show] v t e
+Android smartphones
+[show] v t e
+Motorola phones and smartphones by series
+Categories: Android (operating system) devicesMotorola mobile phonesSmartphonesMobile phones introduced in 2015Motorola products
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+Español
+Italiano
+Tiếng Việt
+Edit links
+This page was last modified on 30 November 2016, at 23:03.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

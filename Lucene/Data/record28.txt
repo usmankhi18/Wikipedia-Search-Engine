@@ -1,0 +1,446 @@
+﻿
+Line (application)
+From Wikipedia, the free encyclopedia
+LINE
+LINE logo.svg
+Developer(s)	Naver Corporation
+Initial release	March 2011; 5 years ago
+Operating system	Cross-platform
+Available in	Multilingual (40)
+Type	Instant messaging
+Licence	Proprietary
+Website	Official Website
+Line (styled as LINE) is a proprietary application for instant communications on electronic devices such as smartphones, tablet computers and personal computers. Line users exchange texts, images, video and audio, and conduct free VoIP conversations and video conferences. Today the popular messaging service is operated by Line Corporation, the Japanese arm of Naver Corporation.
+
+Line first launched in Japan in 2011, reaching 100 million users within eighteen months and 200 million users only six months later.[1] Line became Japan's largest social network in 2013. In October 2014 Line announced that it had attracted 560 million users worldwide with 170 million active user accounts.[2][3] In February 2015, it announced the 600 million users mark had been passed and 700 million were expected by the end of the year.[4]
+
+Line was originally developed as a mobile application for Android and iOS smartphones. The service has since expanded to BlackBerry OS (August 2012),[5] Nokia Asha (Asia and Oceania, March 2013),[6][7] Windows Phone (July 2013),[8] Firefox OS (February 2014),[9] iOS tablets (October 2014), and as a Chrome Browser Application (via the Chrome Web Store). At one point Line was available as a website (non-browser-app), but that has been discontinued. The application also exists in versions for laptop and desktop computers using the Microsoft Windows and macOS platforms.
+
+Contents  [hide] 
+1	History
+2	Market share
+3	Features
+3.1	Stickers
+3.2	Games
+3.3	Line Friends
+3.4	Stores
+4	Limitations
+5	Security
+6	Censorship
+7	Animations
+7.1	Line Offline
+7.1.1	Episodes
+7.2	Line Town
+7.2.1	Characters
+7.2.2	Episodes
+7.2.3	Theme Songs
+8	In popular culture
+9	See also
+10	References
+11	External links
+History[edit]
+Line began as a disaster response. In March 2011 the Tōhoku earthquake damaged Japan's telecommunications infrastructure nationwide, obliging employees at NHN Japan, a unit of South Korea's NHN Corporation, to rely on Internet-based resources to communicate. The company's engineers developed Line to facilitate this, and the company released their app for public use in June.[10]
+
+The application proved hugely popular and by late October Line experienced an unexpected server overload.[11] After concluding that the scalability process needed to be improved, NHN Japan chose to adopt HBase as the primary storage for user profiles, contacts, and groups.[12] Within eighteen months of its release Line reached 100 million users; six months later it reached 200 million[13][1][10] and on November 25, 2013 is used by 300 million users.[14]
+
+On July 3, 2012, NHN Japan announced the new Line features Home and Timeline. The features allowed users to share recent personal developments to a community of contacts in real-time, similar to the status updates in social networking services such as Facebook.[15]
+
+On 6 February 2013, the success of Line led NHN Japan to announce a new spinoff company named Line Corporation. Line Corporation, based in Japan, continues to develop Internet resources such as Line, the Naver Japan search portal, and the Livedoor ISP and blog platform. Games, including those for the Line Game brand, remain under the auspices of Hangame Japan. A new joint venture named Line Plus Corporation, also based in Japan, develops overseas markets. At launch the majority of Line Plus shares were held by the newly created Line Corporation (60%) with the remaining shares (40%) held by its Korean parent NHN Corporation.[13]
+
+Market share[edit]
+Line began in summer 2011 as a communication system for NHN Japan employees, then saw explosive growth when released to the public in June of that year. By 18 January 2013, Line had been downloaded 100 million times worldwide.[16] The number expanded to 140 million by early July 2013 and to 200 million by July 21.[17] As of June 2016, Japan claimed 68 million users while Thailand had 33 million.[18] As of February 2014, Indonesia had 20 million users, Taiwan 17 million, while India and Spain had 16 million each.[19] NHN company representatives announced plans to reach 300 million by further expansion in East Asia, Spain, and Chile.[20] In April 2014, Naver announced that Line had reached 400 million worldwide users.[21]
+
+Features[edit]
+Line is an application that works on multiple platforms and has access via multiple personal computers (Windows or macOS). The application will also give an option of address book syncing. This application also has a feature to add friends through the use of QR codes, by line id, and by shaking phones simultaneously. The application has a direct pop-out message box for reading and replying to make it easy for users to communicate. It also can share photos, videos and music with other users, send current or any specific location, voice audio, emojis, stickers and emoticons to friends. User can see a real-time confirmation when messages are sent and received or use a hidden chat feature, which can hide and delete a chat history after a time set by the user. The application also makes free voice and video calls. Users can also chat and share media in a group by creating and joining groups up to 500 people. Chats also provide bulletin boards on which you can post, like, and comment. This application also has timeline and homepage features that allow users to post pictures, text and stickers on their homepages. Users can also change their Line theme to the theme Line provides in the theme shop for free or users can buy other famous cartoon characters they like. Line also has a feature, called a Snap movie, that users can use to record a stop motion video and add in provided background music. Line also has the possibility to create "Hidden Chats", giving the user the ability to set a timer after which messages disappear from both involved devices and Line servers.[22]
+
+In January 2015, Line Taxi was released in Tokyo as a competitor to Uber.[23][24][25] Line launched a new android app called "Popcorn buzz" in June 2015. The app facilitates group calls with up to 200 members.[26] In June a new Emoji keyboard was also released for iOS devices, which provides a Line-like experience with the possibility to add stickers.[27] In September,2015 a new Android Launcher was released on the Play Store, helping the company to promote its own services through the new user interface.[28]
+
+Stickers[edit]
+Line features a Sticker Shop where users are able to purchase virtual stickers depicting original and well-known characters. The stickers are used during chat sessions between users and act as large sized emoji. Users can purchase stickers as gifts, with many stickers available as free downloads, depending on country availability. Purchased stickers are attached to an account and can be used on other platforms. New sticker sets are released weekly. Line's message stickers feature original characters as well as a number of popular manga, anime and gaming characters, movie tie-ins, and characters from Disney properties such as Pixar. Some sticker sets, such as those that celebrate special events like the 2012 Summer Olympics, are released for only a limited time. Default stickers were designed by South Korean artist, Kang Byung-Mok, also known as illustrator Mogi.[29]
+
+There are over 1 billion stickers sent by worldwide users on a daily basis.[30]
+
+Games[edit]
+NHN Japan created LINE GAME in 2011. Only those with an account to the Line application can install and play Line Game games. Players can connect with friends, send and accept items, and earn friend points. The game range includes puzzles, match-three, side-scroller, musical performance, simulation, battle, and spot-the-difference games. Line Corporation announced its games had been downloaded 200 million times worldwide.[citation needed]
+
+Line Friends[edit]
+Line Friends are featured characters that are shown in stickers of the application. They include Brown, Cony, Sally, James, Moon, Boss, Jessica, Edward, Leonard, Choco, Pangyo and Rangers.
+
+Stores[edit]
+There are physical stores in Japan, South Korea, China, and Taiwan and a Korean online store to purchase LINE Friends merchandise.[31] Occasionally, LINE will have pop up or temporary stores globally.
+
+Limitations[edit]
+Line accounts can be accessed on only one mobile device (running the app version), plus one personal computer (running the version for those). Additional mobile devices can install the app but require different mobile numbers or e-mail addresses for the Line account.[32][33]
+
+Security[edit]
+In August 2013, it was possible to intercept a Line chat session at the network level using packet capture software and to reconstruct it on a PC. Messages were sent in clear text to Line’s server when on cellular data but encrypted when using Wi-Fi most of the time.[34]
+
+Until February 2016, it was also possible to "clone" an iPhone from a backup, and then use the "cloned" iPhone to access the same Line account as used by the original iPhone. This loophole was widely rumored (but never proven) to have been used to intercept Line messages between the popular Japanese television personality Becky and her married romantic partner Enon Kawatani; the intercepted messages were published in the magazine Shukan Bunshun and led to the temporary suspension of Becky's television career.[35]
+
+In July 2016, Line Corporation turned on end-to-end encryption by default for all Line users.[36] It had earlier been available as an opt-in feature since October 2015.[37] The app uses the ECDH protocol for client-to-client encryption.[37] In August 2016, Line expanded its end-to-end encryption to also encompass its group chats, voice calls and video calls.[38]
+
+Censorship[edit]
+In China, Line suppresses content to conform with government censorship.[39] Analysis by Citizen Lab showed that accounts registered with Chinese phone numbers download a list of banned words that cannot be sent or received through Line.[40] The banned words reflect the usual topics proscribed by Chinese officials, such as the Tiananmen Square protests of 1989 and controversies about Tibet and Hong Kong.
+
+Line publicly confirmed the practice in December 2013:[41]
+
+LINE had to conform to local regulations during its expansion into mainland China, and as a result the Chinese version of LINE, "LIANWO," was developed. The details of the system are kept private, and there are no plans to release them to the public.
+
+— Hazuki Yamada, LINE's public relations official
+In Indonesia, Line has responded to pressure from the Indonesian Communication and Information Ministry to remove emojis and stickers it believes make reference to homosexuality, for example the emoji "two men holding hands". Line issued a public statement on the issue: "Line regrets the incidents of some stickers which are considered sensitive by many people. We ask for your understanding because at the moment we are working on this issue to remove the stickers".[42]
+
+Animations[edit]
+
+This section provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (October 2015) (Learn how and when to remove this template message)
+Line Offline[edit]
+
+It has been suggested that this section be split out into another article titled Line Offline. (Discuss) (January 2016)
+Line Offline is an animated series created by Shogakukan Productions, based on salaryman characters working at "Line Corporation". All 114 episodes last about three minutes. The series was aired from January 8, 2013, to October 1, 2013.
+
+The episodes of Line Offline are not connected to each other. The idea behind the series is to represent the ordinary life of company employees (in this case Line's employees, that's why the series is called "Line Offline"), in which every small problem could lead to weird and funny situations that require some effort in order to restore the status quo.
+
+Most characters from Line Offline are part of Line's universe (the characters who are shown in the animated series are also Line Friends, and they can be seen by users in Line Messaging App and used as emoticons).
+
+Episodes[edit]
+Episode No.	Title
+1	"Stare"
+2	"Drowsy"
+3	"Phone Calls"
+4	"Complaints"
+5	"Preso"
+6	"Meeting"
+7	"Snack"
+8	"Sleepy"
+9	"A Secret"
+10	"Tired"
+11	"Memory"
+12	"Receipt"
+13	"Lady Sally"
+14	"Stomach Ache"
+15	"Mask"
+16	"Overtime"
+17	"Fortunetelling"
+18	"Magic"
+19	"Physical Examination"
+20	"Pressure"
+21	"Surveillance"
+22	"Diet"
+23	"Security"
+24	"Club"
+25	"Souvenirs"
+26	"Lunch"
+27	"Bag"
+28	"Battery"
+29	"Cookies"
+30	"Meeting"
+31	"Dream"
+32	"Cold"
+33	"Stickers"
+34	"Talents"
+35	"Ice Cream"
+36	"Office Lovers"
+37	"Floating Tea Stalk"
+38	"Trash Can"
+39	"Garbage Can"
+40	"Rice Ball"
+41	"Tie"
+42	"Summoned"
+43	"Connie Glass"
+44	"Mr. Moon Glass"
+45	"The Manager Glass"
+46	"Drinking Party"
+47	"Mirror"
+48	"Casters"
+49	"Memory"
+50	"Pranks"
+51	"Security"
+52	"Fart"
+53	"Spilling Over"
+54	"Original"
+55	"The Ultimate Presentation Tip"
+56	"I Don't Remember"
+57	"Fortune"
+58	"Intense! Haiku Club"
+59	"The Boss Gives His All"
+60	"Moon's Dirty Room"
+61	"That Clinking Thing"
+62	"Brown in the Restroom"
+63	"Trashion Impossible"
+64	"Ponnus Ponnu?"
+65	"Prostration"
+66	"The Cockroaches Strike Back"
+67	"Loving the Centerfold"
+68	"You're my Shangri-La"
+69	"Love Those Masks"
+70	"A Mixer with Flight Attendants"
+71	"Ponnus Ponnu"
+72	"Goodbye James, Part. 1"
+73	"Goodbye James, Part. 2"
+74	"Goodbye James, (Final Part)"
+75	"Sally & the Dragon"
+76	"Double Dragon"
+77	"Outbreak"
+78	"A Sticky Situation"
+79	"Marital Fight"
+80	"Welcome, Oil Baron"
+81	"Sally's Psych Test"
+82	"Consolation Party for Moon"
+83	"Sally's Job"
+84	"Curse of the Kokeshi Doll"
+85	"A Saying He's Tempted to Use on Wednesday"
+86	"Everyone's Wok"
+87	"Umbrella of Kindness"
+88	"You're not Going Home Tonight"
+89	"Perfectionist"
+90	"Moon's Secrets Exposed!"
+91	"Just the Way Connie Is"
+92	"Itching James"
+93	"Boss! I Can't Hold It In!"
+94	"Lovely Skin! Summer Makeup!"
+95	"No Food was Wasted in the Making of This Episode"
+96	"A Celebration for the Manager"
+97	"Moon is Happy to Answer Any Question"
+98	"Connie Does Her Best"
+99	"A Trip to Hawaii for Two"
+100	"Men Who Make Everyone Wet"
+101	"Sally's Job 2"
+102	"Who Wants to be a Zillionaire?"
+103	"Oh Yeah! Let's Go to Atami!"
+104	"A Heated Meeting"
+105	"Intense Boss Story"
+106	"The Marvelous Pudding That Always Sells Out!"
+107	"The Private Life of a Capable Man"
+108	"A Little-Known Horror Called Back Pain"
+109	"A Little-Known Horror Called Money Issues"
+110	"A Little-Known Horror Called Social Hierarchy"
+111	"The Last Salaryman: Part One"
+112	"The Last Salaryman: Part Two"
+113	"The Last Salaryman: Part Three"
+114	"The Making of The Last Salaryman"
+Line Town[edit]
+
+It has been suggested that this section be split out into another article titled Line Town. (Discuss) (January 2016)
+Characters[edit]
+Moon (voiced by Toshiyuki Morikawa) is a manjū-shaped-headed man who loves the moon. His interest is playing video games. He sometimes tricks his friends when he is bored. His father is an adventurer.
+
+Cony (voiced by Aki Kanada) is a rabbit with a pleasant personality. She likes to go on a diet.
+
+Brown is a bear who likes salmon a lot. He is silent, and has a crush on Cony. He becomes scary when he gets angry, and notes appears when he feels good.
+
+James (voiced by Yūto Kazama) is a narcissist with long, blonde hair. He is obsessed with his appearance, and is afraid of high places.
+
+Sally (voiced by Atsuko Enomoto) is a chick who usually helps her friends. She often stays in the windmill tree hollow in the park. She likes karaoke.
+
+Jessica (voice by Sachi Kokuryū) is a cat who is knowledgeable about fashion and loves to cook a lot. She is Cony's best friend.
+
+Boss/Mister (voiced by Nobuo Tobita) is an almost completely bald middle-aged man with glasses. He appears as many different identities in every episode.
+
+Leonard (voiced by Megumi Han) is a little frog boy that looks up to Moon. He refers to Moon as an "elder brother". ("Longing For")
+
+Edward is a green worm with a cap who often stays by Sally's side.
+
+Cob Taro (voiced by Nobuo Tobita) is a cobra with a Mohawk hairstyle and an eye patch that escaped from the zoo and now has a part-time job at the burger shop.
+
+Dorothy (voiced by Chie Kōjiro) is a hen who likes to take gossips. Cony fears her.
+
+Mr. Kinoko (voiced by Mitsuru Ogata) is a beaver who owns a mushroom dish restaurant and can cook mushroom dishes very well. Kinoko is the Japanese word for mushrooms.
+
+Episodes[edit]
+Episode No.	Title
+1	"Birthday" / "Hole"
+2	"Salmon-chan" / "Party"
+3	"Pinch" / "Smile"
+4	"Meet Again" / "Shadow"
+5	"Divine" / "Art"
+6	"Lottery" / "Quiz"
+7	"Treasure" / "Brothers"
+8	"Sleeping Habit" / "Diet"
+9	"Bad Hair" / "Leader"
+10	"Model" / "Hero"
+11	"Mud Balls" / "Ill-Lying"
+12	"Scoop" / "Typhoon"
+13	"Camp" / "Audition"
+14	"Desire" / "Babysitter"
+15	"The Seventh" / "Devil Zombie" (Line Town Halloween Specials)
+16	"Friends" / "Salusa"
+17	"Space (Part 1)" / "Space (Part 2)"
+18	"Mister" / "Beach"
+19	"Small" / "Big"
+20	"Ice" / "Mr. Robot"
+21	"Ninjas" / "Bottle Opener"
+22	"Car" / "Jessica"
+23	"Job" / "Insist"
+24	"Where?" / "Train"
+25	"Corn" / "Magic"
+26	"Together" / "Playing Cards"
+27	"Spies" / "Pirates"
+28	"Judge" / "Broken"
+29	"Once in Time" / "Happiness"
+30	"Copies" / "Run Errands"
+31	"Dorothy" / "Weather"
+32	"Galaxy"
+33	"Mr. Kinoko" / "Mountain Climbing"
+34	"Musical" / "Evening"
+35	"Good at Compliments" / "Apple"
+36	"Cheerleaders" / "Part-Time"
+37	"Stationary" / "Longing For"
+38	"Can-Kicking" / "Upset"
+39	"Father" (Line Town Christmas Special)
+40	"Line Five" (Line Town Hero Special)
+41	"Lake" / "Seed"
+42	"Rickshaw" / "Dark Mr. Robot"
+43	"Wild" / "Meatball"
+44	"Beanstalk" / "Pie"
+45	"Turnover" / "Hospitality"
+46	"Line Five 2" (Line Town Hero Special 2)
+47	"Secret" / "Deal With"
+48	"Positive" / "Fake"
+49	"Tiny" / "Son"
+50	"Dice" / "Line Town"
+Theme Songs[edit]
+Opening
+"AIUEOngaku" by Greeeen
+Ending
+"Millefeuille Nights" by Shōko Nakagawa
+"Marshmallow" by Kerakera
+In popular culture[edit]
+On November 20, 2012, Line was shown in Far East Movement's music video, featuring Sidney Samson, for the song "Change Your Life". DJ Virman is seen chatting with Sidney Samson at the middle of the music video.[43]
+
+On December 16, 2012, the Line application was shown in rap artist Big Sean's music video for the song "Guap".[44]
+
+On May 16, 2014, Warner Music Italy released the music video for Italian singer Annalisa's "Sento solo il presente", in which the recording artist is seen using the Line application at the beginning of the video.[45]
+
+See also[edit]
+Comparison of instant messaging clients
+References[edit]
+^ Jump up to: a b "Line Hits 200 Million Users, Adding 100 Million in Just 6 Months". Tech In Asia. 23 July 2013. Retrieved 24 July 2013.
+Jump up ^ Horwitz, Josh (9 October 2014). "Line finally reveals it has 170 million monthly active users".
+Jump up ^ Akky Akimoto, 2013-12-17, Looking at 2013′s Japanese social-media scene, The Japan Times
+Jump up ^ "Number of Line users to top 700 mil. this year". Korea Times. 8 February 2015. Retrieved 16 August 2016.
+Jump up ^ "Line is Now Available for BlackBerry!". Line Official Blog. Line Global. 17 August 2012. Retrieved 8 July 2013.
+Jump up ^ "Line for Nokia 'Asha' Device Scheduled to be released in March 2013!". Line Official Blog. Line Global. 26 February 2013. Retrieved 8 July 2013.
+Jump up ^ Steven Millward (26 February 2013). "Line App to Hit Nokia Asha Phones in March, Keen to Chat Up Emerging Markets". Tech In Asia. Tech In Asia. Retrieved 8 July 2013.
+Jump up ^ Rick Martin (13 June 2012). "NHN Japan Launches Popular Line App for Windows Phone". Yahoo! Sports. Yahoo! Inc. Retrieved 8 July 2013.
+Jump up ^ Scott DeVaney (4 February 2014). "Line Lands on Firefox Marketplace". Mozilla Apps Blog. Mozilla Foundation. Retrieved 4 March 2014.
+^ Jump up to: a b Saito, Mari (16 August 2012). "Born from Japan disasters, Line app sets sights on U.S., China". Reuters. Retrieved 8 July 2013.
+Jump up ^ "Naver Line App is Back Online in App store". My Phone Daily. WordPress. 1 November 2011. Retrieved 8 July 2013.
+Jump up ^ Esen Sagynov (2012). "The Story behind Line App Development". CUBRID.org. CUBRID.org. Retrieved 8 July 2013.
+^ Jump up to: a b http://thenextweb.com/asia/2013/02/06/nhn-japan-spins-off-its-line-messaging-business-to-focus-on-its-international-expansion/
+Jump up ^ "Line messaging app doubles size in seven months, has 300 million users". Retrieved November 25, 2013.
+Jump up ^ Dr. Serkan Toto (4 July 2012). "Line App Gets More Social With "Home" And "Timeline" Features [Social Networks]". Dr. Serkan Toto - Japan Mobile And Social Games Consulting. Dr. Serkan Toto - Japan Mobile And Social Games Consulting. Retrieved 8 July 2013.
+Jump up ^ Josh Robert Nay (19 January 2013). "Line VoIP and Messaging App Now Has More Than 100 Million Users". TruTower. TruTower. Retrieved 8 July 2013.
+Jump up ^ "Line exceeds 200 million users worldwide!". 23 July 2013. Retrieved 23 July 2013.
+Jump up ^ "Line to raise $1bn in IPO". Bangkok Post. 11 June 2016. Retrieved 11 June 2016.
+Jump up ^ "Number of registered Line app users in selected countries as of February 2014 (in millions)". statista.
+Jump up ^ John Ure (7 July 2013). "Asia's Internet challenge". Live Mint & The Wall Street Journal. Retrieved 8 July 2013.
+Jump up ^ "Line app tops 400 million users". China Post. 3 April 2014. Retrieved 3 April 2014.
+Jump up ^ Jon Russel (22 July 2014). "Messaging app Line gets serious about privacy with Telegram-inspired 'hidden chat' feature". TheNextWeb. Retrieved 24 November 2014.
+Jump up ^ Vincent, James (8 January 2015). "Japanese messaging app Line has launched a taxi service in Tokyo". The Verge. Retrieved 3 September 2015.
+Jump up ^ Cohen, Dave (6 January 2015). "Line Taxi launches, gives Uber first major challenger in Japan". Tech In Asia. Retrieved 3 September 2015.
+Jump up ^ Kosoff, Maya (8 January 2015). "This Japanese Messaging App Is Launching Its Own Taxi Service To Take On Uber". Business Insider. Retrieved 3 September 2015.
+Jump up ^ http://previewtech.net/popcorn-buzz-app-line/
+Jump up ^ http://techcrunch.com/2015/06/17/you-wont-use-our-messaging-app-so-heres-a-funky-keyboard/
+Jump up ^ http://techcrunch.com/2015/08/31/messaging-firm-line-introduces-a-launcher-app-for-android-devices/
+Jump up ^ http://groovemogi.tistory.com
+Jump up ^ "Taiwan market has great potential for Line". ZDNet. 27 November 2013. Retrieved 10 December 2013.
+Jump up ^ http://store.linefriends.com/
+Jump up ^ "FAQ: Can I use the same Line account from multiple devices?". Retrieved December 30, 2013.
+Jump up ^ http://help.line.me/line/?lang=en#20000132
+Jump up ^ Sambandaraksa, Don (28 August 2013). "LINE vulnerable to man-in-the-middle attack". Telecomasia.net.
+Jump up ^ "LINE"盗み見"に対策　「クローンiPhone」不可能に". ITmedia News. 22 February 2016. Retrieved 30 May 2016.
+Jump up ^ Sawers, Paul (30 June 2016). "Ahead of IPO, mobile messaging giant Line introduces end-to-end encryption by default". VentureBeat. Retrieved 15 July 2016.
+^ Jump up to: a b JI (13 October 2015). "New generation of safe messaging: "Letter Sealing"". LINE Engineers' Blog. LINE Corporation. Retrieved 15 July 2016.
+Jump up ^ Shin, Ki Bin (11 August 2016). "The next step for even safer messaging: Letter Sealing". Line Corporation. Retrieved 30 September 2016.
+Jump up ^ "Asia Chats: Investigating Regionally-based Keyword Censorship in LINE". 14 November 2013. Retrieved 4 November 2014.
+Jump up ^ "Asia Chats: LINE Censored Keywords Update". 30 April 2014. Retrieved 4 November 2014.
+Jump up ^ "Asia Chats: LINE Corporation Responds". 6 December 2013. Retrieved 4 November 2014.
+Jump up ^ "Indonesia bans 'gay' emojis on messaging apps". 12 February 2016. Retrieved 12 February 2016.
+Jump up ^ https://www.youtube.com/watch?v=aRt7UERrrss
+Jump up ^ BigSeanVEVO (16 December 2012). "Big Sean - Guap (Explicit)" (Video upload). YouTube. Google, Inc. Retrieved 8 July 2013.
+Jump up ^ "Annalisa - Sento solo il presente (Videoclip Ufficiale) - YouTube". Warner Music Group (WMG) Italy. 16 May 2014. Retrieved 14 November 2014.
+External links[edit]
+Official Site: LINE
+Official Site: Line Corporation
+Official Site: About NHN Corp and Naver
+The Next Web article 2013.02.06
+Japan Times article 2012.07.18
+[hide] v t e
+Instant messaging
+Protocols
+(comparison)	
+Open
+IMPP IRC Matrix MTProto RetroShare Signal Protocol SIP MSRP SIMPLE Tox XMPP Jingle WFP Zephyr
+Closed
+MSNP OSCAR TOC Skype YMSG
+Services	
+Allo AOL Instant Messenger Atlassian HipChat BAND BlackBerry Messenger Facebook Messenger Google Hangouts Google Talk GroupMe Hike Messenger ICQ iMessage indoona IRC Networks KakaoTalk Kik Libon Line Microsoft Messenger service Nimbuzz ooVoo Palringo Signal Skype Skype Qik Slack Snapchat Tango Telegram QQ Threema Tox Upptalk Viber WeChat WhatsApp Windows Messenger service Yahoo! Messenger
+Clients
+(comparison)	
+Single protocol
+Allo AIM Baidu Hi BlackBerry Messenger CSipSimple Facebook Messenger FaceTime Fetion Gadu-Gadu GroupMe IBM Sametime ICQ IMVU indoona Linphone Palringo RetroShare Ricochet SFLphone Signal Skype Telegram Tencent QQ Tox WeChat WhatsApp Yahoo! Messenger
+Multi-protocol
+Adium Ayttm BitlBee Centericq eBuddy Empathy Fire Gizmo5 Instantbird Jitsi Kopete Messages/iChat Microsoft Lync Miranda IM Nimbuzz Pidgin QIP 2010 Trillian Telepathy Upptalk Xfire
+XMPP (Jabber)
+Bombus Conversations Facebook Chat Gajim Google Talk Psi Tkabber Spark
+MSNP
+aMSN emesene Windows Live Messenger Windows Messenger Skype
+See also	
+Backchannel Buddy profile Chat log Chatterbot Contact list Emoticon File sharing IM bot Instant message service center LAN messenger Mobile instant messaging Presence information Shoutbox SMS language Status message Videoconferencing Videophone Voice over IP Webcam Web chat Circuit eXo Platform FirstClass Flock Fuze Box Glip Hall.com Lua Yammer
+Categories: Android (operating system) softwareIOS softwareNaver CorporationJapanese brandsBlackBerry softwareSymbian softwareFirefox OS softwareInstant messaging clientsCross-platform softwareCommunication softwareVoIP softwareWindows Phone software2011 softwareUniversal Windows Platform apps
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+العربية
+বাংলা
+Bân-lâm-gú
+Català
+Dansk
+Deutsch
+Español
+Esperanto
+فارسی
+Français
+한국어
+Bahasa Indonesia
+Italiano
+עברית
+日本語
+ଓଡ଼ିଆ
+Русский
+ไทย
+Türkçe
+Türkmençe
+中文
+Edit links
+This page was last modified on 6 December 2016, at 12:30.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

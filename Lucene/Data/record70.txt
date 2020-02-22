@@ -1,0 +1,226 @@
+﻿
+Flappy Bird
+From Wikipedia, the free encyclopedia
+Flappy Bird
+Flappy Bird icon.png
+Flappy Bird icon
+Developer(s)	dotGEARS
+Publisher(s)	dotGEARS
+Designer(s)	Nguyễn Hà Đông
+Platform(s)	Android, iOS
+Release date(s)	
+WW: May 24, 2013
+Genre(s)	Arcade
+Mode(s)	Single-player
+Flappy Bird is a 2013 mobile game developed by Vietnamese artist and programmer Dong Nguyen, under his game development company dotGEARS.[1] The game is a side-scroller where the player controls a bird, attempting to fly between rows of green pipes without hitting them. The developer created the game over several days, using a bird protagonist which he had designed for a cancelled game in 2012.
+
+The game was released in May 2013 but received a sudden rise in popularity in early 2014. It was criticized for its level of difficulty and alleged plagiarism in graphics and game mechanics, while other reviewers found it addictive. At the end of January 2014, it was the most downloaded free game in the iOS App Store. During this period, its developer claimed that Flappy Bird was earning $50,000 a day from in-app advertisements as well as sales.
+
+Flappy Bird was removed from both the App Store and Google Play by its creator on February 10, 2014, due to guilt over what he considered to be its addictive nature and overuse. The game's popularity and sudden removal caused phones with it pre-installed to be put up for sale for high prices over the Internet.[2][3][4] Games similar to Flappy Bird became popular on the iTunes App Store in the wake of its removal, and both Apple and Google have removed games from their app stores for being too similar to the original. The game has also been distributed through unofficial channels on multiple platforms.
+
+In August 2014, a revised version of Flappy Bird, called Flappy Birds Family, was released exclusively for the Amazon Fire TV. Bay Tek Games also released a licensed coin-operated Flappy Bird arcade game.[5]
+
+Contents  [hide] 
+1	Gameplay
+2	Development
+3	Release
+3.1	Discontinuation
+3.2	Legacy
+4	Reception
+4.1	Controversies and criticism
+5	References
+Gameplay[edit]
+
+The aim of Flappy Bird is to navigate the bird through the green pipes. The player scores one point for each set of pipes successfully passed.
+Flappy Bird was a side-scrolling mobile game featuring 2D retro style graphics. The objective was to direct a flying bird, named "Faby",[6] who moves continuously to the right, between sets of Mario-like pipes. If the player touches the pipes, they lose. Faby briefly flaps upward each time that the player taps the screen; if the screen is not tapped, Faby falls because of gravity; each pair of pipes that he navigates between earns the player a single point, with medals awarded for the score at the end of the game.[7] No medal is awarded to scores less than ten. A bronze medal is given to scores between ten and twenty. In order to receive the silver medal, the player must reach 20 points. The gold medal is given to those who score higher than thirty points. Players who achieve a score of forty or higher receive a platinum medal. Android devices enabled the access of world leaderboards, through Google Play.[8]
+
+There was no variation or evolution in gameplay throughout the game, as the pipes always have the same gap between them and there is no end to the running track, having only the flap and ding sounds and the rising score as rewards.[9]
+
+Development[edit]
+Dong Nguyen grew up in Vạn Phúc, a village near Hanoi. He discovered video games by playing Super Mario Bros. as a child, and began coding his own at age 16. At 19, while studying programming at a local university, he won an internship at Punch Entertainment, one of the few video game companies in Vietnam. While using the iPhone, he found that its most popular games such as Angry Birds were too complicated, and wanted to make a simpler game for people who are "always on the move".[10]
+
+Flappy Bird was created and developed by Nguyen in two to three days. The bird character, Faby, was originally designed in 2012 for a cancelled platform game.[11] The gameplay was inspired by the act of bouncing a ping pong ball against a paddle for as long as possible.[12] Initially the game was significantly easier than it became in the final version, however Nguyen said he found this version to be boring and subsequently tightened up the difficulty.[12] He described the business plan of a free download with in-game advertisements as "very common in the Japanese market".[13]
+
+Nguyen believes that contemporary Western games are overly complex.[11] His company, dotGEARS, describes its games as "heavily influenced by retro pixelated games in its golden age. Everything is pure, extremely hard and incredibly fun to play".
+
+Release[edit]
+Flappy Bird was originally released on May 24, 2013,[14] with support for the iPhone 5. The game was subsequently updated for iOS 7 in September 2013. In January 2014, it topped the Free Apps chart in the US and Chinese App Stores,[15] and later that month topped the same section of the UK App Store where it was touted as "the new Angry Birds".[1] It ended January as the most downloaded App on the App Store.[16] The Android version of Flappy Bird was released to the Google Play store on January 30, 2014.[17] In early 2014, Nguyen claimed in an interview with The Verge that the game was earning around $50,000 a day in revenue through its in-game advertising.[13]
+
+Discontinuation[edit]
+On February 8, 2014, Nguyen announced on Twitter that the game was to be removed from both Apple's App Store and Google Play, writing: "I am sorry 'Flappy Bird' users, 22 hours from now, I will take 'Flappy Bird' down. I cannot take this anymore."[18] He went on to say that taking down the game has "nothing to do with legal issues".[19] The game was removed from both Apple's App Store and Google Play exactly on time,[20][21] much to the dismay of many fans.[22][23]
+
+Tuoi Tre News, an English-language newspaper in Vietnam, reported from a local technology expert that Flappy Bird's removal could have been due to a legal challenge from Nintendo over perceived visual similarities to Mario games.[24] This allegation was denied by a Nintendo spokesman to The Wall Street Journal.[25] Lawyers in Vietnam also denied allegations that Nguyen had to remove the game due to violating new laws on internet use in the country.[23][25]
+
+Following the removal, many media outlets reported that several merchants on eBay were offering phones which had the app pre-installed for US$1,499 or more, with some receiving bids of over $90,000;[2][3][4][23] however, the listings were removed for violating eBay's rule stating that smartphones must be restored to factory settings before being sold.[26]
+
+In an interview with Forbes, Nguyen cited the game's addictive nature for its cancellation, stating: "Flappy Bird was designed to play in a few minutes when you are relaxed. But it happened to become an addictive product. I think it has become a problem. To solve that problem, it's best to take down Flappy Bird. It's gone forever." Nguyen said that the guilt that he felt over the game was affecting his sleep, and that his conscience was relieved after he took down the game.[27]
+
+In a March 2014 interview with Rolling Stone, Nguyen refused to rule out re-releasing Flappy Bird, on condition that it would come with a warning to "Take a break".[10] On March 19, he announced via Twitter that the game will be rereleased onto App Stores, but not anytime soon.[28] On May 15, Nguyen told CNBC's Kelly Evans that the game would return in August, with multiplayer capability and will be "less addictive".[29]
+
+As Nguyen had promised, August 2014 saw a revised version of Flappy Bird, called Flappy Birds Family, released exclusively through the Amazon Appstore for the Amazon Fire TV platform.[30] The new version also features new obstacles not in the original as well as an additional multiplayer option.[30]
+
+Despite August seeing the comeback of Flappy Bird, there currently is no word for when Nguyen will rerelease the game for Apple's App Store. The game's rerelease prediction for these app stores never actually was officially announced,[31] though it was planned that the original game, as Nguyen had mentioned in March, "will be rereleased onto App Stores, but not anytime soon".
+
+Legacy[edit]
+The removal has spawned remakes and parodies of the game,[27] such as Sesame Street's Flappy Bert[32] and Fall Out Boy's Fall Out Bird.[33] Flappy Bird became one of the most cloned games in Apple's App Store.[34] At the peak of its popularity, over 60 clones per day[35] were appearing on the App Store, prompting both Google and Apple to begin rejecting games with the word "Flappy" in the name.[36] CNET reviewed seven "Flappy copycats" for iOS two days after the original game's removal, describing the options as "pretty bleak", but singling out the underwater Splashy Fish as the closest approximation of Flappy Bird.[37][38][39]
+
+Shortly after the game's removal, security researchers warned that some versions of Flappy Bird and its imitators available on alternative Android app stores have been found to contain malware that can lead to unauthorised charges to a user's phone bills. The number matching game Threes has been compared to Flappy Bird because of the similarities between how people react to them and by the chain of clones that they are both respectively part of.[40]
+
+In February 2014, the non-profit computer science education organization Code.org unveiled a set of lessons that would allow the student to make their own Flappy Bird clone.[41][42]
+
+Nguyen's other games Super Ball Juggling and Shuriken Block ranked at 6th and 18th respectively on the App Store during early February 2014 on the back of Flappy Bird's success.[27] He revealed in March 2014 that he is currently developing three other games, in similar formats to his previous releases.[10]
+
+An Easter egg in Android 5.0 (Lollipop) allows users to play a modified version of Flappy Bird involving a flying Android and Lollipops replacing the pipes.[43]
+
+On New Year's Eve in 2014, Google displayed an animated Google Doodle featuring Flappy Bird as one of the year's most searched phenomena, alongside the World Cup, the Ice Bucket Challenge and the Philae spacecraft.[44]
+
+Reception[edit]
+Reception
+Aggregate scores
+Aggregator	Score
+GameRankings	48.17%[45]
+Metacritic	52/100[46]
+Review score
+Publication	Score
+IGN	5.4/10[47]
+Flappy Bird received generally mixed reviews from critics, with a Metacritic score of 52/100 based upon seven reviews[46] and a score of 48.17% based upon six reviews on GameRankings.[45] The app was criticized by the Huffington Post, which described it as an "insanely irritating, difficult and frustrating game which combines a super-steep difficulty curve with bad, boring graphics and jerky movement".[48] IGN gave the game a mediocre score of 5.4 out of 10, quipping that the game is as addictive as it was shallow. Despite criticizing its playability and its "no skill" requirement, IGN noted that the gameplay made it "an addictive short-term distraction" for the casual skill and score-obsessed players.[47] The game's difficulty has been a source of ire for many users, with one user stating that it took him half an hour to achieve a score of five points.[49] According to its creator, the game is slightly easier on Android devices than on iOS.[50][51]
+
+Nolan Bushnell, the creator of the video game Pong, compared Flappy Bird to his own game by claiming that "simple games are more satisfying".[10] John Romero, a co-creator of the classic first-person shooter Doom, commented that Flappy Bird is "a reaction against prevailing design the way grunge was a reaction to metal."[10]
+
+Controversies and criticism[edit]
+When questioned at the time by Chocolate Lab Apps, a website for app developers, Nguyen claimed to have used no promotional methods in the marketing of Flappy Bird. He credited the sudden rise in the game's popularity in early 2014 to possibly "luck".[11] However, online marketer Carter Thomas suspected that the developer had used bots to cause its success.[52] When questioned on this by The Daily Telegraph, Nguyen said that he respected other people's opinions and did not wish to comment, adding "I'd like to make my games in peace."[53] When Newsweek inquired about the matter, Nguyen said "If I did fake it, should Apple let it live for months." [54]
+
+The game was criticised by Kotaku for what it claimed was open use of Mario-style graphics,[55] referring to it as "ripped-off art". It later published a correction, clarifying that the game's green pipe was "a new albeit unoriginal drawing".[56]
+
+According to some Vietnamese newspapers, including Thanh Niên and BBC Vietnamese, Flappy Bird is very similar to a game released in 2011 (two years before Flappy Bird) called Piou Piou vs. Cactus, from the gameplay (by tapping on the screen) to the main character design (a small yellow bird with big red beak) to the obstacles (green cacti and pipes).[57] It is reported that several French newspapers such as 20 Minutes and Metronews accused Flappy Bird of being a clone.[58] The reporter from Thanh Niên Online tried playing Piou Piou vs. Cactus and confirmed that the similarities between the two games are astonishing.[59]
+
+The French developer of Piou Piou vs. Cactus, known as Kek, told Pocket Gamer that he, too, noticed that Flappy Bird is "very similar" to his earlier game, but when he contacted Nguyen about it, Nguyen claimed that he did not know anything.[60] Technology editor Patrick O'Rourke of canada.com also charged that Flappy Bird is "almost a complete ripoff" of Piou Piou vs Cactus, as well as that its primary gameplay mechanic is a "rip off" from a game called Helicopter Game, and that it heavily borrowed sound effects from Super Mario Bros. games.[61]
+
+References[edit]
+^ Jump up to: a b Williams, Rhiannon. "What is Flappy Bird? The game taking the App Store by storm". The Daily Telegraph. Retrieved January 30, 2014.
+^ Jump up to: a b McCracken, Harry (February 9, 2014). "Where to Get Flappy Bird: On eBay, for $900. Cheap". Time. Retrieved February 9, 2014.
+^ Jump up to: a b Molina, Brett (February 10, 2014). "Phones with 'Flappy Bird' app fetching big bids on eBay". USA Today. Retrieved February 10, 2014.
+^ Jump up to: a b Thier, Dave (February 10, 2014). "'Flappy Bird' Price Skyrocketing on eBay". Forbes. Retrieved February 10, 2014.
+Jump up ^ "Bay Tek Games | Video Redemption - Flappy Bird". www.baytekgames.com. Retrieved 2016-07-10.
+Jump up ^ "Twitter / davidkushner: My email interview today w/ @dongatory about his next Flappy Bird game – and meeting @NolanBushnell at #WiredBizCon". Twitter. Retrieved July 18, 2014.
+Jump up ^ Haynes, Danielle. "Flappy Birds dominates app lists". United Press International. Retrieved January 30, 2014.
+Jump up ^ Moscaritolo, Angela. "Flappy Bird Tops App Store Charts, Headed to Windows Phone". PCmag. PCMag UK. Retrieved September 11, 2014.
+Jump up ^ Ingenito, Vince (February 7, 2014). "Flappy Bird Review". IGN. Retrieved February 26, 2014.
+^ Jump up to: a b c d e Kushner, David (March 11, 2014). "The Flight of the Birdman: Flappy Bird Creator Dong Nguyen Speaks Out". Rolling Stone. Retrieved March 15, 2014.
+^ Jump up to: a b c Heney, Elaine (January 31, 2014). "How to make Flappy Bird, #1 app – Interview with game developer Dong Nguyen: Updated". Chocolate Lab Apps.
+^ Jump up to: a b Crecente, Brian. "Flappy Bird creator says game was inspired by bouncing a ping pong ball on a paddle". Polygon. Retrieved June 13, 2015.
+^ Jump up to: a b Ellis Hamburger (February 5, 2014). "Indie smash hit 'Flappy Bird' racks up $50K per day in ad revenue". The Verge. Retrieved February 6, 2014.
+Jump up ^ "Flappy Bird – Android". IGN. Retrieved February 9, 2014.
+Jump up ^ Hodapp, Eli (January 31, 2014). "'Super Ball Juggling' and 'Shuriken Block' Join 'Flappy Bird' in Top Free Downloads Chart". TouchArcade. Retrieved February 9, 2014.
+Jump up ^ Sentinel, The. "As frustrated Stokies blast Flappy Bird game on Twitter we ask: What's your favourite smartphone app?". Stoke Sentinel. Retrieved January 31, 2014.
+Jump up ^ "Flappy Birds' popularity on iOS leaves 'experts' baffled". NDTV. February 1, 2014. Retrieved February 9, 2014.
+Jump up ^ "Twitter / dongatory: I am sorry 'Flappy Bird' users". Twitter. Retrieved February 9, 2014.
+Jump up ^ "Twitter / dongatory: It is not anything related". Twitter. Retrieved February 9, 2014.
+Jump up ^ Molina, Brett. "Developer says he's taking down popular 'Flappy Bird'". usatoday. USA Today. Retrieved September 11, 2014.
+Jump up ^ Haselton, Todd (February 9, 2014). "Flappy Bird Removed From App Store". TechnoBuffalo. Retrieved February 9, 2014.
+Jump up ^ Hooton, Christopher (February 10, 2014). "Flappy Bird creator Dong Nguyen receives death threats on Twitter". The Independent. Retrieved March 15, 2014.
+^ Jump up to: a b c Ingenito, Vince. "Flappy Bird creator to take game down tomorrow". IGN. IGN UK. Retrieved September 11, 2014.
+Jump up ^ "The rise and fall of Flappy Bird, spurred by the media". Tuoi Tre News. February 10, 2014. Retrieved March 17, 2014.
+^ Jump up to: a b Purnell, Newley (February 10, 2014). "Nintendo: No Complaints About 'Flappy Bird'". The Wall Street Journal. Retrieved February 14, 2014.
+Jump up ^ Trenholm, Rich (February 13, 2014). "Flappy Bird phones kicked off eBay". CNET.
+^ Jump up to: a b c Nguyen, Lan Anh. "Exclusive: Flappy Bird Creator Dong Nguyen Says App 'Gone Forever' Because It Was 'An Addictive Product'". Forbes. Retrieved February 11, 2014.
+Jump up ^ Molina, Brett (March 19, 2014). "Creator says 'Flappy Bird' making comeback". USA Today. Retrieved March 19, 2014.
+Jump up ^ Langer, Eli. "Flappy Bird 'addicts' rejoice! App will return soon". CNBC. Retrieved May 15, 2014.
+^ Jump up to: a b Tyrrel, Brandon. "FLAPPY BIRD RETURNS WITH NEW FEATURES". IGN. Retrieved August 5, 2014.
+Jump up ^ Tyrrel, Brandon. "Flappy Bird Rerelease Date for Mobile Devices Is Unknown". IGN. Retrieved September 26, 2014.
+Jump up ^ Makuch, Eddie (February 12, 2014). "Sesame Street takes on Flappy Bird with 'Flappy Bert'". Gamespot. CBS Interactive. Retrieved February 12, 2014.
+Jump up ^ Makuch, Eddie (February 12, 2014). "Fall Out Boy to release their own Flappy Bird game". Gamespot. CBS Interactive. Retrieved February 12, 2014.
+Jump up ^ "Over 800 Flappy Bird Clones Still Exist: Here are the Most Ridiculous – Digital Trends". Digital Trends. March 5, 2014.
+Jump up ^ Paul Tassi (March 6, 2014). "Over Sixty 'Flappy Bird' Clones Hit Apple's App Store Every Single Day". Forbes.
+Jump up ^ "Apple & Google Begin Rejecting Games With "Flappy" In The Title". TechCrunch. AOL.
+Jump up ^ Parker, Jason (February 11, 2014). "The search for an awesome Flappy Bird replacement". CNET. Retrieved February 12, 2014.
+Jump up ^ "Play this: 'Flappy Bird' lives on in 'Flappy Doge'". The Verge. Retrieved February 10, 2014.
+Jump up ^ "Flappy Bird is now a competitve MMO". Geek.com. Retrieved February 13, 2014.
+Jump up ^ Sarah Perez (March 24, 2014). "Clones, Clones Everywhere – "1024," "2048" And Other Copies Of Popular Paid Game "Threes" Fill The App Stores". AOL Inc. Retrieved March 25, 2014.
+Jump up ^ Lowensohn, Josh. "Code.org turning the ashes of 'Flappy Bird' into a phoenix of coding education". The Verge. Retrieved December 6, 2014.
+Jump up ^ Suba, Randell. "Code.org cashes in on Flappy Bird craze: Code your own Flappy game". Tech Times. Retrieved December 6, 2014.
+Jump up ^ Gunther, Cory (October 17, 2014). "Android 5.0 Easter Egg is Flappy Birds". Gotta Be Mobile. Notebooks.com, Inc. Retrieved February 3, 2015.
+Jump up ^ Watts, Jack (December 31, 2014). "Google looks back at 2014 trending topics with New Year's Eve 2014 Google Doodle". Daily Express. Retrieved January 1, 2015.
+^ Jump up to: a b "Flappy Bird Revirws on GameRankings". GameRankings. Retrieved November 28, 2014.
+^ Jump up to: a b "Flappy Bird Reviews on Metacritic". Metacritic. Retrieved February 9, 2014.
+^ Jump up to: a b Ingenito, Vince. "Flappy Bird Review". IGN. IGN UK. Retrieved September 11, 2014.
+Jump up ^ "Flappy Bird Tips: How To Get A High Score Without Cheats". Huffington Post. Retrieved January 31, 2014.
+Jump up ^ Mike Bertha, Philly.com (October 22, 2012). "Everything you need to know about your new favorite cell phone game, 'Flappy Bird'". Philadelphia Daily News. Retrieved January 31, 2014.
+Jump up ^ "Twitter / dongatory: @dmatttx Yes, it is easier on Android". Twitter. Retrieved January 31, 2014.
+Jump up ^ "Flappy Bird Android app easier than iOS » Phone Reviews". Phonesreview.co.uk. Retrieved January 31, 2014.
+Jump up ^ "Flappy Bird's Smoke & Mirrors – Is Something Fishy Going On?". Blue Cloud Solutions. Retrieved February 5, 2014.
+Jump up ^ Williams, Rhiannon (February 4, 2014). "Flappy Bird: 'too good to be true?'". The Daily Telegraph. Retrieved February 5, 2014.
+Jump up ^ Kloc, Joe (February 4, 2014). "Is Flappy Bird Cooking its iTunes Rank?". Newsweek. Retrieved February 4, 2014.
+Jump up ^ Totilo, Stephen. "The Flappy Bird Fiasco". Kotaku. Kotaku. Retrieved September 11, 2014.
+Jump up ^ Schreier, Jason (February 6, 2014). "Flappy Bird Is Making $50,000 A Day Off Ripped Art". Kotaku. Retrieved February 9, 2014.
+Jump up ^ BBC Vietnamese. Flappy Bird bị cha đẻ khai tử. BBC. February 9, 2014. URL:http://www.bbc.co.uk/vietnamese/vietnam/2014/02/140209_flappy_bird_closed.shtml. Retrieved February 14, 2014. (Archived by WebCite® at http://www.webcitation.org/6NFskDCSF)
+Jump up ^ http://www.webcitation.org/6NEyFUq68
+Jump up ^ Nguyễn Khang. Nghi án Flappy bird... đạo game. Thanh Niên Online. February 8, 2014. URL:http://www.thanhnien.com.vn/pages/20140208/nghi-an-flappy-bird-dao-game.aspx. Retrieved February 14, 2014. (Archived by WebCite® at http://www.webcitation.org/6NExdMHC1)
+Jump up ^ Chris Priestman (February 7, 2014). "Piou Piou dev can't help but notice the resemblance between his game and Flappy Bird". Pocketgamer.co.uk. Retrieved February 14, 2014.
+Jump up ^ Patrick O'Rourke (February 6, 2014). "Flappy Bird is the ultimate mobile game ripoff". Canada.com. Retrieved February 8, 2014.
+	Video games portal
+Categories: 2013 video games2010s fads and trendsAndroid (operating system) gamesFictional birdsIOS gamesWorks involved in plagiarism controversiesSide-scrolling video gamesVideo game clonesVideo games developed in VietnamVideo game controversies
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+العربية
+Azərbaycanca
+Čeština
+Dansk
+Deutsch
+Español
+فارسی
+Français
+Galego
+한국어
+Bahasa Indonesia
+Italiano
+עברית
+Basa Jawa
+Nederlands
+Português
+Română
+Русский
+Српски / srpski
+Suomi
+Svenska
+Tagalog
+ไทย
+Türkçe
+Українська
+Tiếng Việt
+Zeêuws
+中文
+Edit links
+This page was last modified on 11 December 2016, at 00:47.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

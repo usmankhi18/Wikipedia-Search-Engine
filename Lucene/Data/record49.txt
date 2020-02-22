@@ -1,0 +1,588 @@
+﻿
+Smartphone
+From Wikipedia, the free encyclopedia
+"Smartphones" redirects here. For the song by Trey Songz, see SmartPhones (song).
+Not to be confused with Feature phone.
+
+An array of various smartphones.
+
+A person using a smartphone to take a digital photograph.
+A smartphone is a mobile phone (also known as cell phones) with an advanced mobile operating system which combines features of a personal computer operating system with other features useful for mobile or handheld use.[1][2][3] Smartphones, which are usually pocket-sized, typically combine the features of a mobile phone, such as the abilities to place and receive voice calls and create and receive text messages, with those of other popular digital mobile devices like personal digital assistants (PDAs), such as an event calendar, media player, video games, GPS navigation, digital camera and digital video camera. Most smartphones can access the Internet and can run a variety of third-party software components ("apps"). They typically have a color display with a graphical user interface that covers 70% or more of the front surface. The display is often a touchscreen, which enables the user to use a virtual keyboard to type words and numbers and press onscreen icons to activate "app" features.
+
+In 1999, the Japanese firm NTT DoCoMo released the first smartphones to achieve mass adoption within a country.[4] Smartphones became widespread in the late 2000s. Most of those produced from 2012 onward have high-speed mobile broadband 4G LTE, motion sensors, and mobile payment features. In the third quarter of 2012, one billion smartphones were in use worldwide.[5] Global smartphone sales surpassed the sales figures for regular cell phones in early 2013.[6] As of 2013, 65% of mobile consumers in the United States owned smartphones.[7] By January 2016, smartphones held over 79% of the U.S. mobile market.[8]
+
+Contents  [hide] 
+1	History
+1.1	Early years
+1.2	Forerunner
+1.3	PDAs
+1.4	Mass adoption
+1.5	Operating systems
+1.6	2010s technological developments
+1.7	Future possible developments
+2	Mobile operating systems
+2.1	Android
+2.2	iOS
+2.3	Windows Phone
+2.4	BlackBerry
+2.5	Sailfish OS
+2.6	Tizen
+2.7	Ubuntu Touch
+3	Discontinued operating systems
+3.1	Symbian
+3.2	Windows Mobile
+3.3	Bada
+3.4	Firefox OS
+3.5	Palm OS
+3.6	webOS
+3.7	Maemo / MeeGo
+4	Application stores
+5	Display
+6	Accessories
+7	Market share
+7.1	Usage
+7.2	By manufacturer
+7.3	By operating system
+8	Issues
+8.1	Battery life
+8.2	Social
+8.3	While driving
+8.4	Legal
+8.5	Medical
+8.6	Security
+8.7	Sleep
+9	Other terms
+10	See also
+11	Notes and references
+History[edit]
+Early years[edit]
+
+The first caller identification receiver (1971).
+Devices that combined telephony and computing were first conceptualized by Nikola Tesla in 1909 and Theodore Paraskevakos in 1971 and patented in 1974, and were offered for sale beginning in 1993. Paraskevakos was the first to introduce the concepts of intelligence, data processing and visual display screens into telephones. In 1971, while he was working with Boeing in Huntsville, Alabama, Paraskevakos demonstrated a transmitter and receiver that provided additional ways to communicate with remote equipment, however it did not yet have general purpose PDA applications in a wireless device typical of smartphones. They were installed at Peoples' Telephone Company in Leesburg, Alabama and were demonstrated to several telephone companies. The original and historic working models are still in the possession of Paraskevakos.[9]
+
+Forerunner[edit]
+
+IBM Simon and charging base (1994).[10]
+The first mobile phone to incorporate PDA features was a prototype developed by Frank Canova[11] in 1992 while at IBM and demonstrated that year at the COMDEX computer industry trade show. It included PDA features and other visionary mobile applications such as maps, stock reports and news. A refined version was marketed to consumers in 1994 by BellSouth under the name Simon Personal Communicator. The Simon was the first commercially available device that could be properly referred to as a "smartphone", although it was not called that in 1994.[11][12][13] In addition to placing and receiving cellular calls, Simon could send and receive faxes and emails and included an address book, calendar, appointment scheduler, calculator, world time clock and notepad, utilizing its touch screen display.[14] The term "smart phone" appeared in print as early as 1995, describing AT&T's PhoneWriter Communicator.[15][non-primary source needed]
+
+PDAs[edit]
+Main article: Personal digital assistant
+In the mid-late 1990s, many mobile phone users carried a separate dedicated PDA device, running early versions of operating systems such as Palm OS, BlackBerry OS or Windows CE/Pocket PC.[1] These operating systems would later evolve into mobile operating systems. In March 1996, Hewlett-Packard released the OmniGo 700LX, a modified 200LX PDA that supported a Nokia 2110-compatible phone with ROM-based software to support it. It had a 640×200 resolution CGA compatible four-shade gray-scale LCD screen and could be used to place and receive calls, and to create and receive text messages, emails and faxes. It was also 100% DOS 5.0 compatible, allowing it to run thousands of existing software titles, including early versions of Windows.
+
+In August 1996, Nokia released the Nokia 9000 Communicator, a digital cellular phone based on the Nokia 2110 with an integrated PDA based on the GEOS V3.0 operating system from Geoworks. The two components were attached by a hinge in what became known as a clamshell design, with the display above and a physical QWERTY keyboard below. The PDA provided e-mail; calendar, address book, calculator and notebook applications; text-based Web browsing; and could send and receive faxes. When closed, the device could be used as a digital cellular phone. In June 1999 Qualcomm released the "pdQ Smartphone", a CDMA digital PCS Smartphone with an integrated Palm PDA and Internet connectivity.[16]
+
+Subsequent landmark devices included:
+
+The Ericsson R380 (2000) by Ericsson Mobile Communications.[17] The first device marketed as a "smartphone",[18] it combined the functions of a mobile phone and PDA, and supported limited Web browsing with a resistive touchscreen utilizing a stylus.[19]
+The Kyocera 6035 (early 2001) introduced by Palm, Inc. Combining a PDA with a mobile phone, it operated on the Verizon network, and supported limited Web browsing.[20][21]
+Handspring's Treo 180 (2002), the first smartphone to combine the Palm OS and a GSM phone with telephony, SMS messaging and Internet access fully integrated into the OS.[22]
+Smartphones before present-day Android-, iOS- and BlackBerry-based phones typically used the Symbian operating system. Originally developed by Psion, it was the world's most widely used smartphone operating system until the last quarter of 2010.[citation needed]
+
+Mass adoption[edit]
+In 1999, the Japanese firm NTT DoCoMo released the first smartphones to achieve mass adoption within a country. These phones ran on i-mode, which provided data transmission speeds up to 9.6 kbit/s.[23] Unlike future generations of wireless services, NTT DoCoMo's i-mode used cHTML, a language which restricted some aspects of traditional HTML in favor of increasing data speed for the devices. Limited functionality, small screens and limited bandwidth allowed for phones to use the slower data speeds available.[24] The rise of i-mode helped NTT DoCoMo accumulate an estimated 40 million subscribers by the end of 2001. It was also ranked first in market capitalization in Japan and second globally. This power would wane in the face of the rise of 3G and new phones with advanced wireless network capabilities.[25] Outside Japan smartphones were still rare until the introduction of the Danger Hiptop in 2002, which saw moderate success in the US as the T-Mobile Sidekick. Later, in the mid-2000s, devices based on Microsoft's Windows Mobile started to gain popularity among business users in the U.S. The BlackBerry later gained mass adoption in the U.S., and American users popularized the term "CrackBerry" in 2006 due to its addictive nature.[26] The company first released its GSM BlackBerry 6210, BlackBerry 6220, and BlackBerry 6230 devices in 2003.[27]
+
+Operating systems[edit]
+Symbian was the most popular smartphone OS in Europe during the middle to late 2000s. Initially, Nokia's Symbian devices were focused on business, similar to Windows Mobile and BlackBerry devices at the time. From 2006 onwards, Nokia started producing entertainment-focused smartphones, popularized by the Nseries. In Asia, with the exception of Japan, the trend was similar to that of Europe.[citation needed] In 2003, Motorola launched the first smartphone to use Linux, the A760 handset.[28] While the initial release was limited to a single high-end handset only available in the Asia-Pacific region, the maker's intention was to eventually use Linux on most of its handsets, including the lower-end models. Further models to use Linux such as the Motorola Ming A1200i in 2005 and several successors to the Ming line would be unveiled through 2010. In late 2009, Motorola released the Motorola Cliq,[29] the first of Motorola's smartphones to run the Linux-based Android operating system.
+
+In early 2007, Apple Inc. introduced the iPhone, one of the first smartphones to use a multi-touch interface. The iPhone was notable for its use of a large touchscreen for direct finger input as its main means of interaction, instead of a stylus, keyboard, or keypad typical for smartphones at the time.[30] In October 2008, the first phone to use Android called the HTC Dream (also known as the T-Mobile G1) was released.[31][32] Android is an open-source platform founded by Andy Rubin and now owned by Google.[33][34] Although Android's adoption was relatively slow at first, it started to gain widespread popularity in 2010, and in early 2012 dominated the smartphone market share worldwide, which continues to this day.[35]
+
+These new platforms led to the decline of earlier ones. Microsoft, for instance, started a new OS from scratch, called Windows Phone. Nokia abandoned Symbian and partnered with Microsoft to use Windows Phone on its smartphones. Windows Phone then became the third-most-popular OS. Palm's webOS was bought by Hewlett-Packard and later sold to LG Electronics for use on LG smart TVs. BlackBerry Limited, formerly known as Research In Motion, also made a new platform based on QNX, BlackBerry 10. The capacitive touchscreen also changed smartphone form factors. Before 2007, it was common for devices to have a physical numeric keypad or physical QWERTY keyboard in either a candybar or sliding form factor. However, by 2010, there were no top-selling smartphones with physical keypads.
+
+2010s technological developments[edit]
+
+Smartphones running Android OS
+In 2013, the Fairphone company launched its first "socially ethical" smartphone at the London Design Festival to address concerns regarding the sourcing of materials in the manufacturing.[36] In late 2013, QSAlpha commenced production of a smartphone designed entirely around security, encryption and identity protection.[37] In December 2013, the world's first curved OLED technology smartphones were introduced to the retail market with the sale of the Samsung Galaxy Round and LG G Flex models.[38] Samsung phones with more bends and folds in the screens were expected in 2014.[39] In 2013, water and dustproofing have made their way into mainstream high end smartphones including Sony Xperia Z, Sony Xperia Z3 and Samsung Galaxy S5.[40] Previously, this feature was confined to special ruggedized phones designed for outdoor use.
+
+In early 2014, smartphones were beginning to use Quad HD (2K) 2560x1440 on 5.5" screens with up to 534 PPI on devices such as the LG G3 which is a significant improvement over Apple's Retina Display. Quad HD is used in advanced televisions and computer monitors, but with 110 ppi or less on such larger displays.[41] In 2014, Wi-Fi networks were used a lot for smartphones. As Wi-Fi became more prevalent and easier to connect to, it was predicted that Wi-Fi phone services will start to take off.[42][43][44] In 2014, LG introduced lasers on the LG G3 to help camera focus.[45] In 2014, some smartphones had such good digital cameras that they could be categorized as high-end point-and-shoot cameras with large sensors up to 1" with 20 megapixels and 4K video. Some can store their pictures in proprietary raw image format, but the Android (operating system) 5.0 Lollipop serves open source RAW images.[46][47] By 2015, smartphones were increasingly integrated with everyday uses. For instance, credit cards, mobile payments, and mobile banking were integrated into smartphone applications and Software as a Service (SaaS) platforms.[48] Additionally, recent technological innovations are causing the role of traditional keys to be fused into the smartphones, because a smartphone can act as a digital key and access badge for its users.[49] In October 2015, Microsoft announced Windows Continuum, a feature that allows users to connect their devices to an external monitor via Microsoft Continuum Display Dock.[50] HP adds a layer to the Continuum with their HP Workplace which enables user to run a Win32 app by a virtualized server.[51] The first modular smartphone available to the public was the Fairphone 2, which was released in December 2015. Unlike most smartphones, users can remove and replace parts on this phone. In 2016 February, Mphone releases mPhone 9 Plus 3D [52] the first naked eye 3D smartphone, where user can enjoy the third dimension gaming and videos within their mobile phones itself without any additional accessories
+
+Future possible developments[edit]
+Foldable OLED smartphones have been anticipated for years but have failed to materialize because of the relatively high failure rate when producing these screens.[citation needed] As well, creating a battery that can be folded is another hurdle.[53]
+
+Mobile operating systems[edit]
+Main article: Mobile operating system
+Android[edit]
+Main article: Android (operating system)
+
+Android is the top-selling smartphone OS in 2016.[54][55]
+Android is a mobile operating system developed by Google Inc., and backed by an industry consortium known as the Open Handset Alliance. It is an open source platform with optional proprietary components, including a suite of flagship software for Google services, and the application and content storefront Google Play.[56] Android was officially introduced via the release of its inaugural device, the HTC Dream (T-Mobile G1) on 20 October 2008.[57] As an open source product, Android has also been the subject of third-party development. Development groups have used the Android source code to develop and distribute their own modified versions of the operating system, such as CyanogenMod, to add features to the OS and provide newer versions of Android to devices that no longer receive official updates from their vendor.[58][59][60] Forked versions of Android have also been adopted by other vendors, such as Amazon.com, who used its "Fire OS" on a range of tablets and the Fire Phone.[61][62] As it is a non-proprietary platform that has shipped on devices covering a wide range of market segments, Android has seen significant adoption. Gartner Research estimated that 325 million Android smartphones were sold during the fourth quarter of 2015, leading all other platforms. Samsung Electronics, who produces Android devices, was also the top smartphone vendor across all platforms in the same period of time.[63]
+
+iOS[edit]
+Main article: iOS
+
+Screenshot of IOS
+iOS (formerly iPhone OS) is a proprietary mobile operating system developed by Apple Inc. primarily for its iPhone product line. The iPhone was first unveiled in January 2007. The device introduced numerous design concepts that have been adopted by modern smartphone platforms, such as the use of multi-touch gestures for navigation, eschewing physical controls such as physical keyboards in favor of those rendered by the operating system itself on its touchscreen (including the keyboard), and the use of skeumorphism—making features and controls within the user interface resemble real-world objects and concepts in order to improve their usability.[64][65] In 2008, Apple introduced the App Store, a centralized storefront for purchasing new software for iPhone devices.[66][67] iOS can also integrate with Apple's desktop music program iTunes to sync media to a personal computer.[68][69] The dependency on a PC was removed with the introduction of iCloud on later versions of iOS, which provides synchronization of user data via internet servers between multiple devices.[70] The iPhone line's early dominance was credited with reshaping the smartphone industry, and helping make Apple one of the world's most valuable publicly traded companies by 2011. However, the iPhone and iOS have generally been in second place in worldwide market share.[63][71][72]
+
+Windows Phone[edit]
+Main article: Windows Phone
+
+Smartphone OS by Microsoft.
+Windows Phone is a series of proprietary smartphone operating systems developed by Microsoft. Its original release, Windows Phone 7, was a revamped version of the previous, Windows CE-based Windows Mobile platform; however, it was incompatible with the legacy platform.[73] Windows Phone's user interface was designed to contrast with its competitors, utilizing a design language codenamed "Metro" which de-emphasized iconography and skeuomorphism in favor of flat, text-based designs. The platform also featured concepts such as "live tiles" on its home screen that can display dynamic content, and "Hubs"—which aggregate content from various sources and services (such as a user's local contacts, in combination with connected social networking services) into unified displays. Windows Phone also integrated with other Microsoft brands and platforms, including Bing, SkyDrive, and Xbox. Microsoft Office Mobile apps were also bundled with the operating system.[74][75][76]
+
+Windows Phone 8 was released in 2012; it was incompatible with existing devices, but switched to a core system based on the Windows NT platform, expanded the platform's hardware support and functionality, and added expanded enterprise-oriented functionality such as storage encryption.[77][78][79] Windows 10 Mobile was released in late 2015; it is no longer promoted under the Windows Phone brand, as it is intended to provide greater consistency and integration with Windows 10 for PC, including cross-platform applications via Universal Windows Platform, and the ability to dock supported devices to use a desktop interface with keyboard and mouse support.[80][81][82]
+
+The Windows Phone series has had poor adoption in comparison to its competitors. Lack of interest in the platform also led to a decrease in third-party applications, and some vendors ended their support for Windows Phone altogether. [63][83][84] The most prominent Windows Phone vendor was Nokia, who exclusively adopted Windows Phone as its smartphone platform in 2011 as part of a wider partnership with Microsoft.[85] Nokia's Lumia series was the most popular line of Windows Phone devices, representing 83.3% of all Windows Phones sold in June 2013,[86] and Microsoft acquired Nokia's mobile business for just over €5.44 billion in April 2014, forming the subsidiary Microsoft Mobile under former Nokia CEO Stephen Elop [87][88][89]
+
+BlackBerry[edit]
+Main article: BlackBerry
+
+A Blackberry Classic smartphone with an integrated keyboard
+In 1999, RIM released its first BlackBerry devices, providing secure real-time push-email communications on wireless devices. Services such as BlackBerry Messenger provide the integration of all communications into a single inbox. In September 2012, RIM announced that the 200 millionth BlackBerry smartphone was shipped. As of September 2014, there were around 46 million active BlackBerry service subscribers.[90] Most recently, RIM has undergone a platform transition, changing its name to BlackBerry and making new devices on a new platform named "BlackBerry 10"[91] and in November 2015 released an Android smartphone, the BlackBerry Priv.[92]
+
+Sailfish OS[edit]
+Main article: Sailfish OS
+The Sailfish OS is based on the Linux kernel and Mer.[93] Additionally Sailfish OS includes a partially or completely proprietary multi-tasking user interface programmed by Jolla. This user interface differentiate Jolla smartphones from others.[94] Sailfish OS is intended to be a system made by many of the MeeGo team, which left Nokia to form Jolla, utilizing funding from Nokia's "Bridge" program which helps establish and support start-up companies formed by ex-Nokia employees.[95][96][97]
+
+Tizen[edit]
+Main article: Tizen
+Tizen is a Linux-based operating system for devices, including smartphones, tablets, in-vehicle infotainment (IVI) devices, smart TVs, laptops and smart cameras. Tizen is a project within the Linux Foundation and is governed by a Technical Steering Group (TSG) composed of Samsung and Intel among others. In April 2014, Samsung released the Samsung Gear 2 and the Gear 2 Neo, running Tizen.[98] The Samsung Z1 is the first smartphone produced by Samsung that runs Tizen; it was released in the Indian market on January 14, 2015.[99]
+
+Ubuntu Touch[edit]
+Main article: Ubuntu Touch
+Ubuntu Touch (also known as Ubuntu Phone) is a mobile version of the Ubuntu operating system developed by Canonical UK Ltd and Ubuntu Community.[100] It is designed primarily for touchscreen mobile devices such as smartphones and tablet computers.
+
+Discontinued operating systems[edit]
+Symbian[edit]
+Main article: Symbian
+Symbian was originally developed by Psion as EPOC32. It was the world's most widely used smartphone operating system until Q4 2010, though the platform never gained popularity in the U.S., as it did in Europe and Asia. The first Symbian phone, the touchscreen Ericsson R380 Smartphone, was released in 2000,[101][102] and was the first device marketed as a "smartphone".[103] It combined a PDA with a mobile phone.[104] Variants of Symbian OS began to emerge, most notably Symbian UIQ, MOAP and S60, each supported by different manufacturers. With the creation of Symbian Foundation in 2008, Symbian OS was unified under one variant under the stewardship of Nokia. In February 2011, Nokia announced that it would replace Symbian with Windows Phone as the operating system on all of its future smartphones, with the platform being abandoned over the following few years.[105]
+
+Windows Mobile[edit]
+Main article: Windows Mobile
+Windows Mobile was based on the Windows CE kernel and first appeared as the Pocket PC 2000 operating system. Throughout its lifespan, the operating system was available in both touchscreen and non-touchscreen formats. It was supplied with a suite of applications developed with the Microsoft Windows API and was designed to have features and appearance somewhat similar to desktop versions of Windows. Third parties could develop software for Windows Mobile with no restrictions imposed by Microsoft. Software applications were eventually purchasable from Windows Marketplace for Mobile during the service's brief lifespan. Windows Mobile was eventually phased out in favor of Windows Phone OS.
+
+Bada[edit]
+Main article: Bada
+The Bada operating system for smartphones was announced by Samsung in November 2009.[106][107] The first Bada-based phone was the Samsung Wave S8500, released in June 2010.[108][109] Samsung shipped 4.5 million phones running Bada in Q2 of 2011.[110] In 2013, Bada merged with a similar platform called Tizen.
+
+Firefox OS[edit]
+Main article: Firefox OS
+Firefox OS was demonstrated by Mozilla in February 2012. It was designed to have a complete community-based alternative system for mobile devices, using open standards and HTML5 applications. The first commercially available Firefox OS phones were ZTE Open and Alcatel One Touch Fire. As of 2014, more companies have partnered with Mozilla including Panasonic (which is making a smart TV with Firefox OS) and Sony.[111] In December 2015, Mozilla announced that it would phase out development of Firefox OS for smartphones, and would reposition the project to focus on other forms of Internet-connected devices.[112]
+
+Palm OS[edit]
+Main article: Palm OS
+In late 2001, Handspring launched the Springboard GSM phone module with limited success. In May 2002, Handspring released the Palm OS Treo 270 smartphone, that did not support Springboard, with both a touchscreen and a full keyboard. The Treo had wireless web browsing, email, calendar, a contact organizer and mobile third-party applications that could be downloaded or synced with a computer.[113] Handspring was purchased by Palm, Inc which released the Treo 600 and continued releasing Treo devices with a few Treo devices using Windows Mobile. After buying Palm in 2011, Hewlett-Packard (HP) discontinued its webOS smartphone and tablet production.[114]
+
+webOS[edit]
+Main article: webOS
+webOS is a proprietary mobile operating system running on the Linux kernel, initially developed by Palm, which launched with the Palm Pre. After being acquired by HP, two phones (the Veer and the Pre 3) and a tablet (the TouchPad) running webOS were introduced in 2011. On August 18, 2011, HP announced that webOS hardware was to be discontinued[115] but would continue to support and update webOS software and develop the webOS ecosystem.[116] HP released webOS as open source under the name Open webOS, and plans to update it with additional features.[117] On February 25, 2013 HP announced the sale of WebOS to LG Electronics, who used the operating system for its current "smart" or Internet-connected TVs, but not smartphones. In January 2014, Qualcomm has announced that it has acquired technology patents from HP, which includes all the WebOS patents.[118]
+
+Maemo / MeeGo[edit]
+Main article: MeeGo
+MeeGo is an operating system created from the source code of Moblin (produced by Intel) and Maemo (produced by Nokia). Before that, Nokia used Maemo on some of its smartphones and internet tablets (such as Nokia N810 and N900). MeeGo was originally envisioned to power a variety of devices from netbooks, tablets to smartphones and smart TVs. However, the only smartphones which used MeeGo was the Nokia N9 and Nokia N950 (MeeGo v1.2 Harmattan). Following Nokia's decision to move to Windows Phone OS in 2011 and to cease MeeGo development, the Linux Foundation canceled MeeGo in September 2011 in favor of the development of Tizen.
+
+Application stores[edit]
+Main article: List of digital distribution platforms for mobile devices
+The introduction of Apple's App Store for the iPhone and iPod Touch in July 2008 popularized manufacturer-hosted online distribution for third-party applications (software and computer programs) focused on a single platform. There are a huge variety of apps, including video games, music products and business tools. Up until that point, smartphone application distribution depended on third-party sources providing applications for multiple platforms, such as GetJar, Handango, Handmark, and PocketGear. Following the success of the App Store, other smartphone manufacturers launched application stores, such as Google's Android Market (now Google Play Store) and RIM's BlackBerry App World in April 2009. In February 2014, 93% of mobile developers were targeting smartphones first for mobile app development.[119]
+
+Display[edit]
+Main article: Display device
+
+Samsung Galaxy Note 5, S6 edge+, Note 7
+One of the main characteristics of smartphones is their screen. It usually fills most of the phone's front surface (about 70%); screen size usually defines the size of a smartphone. Many have an aspect ratio of 16:9; some are 4:3 or other ratios. They are measured in diagonal inches, starting from 2.45 inches.[120] Phones with screens larger than 5.2 inches are often called "phablets". Smartphones with screens over 4.5 inches commonly are shifted while using a single hand, since most thumbs cannot reach the entire screen surface, or used in place with both hands. Liquid-crystal displays are the most common; others are IPS, LED, OLED, AMOLED and E Ink displays. In the 2010s, Braille screens, which can be used by visually impaired people are being developed. It is expected that Braille screens will use some type of microfluidics technology.[121]
+
+Accessories[edit]
+
+A selection of protective cases. The small cut-out in the left-hand corner is to enable the person to use the digital camera.
+As with cellphones, a range of accessories are sold for smartphones, including cases, screen protectors, power charging cables, add-on batteries, headphones, combined headphone-microphones which allow a person to use the phone without holding it to the ear, and Bluetooth-enabled powered speakers that enable users to listen to music files stored on their smartphones. Cases range from relatively inexpensive rubber or soft plastic cases which provide moderate protection from bumps and good protection from scratches to more expensive, heavy-duty cases that combine a rubber padding with a hard outer shell. Some cases have a "book"-like form, with a cover that the user opens to use the device; when the cover is closed, it protects the screen. Some "book"-like cases have additional pockets for credit cards, thus enabling people to use them as wallets. Accessories include products sold by the manufacturer of the smartphone and compatible products made by other manufacturers.
+
+Market share[edit]
+Usage[edit]
+In the third quarter of 2012, one billion smartphones were in use worldwide.[5] Global smartphone sales surpassed the sales figures for feature phones in early 2013.[6] As of 2013, 65 percent of U.S. mobile consumers own smartphones.[7] The European mobile device market as of 2013 is 860 million.[122] In China, smartphones represented more than half of all handset shipments in the second quarter of 2012[123] and in 2014 there were 519.7 million smartphone users, with the number estimated to grow to 700 million by 2018.[124]
+
+As of November 2011, 27% of all photographs were taken with camera-equipped smartphones.[125] A study conducted in September 2012 concluded that 4 out of 5 smartphone owners use the device to shop.[126] Another study conducted in June 2013 concluded that 56% of American adults now owned a smartphone of some kind. Android and iPhone owners account for half of the cell phone user population. Higher income adults and those under age 35 lead the way when it comes to smartphone ownership.[127] Worldwide shipments of smartphones topped 1 billion units in 2013, up 38% from 2012's 725 million, while comprising a 55% share of the mobile phone market in 2013, up from 42% in 2012.[128] Since 1996, smartphone shipments have had positive growth, but in Q1 2016 for the first time the shipments dropped by 3 percent year on year. The situation was caused by the maturing China market.[129]
+
+By manufacturer[edit]
+
+The LG G3, OnePlus One, Samsung Galaxy Note 4, and iPhone 6 Plus.
+Worldwide Smartphones Vendors Market Share
+Source	Date	Samsung	Apple Inc.	Huawei	Oppo	Vivo	Xiaomi	Others	Reference
+Gartner	Q2 2016	22.3%	12.9%	8.9%	5.4%	N/A	4.5%	46.0%	[130]
+IDC	Q2 2016	22.4%	11.8%	9.4%	6.6%	4.8%	N/A	45.1%	[131]
+In 2011, Samsung had the highest shipment market share worldwide, followed by Apple. In 2013, Samsung had 31.3% market share, a slight increase from 30.3% in 2012, while Apple was at 15.3%, a decrease from 18.7% in 2012. Huawei, LG and Lenovo were at about 5% each, significantly better than 2012 figures, while others had about 40%, the same as the previous years figure. Only Apple lost market share, although their shipment volume still increased by 12.9 percent; the rest had significant increases in shipment volumes of 36 to 92 percent.[132] In Q1 2014, Samsung had a 31% share and Apple had 16%.[133] In Q4 2014, Apple had a 20.4% share and Samsung had 19.9%.[134]
+
+In January 2015 in the US, Android market share was 53.2%, Apple's iOS had a 41.3% share and Samsung's Android smartphones had 29.3%.[135] In January 2016, the US market share for Android smartphones was 52.8%, Apple had 43.6% share, Microsoft had 2.7% and BlackBerry had 0.8 percent.[8]
+
+By operating system[edit]
+Main article: Mobile operating system
+Worldwide operating system market share for smartphones
+Source	Date	Android	iOS	Windows	BlackBerry OS	Others	Reference
+Gartner	Q2 2016	86.2%	12.9%	0.6%	0.1%	0.2%	[136]
+The market has been dominated by the Android operating system since 2010. Android's market share (measured by units shipment) rose from 33.2% in Q4 2011 to 78.1% of the market in Q4 2013. Apple's market share oscillated between 15% to 20.9% during the same period. BlackBerry's market share fell from 14.3% in Q4 2011 to 0.6% in Q4 2013. Windows Mobile market share rose from 1.5% to 3% during the same time frame.[137] As of the end of Q3 2014, Android was the most popular operating system, with a 84.4% market share, followed by iOS with 11.7%, Windows Phone with 2.9%, BlackBerry with 0.5% and all others with 0.6%.[138]
+
+Issues[edit]
+Smartphones have presented issues similar to those affecting other mobile telephones. As well, there are some issues which are unique to smartphones.
+
+Battery life[edit]
+
+A high-capacity portable battery charger.
+Compared to earlier non-smartphone mobile phones, smartphone battery life has generally been poor, due to the significant power requirements of their computer systems and color screens. Poor smartphone battery life has negatively affected customer satisfaction.[139][140][141] There is also a trend towards using batteries that the user cannot replace.[142] Smartphone users have addressed the challenge of limited battery life by purchasing additional chargers for use outside the home, at work, and in cars and by buying portable external "battery packs". External battery packs include generic models which are connected to the smartphone with a cable and custom-made models that "piggyback" onto a smartphone's case.
+
+Social[edit]
+Main article: Mobile phone overuse
+A 2012 University of Southern California study found that unprotected adolescent sexual activity was more common among owners of smartphones.[143] A study conducted by the Rensselaer Polytechnic Institute's (RPI) Lighting Research Center (LRC) concluded that smartphones, or any backlit devices, can seriously affect sleep cycles.[144] Some persons might become psychologically attached to cellphones resulting in anxiety when separated from the devices.[145] A "smombie" (a combination of "smartphone" and "zombie") is a walking person using a smartphone and not paying attention as they walk, possibly risking an accident in the process, an increasing social phenomenon.[146] The issue of slow-moving smartphone users led to the temporary creation of a "mobile lane" for walking in Chongqing, China.[147] The issue of distracted smartphone users led the city of Augsburg, Germany to embed pedestrian traffic lights in the pavement.[148]
+
+While driving[edit]
+Main article: Mobile phones and driving safety
+Main article: Texting while driving
+
+A New York City driver using two handheld mobile phones at once.
+Mobile phone use while driving, including talking on the phone, texting, or operating other phone features, is common but controversial. It is widely considered dangerous due to distracted driving. Being distracted while operating a motor vehicle has been shown to increase the risk of accidents. In September 2010, the US National Highway Traffic Safety Administration (NHTSA) reported that 995 people were killed by drivers distracted by cell phones. In March 2011 a US insurance company, State Farm Insurance, announced the results of a study which showed 19% of drivers surveyed accessed the Internet on a smartphone while driving.[149] Many jurisdictions prohibit the use of mobile phones while driving. In Egypt, Israel, Japan, Portugal and Singapore, both handheld and hands-free use of a mobile phone (which uses a speakerphone) is banned. In other countries including the UK and France and in many U.S. states, only handheld phone use is banned, while hands-free use is permitted.
+
+A 2011 study reported that over 90% of college students surveyed text (initiate, reply or read) while driving.[150] The scientific literature on the dangers of driving while sending a text message from a mobile phone, or texting while driving, is limited. A simulation study at the University of Utah found a sixfold increase in distraction-related accidents when texting.[151] Due to the increasing complexity of smartphones, this has introduced additional difficulties for law enforcement officials when attempting to distinguish one usage from another in drivers using their devices. This is more apparent in countries which ban both handheld and hands-free usage, rather than those which ban handheld use only, as officials cannot easily tell which function of the mobile phone is being used simply by looking at the driver. This can lead to drivers being stopped for using their device illegally for a phone call when, in fact, they were using the device legally, for example, when using the phone's incorporated controls for car stereo, GPS or satnav.
+
+
+A sign along Bellaire Boulevard in Southside Place, Texas (Greater Houston) states that using mobile phones while driving is prohibited from 7:30 am to 9:30 am and from 2:00 pm to 4:15 pm
+A 2010 study reviewed the incidence of mobile phone use while cycling and its effects on behaviour and safety.[152] In 2013 a national survey in the US reported the number of drivers who reported using their cellphones to access the Internet while driving had risen to nearly one of four.[153] A study conducted by the University of Illinois examined approaches for reducing inappropriate and problematic use of mobile phones, such as using mobile phones while driving.[154]
+
+Accidents involving a driver being distracted by talking on a mobile phone have begun to be prosecuted as negligence similar to speeding. In the United Kingdom, from 27 February 2007, motorists who are caught using a hand-held mobile phone while driving will have three penalty points added to their license in addition to the fine of £60.[155] This increase was introduced to try to stem the increase in drivers ignoring the law.[156] Japan prohibits all mobile phone use while driving, including use of hands-free devices. New Zealand has banned hand held cellphone use since 1 November 2009. Many states in the United States have banned texting on cell phones while driving. Illinois became the 17th American state to enforce this law.[157] As of July 2010, 30 states had banned texting while driving, with Kentucky becoming the most recent addition on July 15.[158]
+
+Public Health Law Research maintains a list of distracted driving laws in the United States. This database of laws provides a comprehensive view of the provisions of laws that restrict the use of mobile communication devices while driving for all 50 states and the District of Columbia between 1992, when first law was passed through December 1, 2010. The dataset contains information on 22 dichotomous, continuous or categorical variables including, for example, activities regulated (e.g., texting versus talking, hands-free versus handheld), targeted populations, and exemptions.[159]
+
+Legal[edit]
+Main article: Smartphone wars
+A "patent war" between Samsung and Apple started when the latter claimed that the original Galaxy S Android phone copied the interface‍—‌and possibly the hardware‍—‌of Apple's iOS for the iPhone 3GS. There was also smartphone patents licensing and litigation involving Sony, Google, Apple Inc., Samsung, Microsoft, Nokia, Motorola, Huawei, and HTC, among others. The conflict is part of the wider "patent wars" between multinational technology and software corporations. To secure and increase their market share, companies granted a patent can sue to prevent competitors from using the methods the patent covers. Since 2010 the number of lawsuits, counter-suits, and trade complaints based on patents and designs in the market for smartphones, and devices based on smartphone OSes such as Android and iOS, has increased significantly. Initial suits, countersuits, rulings, licence agreements, and other major events began in 2009 as the smartphone market grew more rapidly.
+
+Medical[edit]
+Main article: Mobile app
+With the rise in number of mobile medical apps in the market place, government regulatory agencies raised concerns on the safety of the use of such applications. These concerns were transformed into regulation initiatives worldwide with the aim of safeguarding users from untrusted medical advice.[160]
+
+Security[edit]
+Main articles: Mobile security, Malware, Mobile virus, and Media Transfer Protocol
+Smartphone malware is easily distributed through an insecure app store.[161][162] Often malware is hidden in pirated versions of legitimate apps, which are then distributed through third-party app stores.[163][164] Malware risk also comes from what's known as an "update attack", where a legitimate application is later changed to include a malware component, which users then install when they are notified that the app has been updated.[165] As well, one out of three robberies in 2012 in the United States involved the theft of a mobile phone. An online petition has urged smartphone makers to install kill switches in their devices.[166] In 2014, Apple's "Find my iPhone" and Google's "Android Device Manager" can disable phones that have been lost/stolen. With BlackBerry Protect in OS version 10.3.2, devices can be rendered unrecoverable to even BlackBerry's own Operating System recovery tools if incorrectly authenticated or dissociated from their account.[167]
+
+Sleep[edit]
+Main article: Electronic media and sleep
+Using smartphones late at night can disturb sleep, due to the brightly lit screen affecting melatonin levels and sleep cycles. In an effort to alleviate these issues, several apps that change the color temperature of a screen to a warmer hue based on the time of day to reduce the amount of blue light generated have been developed for Android, while iOS 9.3 integrated similar, system-level functionality known as "Night Shift". Amazon released a feature known as "blue shade" in their Fire OS "Bellini" 5.0 and later. It has also been theorized that for some users, addicted use of their phones, especially before they go to bed, can result in "ego depletion".[168][169][170][171][172]
+
+Other terms[edit]
+"Phablet", a portmanteau of the words phone and tablet, describes smartphones with larger screens.[173][174]
+
+"Superphone" is also used by some companies to market phones with unusually large screens and other expensive features.[175][176]
+
+See also[edit]
+icon	Internet portal
+Comparison of mobile phone standards
+Comparison of smartphones
+Feature phone
+List of mobile phone standards
+List of mobile software distribution platforms
+Media Transfer Protocol
+Mobile broadband connectivity
+Mobile Internet device (MID)
+Second screen
+Screen protector
+Smombie
+Videophone
+Notes and references[edit]
+^ Jump up to: a b "Smartphone". Phone Scoop. Retrieved December 15, 2011.
+Jump up ^ "Feature Phone". Phone Scoop. Retrieved December 15, 2011.
+Jump up ^ Andrew Nusca (August 20, 2009). "Smartphone vs. feature phone arms race heats up; which did you buy?". ZDNet. Retrieved December 15, 2011.
+Jump up ^ Budmar, Patrick (11 July 2012). "Why Japanese smartphones never went global". PC World. Retrieved 6 August 2016.
+^ Jump up to: a b Don Reisinger (October 17, 2012). "Worldwide smartphone user base hits 1 billion". CNet. CBS Interactive, Inc. Retrieved July 26, 2013.
+^ Jump up to: a b "Smartphones now outsell 'dumb' phones". 3 News NZ. April 29, 2013.
+^ Jump up to: a b Jon Fingas (February 11, 2014). "Two-thirds of Americans now have smartphones".
+^ Jump up to: a b "comScore Reports January 2016 U.S. Smartphone Subscriber Market Share". comScore. 4 March 2016. Retrieved 18 August 2016.
+Jump up ^ U.S. Patent #3,812,296/5-21-1974 (Apparatus for Generating and Transmitting Digital Information), U.S. Patent #3,727,003/4-10-1973 (Decoding and Display Apparatus for Groups of Pulse Trains), U.S. Patent #3,842,208/10-15-1974 (Sensor Monitoring Device)
+Jump up ^ "Watch The Incredible 70-Year Evolution Of The Cell Phone". Wonder How To. Retrieved March 5, 2015.
+^ Jump up to: a b Sager, Ira (June 29, 2012). "Before IPhone and Android Came Simon, the First Smartphones". Bloomberg Businessweek. Bloomberg L.P. Retrieved June 30, 2012. Simon was the first smartphone. Twenty years ago, it envisioned our app-happy mobile lives, squeezing the features of a cell phone, pager, fax machine, and computer into an 18-ounce black brick.
+Jump up ^ Schneidawind, John (November 23, 1992). "Poindexter putting finger on PC bugs; Big Blue unveiling". USA Today. p. 2B.
+Jump up ^ Connelly, Charlotte. "World's first 'smartphone' celebrates 20 years". BBC News. BBC News. Retrieved August 16, 2014.
+Jump up ^ History of first touchscreen smartphone Archived May 1, 2016, at the Wayback Machine. Spinfold.com
+Jump up ^ Savage, Pamela (January 1995). "Designing a GUI for Business Telephone users". Association of Computing Machinery. Retrieved September 13, 2014. ...It is at this point that early usability test participants met impasse. The switch connected to our "smart phone" is expecting the typical "dumb end-point"... AT&T's PhoneWriter was demonstrated at the 1993 Comdex Computer Show...
+Jump up ^ "Qualcomm's pdQ Smartphone" (Press release). Qualcomm.
+Jump up ^ "PDA Review: Ericsson R380 Smartphone". Geek.com. Retrieved April 27, 2011.
+Jump up ^ "Ericsson Introduces The New R380e". Mobile Magazine. Retrieved April 27, 2011.
+Jump up ^ Brown, Bruce. "Ericsson R380 World Review & Rating". PC Magazine. Retrieved April 27, 2011.
+Jump up ^ "Kyocera QCP 6035 Smartphone Review". Palminfocenter.com. March 16, 2001. Retrieved September 7, 2011.
+Jump up ^ Segan, Sascha (March 23, 2010). "Kyocera Launches First Smartphone In Years | News & Opinion". PCmag.com. Retrieved September 7, 2011.
+Jump up ^ "Handspring Treo Communicator 180". mobiletechreview.com. Retrieved 2016-02-01.
+Jump up ^ Rose, Frank (Sep 2001). "Pocket Monster: How DoCoMo's wireless Internet service went from fad to phenom - and turned Japan into the first post-PC nation". Wired. 9 (9). Retrieved January 24, 2014.
+Jump up ^ Barnes, Stuart J, Huff, Sid L. (November 1, 2003). Rising Sun: iMode and the Wireless Internet, Vol. 46, No. 1. Communications of the ACM. pp. 79–84.
+Jump up ^ Anwar, Sayid Tariq. "NTT DoCoMo and M-Commerce: A Case Study in Market Expansion and Global Strategy" (PDF). The American Graduate School of International Management. Retrieved February 16, 2014.
+Jump up ^ "Info Addicts Are All Thumbs: Crackberry Is the 2006 Word of the Year". PR Newswire. November 1, 2006. Retrieved January 24, 2014.
+Jump up ^ Halevy, Ron. "The History of RIM & the BlackBerry Smartphone, Part 3: The Evolution Of Color". Retrieved February 16, 2014.
+Jump up ^ "Motorola unveils first Linux smart phone". CNET. Retrieved 2016-05-07.
+Jump up ^ "T-Mobile Announces Upcoming Availability of Motorola CLIQ with MOTOBLUR". T-Mobile Announces Upcoming Availability of Motorola CLIQ with MOTOBLUR. September 29, 2009. Retrieved May 6, 2016.
+Jump up ^ "The iPhone is not a smartphone". Engadget.com. January 9, 2007. Retrieved July 11, 2010.
+Jump up ^ "T-Mobile G1 Hits the UK" (Press release). T-Mobile UK. October 30, 2008.
+Jump up ^ "T-Mobile G1 Event Round-up" (Press release). Talk Media Inc. US. October 22, 2008.
+Jump up ^ "Alliance Members". Open Handset Alliance. Retrieved January 16, 2011.
+Jump up ^ The Android Atlas Archived January 9, 2012, at the Wayback Machine. Cnet.com. Retrieved August 21, 2013.
+Jump up ^ "Kantar Worldpanel ComTech's Smartphone OS market share data Q3 2012". Kantar. Retrieved 2013-11-17.
+Jump up ^ George Monbiot (September 23, 2013). "Why is Apple so shifty about how it makes the iPhone?". The Guardian. Retrieved September 24, 2013.
+Jump up ^ Darrell Etherington (October 10, 2013). "Quasar IV Encrypted Ninja Smartphone Goes Into Production, Despite Indiegogo Failure". TechCrunch. AOL Inc. Retrieved October 10, 2013.
+Jump up ^ Ian King (December 16, 2013). "Bendable smartphones aren't coming anytime soon". The Sydney Morning Herald. Retrieved December 26, 2013.
+Jump up ^ Samsung Phone With Bended Display May Come This Year Archived May 20, 2015, at the Wayback Machine., LAPTOP, February 11, 2014, Lisa Eadicicco
+Jump up ^ Rindu P Hestya (March 1, 2014). "Sony Xperia Z2 Ready to Compete With Samsung Galaxy S5".
+Jump up ^ Steve Dent (February 18, 2014). "Do you really need a 4K smartphone screen?".
+Jump up ^ "Archived copy". Archived from the original on May 1, 2016. Retrieved 2014-03-07., Wired, January 8, 2014, Alan Berrey
+Jump up ^ "Archived copy". Archived from the original on May 2, 2016. Retrieved 2014-03-07., LightReading, December 30, 2013, Sarah Reddy
+Jump up ^ "Archived copy". Archived from the original on June 17, 2016. Retrieved 2014-03-07., PC Mag, October 16, 2013, Stephanie Mlot
+Jump up ^ "Kamera LG G3 Beat Dibekali Delapan Titik Fokus". November 25, 2014.
+Jump up ^ Paul Monckton. "Android 5.0 Camera Tests Show Update Instantly Improves Every Smartphone". Forbes. Retrieved December 27, 2014.
+Jump up ^ Lars Rehm. "Panasonic announces Lumix DMC-CM1 smartphone with 1-inch sensor". Retrieved December 27, 2014.
+Jump up ^ Fiegerman, Seth. "Square introduces $Cashtags, clickable payments for businesses". Mashable. Mashable. Retrieved May 19, 2015.
+Jump up ^ Musafer, Shanaz. "Digital doorkeys and more: Meet New York's latest start-ups". BBC News. BBC News. Retrieved May 19, 2015.
+Jump up ^ "Welcome to Continuum for phones - Windows Help". windows.microsoft.com. Retrieved 2016-02-13.
+Jump up ^ "HP's Elite x3 is designed to be your Windows phone, laptop, and desktop". The Verge. Retrieved 2016-03-01.
+Jump up ^ "mPhone 9 Plus 3D". Gadget 360. Retrieved 2016-03-11.
+Jump up ^ Bendable smartphones aren't coming anytime soon Archived September 22, 2016, at the Wayback Machine., The Sydney Morning Herald, Ian King, December 16, 2013
+Jump up ^ "Gartner Says Worldwide Smartphone Sales Grew 3.9 Percent in First Quarter of 2016". Gartner. Retrieved May 19, 2016.
+Jump up ^ "Top Five Smartphone Vendors, Shipments, Market Share and Year-Over-Year Growth, Q1 2016". International Data Corporation. Retrieved April 27, 2016.
+Jump up ^ "Google's iron grip on Android: Controlling open source by any means necessary". Ars Technica. Retrieved December 8, 2013.
+Jump up ^ "All T-Mobile retail stores to carry G1". CNET. CBS Interactive. Retrieved 17 June 2013.
+Jump up ^ Arthur, Charles (July 30, 2013). "Android fragmentation 'worse than ever' – but OpenSignal says that's good". The Guardian. Retrieved August 1, 2013.
+Jump up ^ Isaac, Mike (April 11, 2011). "Android OS Hack Gives Virtual Early Upgrade". Wired.com. Retrieved September 15, 2012.
+Jump up ^ Kopstein, Joshua (November 20, 2012). "Access Denied: why Android's broken promise of unlocked bootloaders needs to be fixed". The Verge. Retrieved November 24, 2012.
+Jump up ^ "Amazon's ever-cheaper Fire Phone gets a belated KitKat update". Ars Technica. Retrieved 18 May 2016.
+Jump up ^ Segan, Sascha (December 2013). "How To Run Free Android Apps On the Kindle Fire". PC Magazine.
+^ Jump up to: a b c "Android leads, Windows phones fade further in Gartner's smartphone sales report". PC World. IDG. Retrieved 18 May 2016.
+Jump up ^ "The Day Google Had to 'Start Over' on Android". The Atlantic. Retrieved 20 December 2013.
+Jump up ^ Wingfield, Nick; Bilton, Nick (2012-10-31). "Apple Shake-Up Could Lead to Design Shift". The New York Times. CLXII (55,941). Retrieved 2012-11-05.
+Jump up ^ Yukari Iwatani Kane (March 6, 2009). "Breaking Apple's Grip on the iPhone". The Wall Street Journal.
+Jump up ^ "When iPhone met world, 7 years ago today". CNET. CBS Interactive. Retrieved 18 May 2016.
+Jump up ^ "Apple unveils iPhone". Macworld. Retrieved 18 May 2016.
+Jump up ^ "Apple's 'magical' iPhone unveiled". BBC News. Retrieved 18 May 2016.
+Jump up ^ deAgonia, Michael (June 9, 2011). "The 5 best features in Apple's iOS 5". PC World. IDG. Retrieved September 20, 2012.
+Jump up ^ "Windows comes up third in OS clash two years early". 1 April 2016. Retrieved 12 April 2016.
+Jump up ^ Satariano, Adam. "Apple Overtakes Exxon Becoming World's Most Valuable Company". Bloomberg. Retrieved June 13, 2013.
+Jump up ^ Kolakowski, Nicholas (March 15, 2010). "Microsoft Explains Windows Phone 7 Lack of Compatibility". eWeek. Quinstreet.
+Jump up ^ "Windows Phone 7 Series is official, and Microsoft is playing to win". Engadget. February 15, 2010. Retrieved September 7, 2011.
+Jump up ^ Matt Buchanan (February 15, 2010). "Windows Phone 7 Series: Everything Is Different Now". Gizmodo. Retrieved September 7, 2011.
+Jump up ^ Devin Coldewey (February 15, 2010). "Windows Phone 7 Series: Our Take". TechCrunch. Retrieved September 7, 2011.
+Jump up ^ Warren, Tom (June 20, 2012). "Windows Phone 8 in detail: new Start Screen, multi-core support, VoIP integration, and NFC". The Verge. Vox Media. Retrieved 26 November 2012.
+Jump up ^ "Windows Phone 8 review". The Verge. Vox Media. October 29, 2012. Retrieved November 26, 2012.
+Jump up ^ Jeffries, Adrianne (March 3, 2014). "This is Cortana, Microsoft's answer to Siri". The Verge. Retrieved 2014-08-21.
+Jump up ^ Miller, Ross. "Microsoft's new Display Dock transforms your Windows 10 mobile into a PC". The Verge. Vox Media. Retrieved October 6, 2015.
+Jump up ^ "Microsoft previews universal apps for Windows 10 PCs, tablets, and phones". The Verge. Vox Media. Retrieved February 7, 2015.
+Jump up ^ Bright, Peter (January 24, 2015). "Every Windows Phone 8 phone will get Windows 10, except the ones that won't". Ars Technica. Condé Nast.
+Jump up ^ "Windows Phone is dead". The Verge. Retrieved 18 May 2016.
+Jump up ^ "Windows Phone has a new app problem". The Verge. Retrieved 18 May 2016.
+Jump up ^ "Capitulation: Nokia adopts Windows Phone 7". =Ars Technica. 11 February 2011. Retrieved 12 February 2011.
+Jump up ^ Bamburic, Mihaita (10 June 2013). "Nokia dominates the Windows Phone market, leaves little room to HTC and Samsung.". Betanews.
+Jump up ^ Trenholm, Rich (25 April 2014). "Microsoft closes Nokia deal, pays more than expected". CNET. Retrieved 25 April 2014.
+Jump up ^ "Nokia phone unit 'to be renamed Microsoft Mobile'". The Daily Telegraph. Retrieved 25 April 2014.
+Jump up ^ "Nokia says its sale to Microsoft will close on April 25th". The Verge. Retrieved 25 April 2014.
+Jump up ^ Arthur, Charles (September 29, 2014). "Ten things to know about BlackBerry -- and how much trouble it is (or isn't) in". TheGuardian.com. The Guardian. Retrieved April 19, 2015.
+Jump up ^ Kevin McLaughlin (December 17, 2009). "BlackBerry Users Call For RIM To Rethink Service". CRN.com. Retrieved December 15, 2011.
+Jump up ^ Robert Nazarian (November 9, 2015). "Everything you need to know about the BlackBerry Priv Android phone". digitaltrends.com. Retrieved December 15, 2011.
+Jump up ^ "The Sailfish OS Wiki". The Sailfish OS Wiki. Retrieved March 14, 2013.archive-url=https://web.archive.org/web/20130315002624/https://sailfishos.org/wiki/Main_Page%7Carchive-date=March 15, 2013
+Jump up ^ "Jolla OS Will Run Android Apps Says CEO Jussi Hurmola".
+Jump up ^ "Many former Nokia employees start businesses of their own", Helsingin Sanomatarchive-url=https://web.archive.org/web/20120622014726/http://www.hs.fi/english/article/Many+former+Nokia+employees+start+businesses+of+their+own/1329104331230%7Carchive-date=June 22, 2012
+Jump up ^ Lunden, Ingrid. "Nokia Bridge: Nokia's Incubator Gives Departing Employees €25k And More To Pursue Ideas That Nokia Has Not". techcrunch.com. techcrunch.com. Retrieved June 7, 2013.
+Jump up ^ Tung, Liam. "Inside Nokia Bridge: How Nokia funds ex-employees' new start-ups". zdnet.com. © 2013 CBS Interactive. Retrieved June 7, 2013.
+Jump up ^ Techradar (February 23, 2014). "Samsung's wrist reboot: Gear 2 and Gear 2 Neo unveiled". Techradar. Retrieved February 23, 2014.
+Jump up ^ Jon Russell. "Samsung Launches Its First Tizen-Powered Phone, The Z1, In India For $92". Retrieved January 15, 2015.
+Jump up ^ Canonical. "Ubuntu on phones - Ubuntu". ubuntu.com.
+Jump up ^ "PDA Review: Ericsson R380 Smartphone". Geek.com. Retrieved December 15, 2011.
+Jump up ^ "Symbian Device – The OS Evolution" (PDF). Independent Symbian Blog. Retrieved December 15, 2011.
+Jump up ^ "Ericsson Introduces The New R380e". Mobile Magazine. Retrieved December 15, 2011.
+Jump up ^ Brown, Bruce. "Ericsson R380 World, Review & Rating". PCMag.com. Retrieved December 15, 2011.
+Jump up ^ "Nokia, Microsoft in pact to rival Apple, Google – Technology & Science". CBC.ca. Associated Press. February 11, 2011. Retrieved December 15, 2011.
+Jump up ^ Ed Hansberry (November 11, 2009). "Samsung Bailing on Windows Mobile". InformationWeek.
+Jump up ^ "Samsung to Discard Windows Phone". Telecoms Korea. November 9, 2009.
+Jump up ^ "Samsung Wave, first Bada smartphone hits the market". Bada. May 24, 2010. Retrieved February 3, 2011.
+(Archived 5 January 2012[permanent dead link] via Wayback)
+Jump up ^ "Samsung Waves away a million". The Inquirer. July 13, 2010.
+Jump up ^ "Samsung Bada shipments up 355% to 4.5 million units in Q2 2011 | asymco news | PG.Biz". Pocket Gamer. Retrieved September 7, 2011.
+Jump up ^ "Sony Mobile Plans to Release Firefox OS Devices by 2014". Mozilla Philippines. February 25, 2013. Retrieved June 17, 2014.
+Jump up ^ "Mozilla Kills Firefox OS for Smartphones". Gadgets360. NDTV. Retrieved 21 May 2016.
+Jump up ^ Stephen H. Wildstrom (November 30, 2001). "Handspring's Breakthrough Hybrid". Businessweek.com. Retrieved December 15, 2011.
+Jump up ^ "HP To Stop Making webOS Smartphones, Might License the OS to Others". Retrieved November 26, 2013.
+Jump up ^ "HP Confirms Discussions with Autonomy Corporation plc Regarding Possible Business Combination; Makes Other Announcements". HP. August 18, 2010. Retrieved September 13, 2011.
+(Archived 6 October 2011[permanent dead link] via Wayback)
+Jump up ^ "The next chapter for webOS". HP webOS Developer Blog. August 19, 2010. Retrieved September 13, 2011.
+Jump up ^ "Open webOS::Roadmap". Open webOS Project. September 2012. Retrieved October 24, 2012.
+Jump up ^ Qualcomm purchases Palm patents from HP Archived June 17, 2016, at the Wayback Machine. USA Today January 24, 2014. Retrieved February 22, 2016
+Jump up ^ W3C Interview: Vision Mobile on the App Developer Economy with Matos Kapetanakis and Dimitris Michalakos Archived June 29, 2016, at the Wayback Machine.. February 18, 2014. Retrieved February 24, 2015.
+Jump up ^ "Save Big 2.45 " IPS Touch Screen the World's Smallest Android Smartphone Dual Sim Quadband - USA Store". USA Store. Retrieved 2016-01-18.
+Jump up ^ Braille for smartphone screens (Spanish)
+Jump up ^ "European Mobile Market". telecoms market research. CMSinfo. 2011. Retrieved June 27, 2013.
+Jump up ^ beyondbrics (August 24, 2012). "Apple in China: not as cool as before". ft.com. Retrieved August 30, 2012.
+Jump up ^ Steven Millward (December 22, 2014). "China now has 520M smartphone users, will top 700M by 2018". Tech in Asia. Retrieved December 22, 2014.
+Jump up ^ Erica Ogg (December 22, 2011). "Smartphones killing point-and-shoots, now take almost 1/3 of photos". GIGAOM. GIGAOM. Retrieved June 27, 2013.
+Jump up ^ Leena Rao (September 19, 2012). "comScore: 4 Out Of 5 Smartphone Owners Use Device To Shop; Amazon Is The Most Popular Mobile Retailer". TechCrunch. AOL Inc. Retrieved June 27, 2013.
+Jump up ^ "Archived copy" (PDF). Archived (PDF) from the original on June 17, 2016. Retrieved 2014-03-06.
+Jump up ^ "Worldwide Smartphone Shipments Top One Billion Units for the First Time, According to IDC". IDC. January 2014. Retrieved January 27, 2014.
+(Archived 31 January 2014[permanent dead link] via Wayback)
+Jump up ^ Daniel van Boom (April 27, 2016). "It's not just Apple: Global smartphone market shrinks for the first time ever".
+Jump up ^ "Gartner Says Five of Top 10 Worldwide Mobile Phone Vendors Increased Sales in Second Quarter of 2016". Gartner. Retrieved August 19, 2016.
+Jump up ^ "Top Five Smartphone Vendors, Shipments, Market Share, and Year-Over-Year Growth, Q2 2016". International Data Corporation. Retrieved July 28, 2016.
+Jump up ^ Jon Fingas (January 28, 2014). "Smartphone sales may have topped 1 billion in 2013, depending on who you ask". Engadget.
+Jump up ^ Steven Millward (May 13, 2014). "Xiaomi breaks into global top 10 for smartphone shipments, kicks out HTC". Tech In Asia. Retrieved September 9, 2014.
+Jump up ^ Brett Molina and Marco della Cava, USA TODAY (March 3, 2015). "Apple beats Samsung in Q4 smartphone sales". USA TODAY.
+Jump up ^ "comScore Reports January 2015 U.S. Smartphone Subscriber Market Share". comScore. Retrieved 2016-01-18.
+Jump up ^ "Gartner Says Five of Top 10 Worldwide Mobile Phone Vendors Increased Sales in Second Quarter of 2016". Gartner. Retrieved August 19, 2016.
+Jump up ^ "IDC: Smartphone OS Market Share". Retrieved March 26, 2014.
+Jump up ^ "Smartphone OS Market Share, Q3 2014". Retrieved December 21, 2014.
+Jump up ^ "J.D. Power and Associates Reports: Smartphone Battery Life has Become a Significant Drain on Customer Satisfaction and Loyalty". Retrieved September 11, 2014.
+Jump up ^ "The secret behind poor smartphone battery life". ZDNet.
+Jump up ^ "Peak Battery: Why Smartphone Battery Life Still Stinks, and Will for Years". TIME.com. April 1, 2013.
+Jump up ^ "It's time to kiss that removable smartphone battery goodbye". CNET. Retrieved 2016-03-27.
+Jump up ^ "SMARTPHONES make TEENS have SEX with STRANGERS". theregister.co.uk. Retrieved 2016-01-18.
+Jump up ^ Colaner, Seth (August 27, 2012). "Your Tablet and Smartphone Could Be Ruining Your Sleep". Retrieved January 22, 2014.
+Jump up ^ Cheever, N. A., Rosen, L. D., Carrier, L. M., & Chavez, A. (2014). Out of sight is not out of mind: The impact of restricting wireless mobile device use on anxiety levels among low, moderate and high users. Computers in Human Behavior, 37, 290-297.
+Jump up ^ Hookham, Mark; Togoh, Isabel; Yeates, Alex (21 February 2016). "Walkers hit by curse of the smombie". The Sunday Times. UK. Retrieved 23 February 2016.
+Jump up ^ Hatton, Celia (15 September 2014). "Chongqing's 'mobile lane'". BBC News. UK: BBC. Retrieved 23 February 2016.
+Jump up ^ Rick Noack (April 25, 2016) This city embedded traffic lights in the sidewalks so that smartphone users don’t have to look up The Washington Post. Retrieved 5 May 2016.
+Jump up ^ "Quit Googling yourself and drive: About 20% of drivers using Web behind the wheel, study says". Los Angeles Times. March 4, 2011.
+Jump up ^ Atchley, Paul; Atwood, Stephanie; Boulton, Aaron (January 2011). "The Choice to Text and Drive in Younger Drivers: Behaviour May Shape Attitude". Accident Analysis and Prevention. 43: 134–142. doi:10.1016/j.aap.2010.08.003.
+Jump up ^ Text messaging not illegal but data clear on its peril
+Jump up ^ de Waard, D., Schepers, P., Ormel, W. and Brookhuis, K., 2010, Mobile phone use while cycling: Incidence and effects on behaviour and safety, Ergonomics, Vol 53, No. 1, January 2010, pp 30–42.
+Jump up ^ Drivers still Web surfing while driving, survey finds
+Jump up ^ "Reaching the Mobile Respondent: Determinants of High-Level Mobile Phone Use Among a High-Coverage Group" (PDF). Social Science Computer Review.
+Jump up ^ Drivers face new phone penalties
+Jump up ^ Careless talk
+Jump up ^ "Illinois to ban texting while driving - CNN.com". CNN. August 6, 2009. Retrieved May 12, 2010.
+Jump up ^ Steitzer, Stephanie (July 14, 2010). "Texting while driving ban, other new Kentucky laws take effect today". The Courier-Journal. Retrieved July 15, 2010.[dead link]
+Jump up ^ "Distracted Driving Laws". Public Health Law Research. 2011-07-15. Retrieved 2014-06-27.
+Jump up ^ Yetisen, A. K.; Martinez-Hurtado, J. L.; et al. (2014). "The regulation of mobile medical applications". Lab on a Chip. 14 (5): 833–840. doi:10.1039/C3LC51235E.
+Jump up ^ Mobile Malware Development Continues To Rise, Android Leads The Way.
+Jump up ^ Mylonas Alexios; Tsoumas Bill; Dritsas Stelios; Gritzalis Dimitris (2011). 8th International Conference on Trust, Privacy & Security in Digital Business (TRUSTBUS-2011). Springer Berlin / Heidelberg. pp. 49–61.
+Jump up ^ "The Mother Of All Android Malware Has Arrived". Android Police. March 6, 2011.
+Jump up ^ Perez, Sarah (February 12, 2009). "Android Vulnerability So Dangerous, Owners Warned Not to Use Phone's Web Browser". Readwriteweb.com. Retrieved August 8, 2011.
+Jump up ^ "Lookout, Retrevo warn of growing Android malware epidemic, note Apple's iOS is far safer". Appleinsider.com. August 3, 2011. Retrieved January 5, 2012.
+Jump up ^ "Plea urges anti-theft phone tech". The San Francisco Examiner.
+Jump up ^ "Getting started with Anti-Theft Protection in BlackBerry 10 OS version 10. - Inside BlackBerry Help Blog". blackberry.com. Retrieved 2016-01-18.
+Jump up ^ "Stop your gadgets from keeping you awake at night". CNET. Retrieved 1 June 2016.
+Jump up ^ Kalsbeek, Andries (2012). The Neurobiology of Circadian Timing Elsevier. pp. 382.
+Jump up ^ Luisa Dillner. "Should I keep my smartphone and tablet out of my bedroom?". The Guardian. Retrieved June 17, 2014.
+Jump up ^ "Are smartphones disrupting your sleep?". ScienceDaily. Retrieved June 17, 2014.
+Jump up ^ Mahesh Sharma. "Switching off your smartphone at night makes you more productive". Smh.com.au. Retrieved June 17, 2014.
+Jump up ^ Kay, Roger (February 7, 2012), "Is the Market Ready for a Phablet?", Forbes, retrieved August 15, 2012
+Jump up ^ Sasha Segan (February 13, 2012), "Enter the Phablet: A History of Phone-Tablet Hybrids", PC MAgazine
+Jump up ^ What Makes a Smartphone a Superphone? Mashable.com
+Jump up ^ Superphone vs smartphone: what's the difference? Techradar.com
+[show] v t e
+Computer sizes
+[show] v t e
+Mobile phones
+[show] v t e
+Mobile operating systems
+[show] v t e
+Telecommunications
+Authority control	
+LCCN: sh2007006251 GND: 4845922-7 NDL: 01155746
+Categories: SmartphonesMobile phones introduced in 19992000s fads and trends2010s fads and trendsCloud clientsComputer-related introductions in 1999Consumer electronicsInformation appliancesMobile phonesPersonal computingPortable computersProducts introduced in 1999
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Languages
+Afrikaans
+Ænglisc
+العربية
+বাংলা
+Беларуская
+Беларуская (тарашкевіца)‎
+भोजपुरी
+Български
+Boarisch
+Bosanski
+Brezhoneg
+Català
+Čeština
+Cymraeg
+Dansk
+Deutsch
+Eesti
+Ελληνικά
+Español
+Esperanto
+Euskara
+فارسی
+Français
+Frysk
+Galego
+客家語/Hak-kâ-ngî
+한국어
+Հայերեն
+हिन्दी
+Hrvatski
+Bahasa Indonesia
+Interlingua
+Íslenska
+Italiano
+עברית
+ქართული
+Қазақша
+Кыргызча
+ລາວ
+Latgaļu
+Latina
+Latviešu
+Lietuvių
+Lumbaart
+Magyar
+Malagasy
+മലയാളം
+मराठी
+მარგალური
+Bahasa Melayu
+Монгол
+Nederlands
+Nedersaksies
+日本語
+Norsk bokmål
+Occitan
+Oʻzbekcha/ўзбекча
+ਪੰਜਾਬੀ
+Pälzisch
+Polski
+Português
+Română
+Rumantsch
+Русский
+Scots
+Simple English
+سنڌي
+Slovenčina
+Slovenščina
+Soomaaliga
+Српски / srpski
+Suomi
+Svenska
+தமிழ்
+Татарча/tatarça
+ไทย
+Тоҷикӣ
+Türkçe
+Українська
+اردو
+Tiếng Việt
+Walon
+Winaray
+粵語
+中文
+Edit links
+This page was last modified on 10 December 2016, at 17:33.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

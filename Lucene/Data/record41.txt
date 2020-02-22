@@ -1,0 +1,324 @@
+﻿
+Online game
+From Wikipedia, the free encyclopedia
+
+[hide]This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. (September 2007)
+This article possibly contains original research. (May 2012)
+This article may require cleanup to meet Wikipedia's quality standards. (May 2012)
+WPVG icon 2016.svg
+Part of a series on:
+Video games
+Platforms[show]
+Genres[show]
+Related[show]
+Development[show]
+v t e
+An online game is a video game that is either partially or primarily played through the Internet or another computer network.[1] Online games are ubiquitous on modern gaming platforms, including PCs, consoles and mobile devices, and span many genres, including first-person shooters, strategy games and massively multiplayer online role-playing games (MMORPG).[2]
+
+The history of online games dates back to the early days of packet-based computer networking in the 1970s,[3] An early example of online games are MUD, including the first, MUD1, which was created in 1978 and originally confined to an internal network before becoming connected to ARPANet in 1980.[4] Commercial games followed in the next decade, with Islands of Kesmai, the first commercial online role-playing game, debuting in 1984,[4] as well as more graphical games, such as the MSX LINKS action games in 1986,[5] the flight simulator Air Warrior in 1987, and the Famicom Modem's online Go game in 1987.[6] The rapid availability of the Internet in the 1990s led to an expansion of online games, with notable titles including Nexus: The Kingdom of the Winds (1996), Quakeworld (1996), Ultima Online (1997), Lineage (1998), Starcraft (1998), Counter-Strike (1999) and EverQuest (1999). Video game consoles also began to receive online networking features, such as the Famicom Modem (1987), Sega Meganet (1990), Satellaview (1995), SegaNet (1996), PlayStation 2 (2000) and Xbox (2001).[7][8] Following improvements in connection speeds,[9] more recent developments include the popularization of new genres, such as social games, and new platforms, such as mobile games.[10]
+
+Online game sessions are hosted by a game server, which can be a dedicated computer managed by the game company or a gamer organization, or the computer of one of the players. The design of online games can range from simple text-based environments to the incorporation of complex graphics and virtual worlds.[7] The prominence of online components within a game can range from being minor features, such as an online leaderboard, to being part of core gameplay, such as directly playing against other players. Many online games, especially MMORPG, create their own online communities, while other games, especially social games, integrate the players' existing real-life communities.[3]
+
+Traditionally, researchers thought of motivations to use computer systems to be primarily driven by extrinsic purposes and have designed these systems accordingly; however, use of online games is by intrinsic motivations such as fun, relaxation, competition, achievement and learning, which considerations must drive their design.[11]
+
+Online game culture sometimes faces criticisms for an environment that might promote cyberbullying, violence, and xenophobia. Some gamers are also concerned about gaming addiction or social stigma.[9] Online games have attracted players from a variety of ages, nationalities, and occupations.[12][13][14] Online game content can also be studied in scientific field, especially gamers' interactions within virtual societies in relation to the behavior and social phenomena of everyday life.[12][13]
+
+Contents  [hide] 
+1	Demographics
+1.1	Gender distribution
+1.2	Age and socioeconomics
+1.3	Time spent on online gaming
+1.4	Gaming Industry
+1.4.1	Worldwide sales
+1.4.2	Virtual goods
+2	Online games
+2.1	First-person shooter game (FPS)
+2.2	Hero shooter
+2.3	Real-time strategy game (RTS)
+2.4	Multiplayer online battle arena game (MOBA)
+2.5	Massively multiplayer online game (MMO)
+2.6	Console game
+2.7	Cross-platform online game
+2.8	Browser games
+2.9	MUD
+3	Online game governance
+4	Forced online games playing
+5	See also
+6	References
+Demographics[edit]
+As of April 2013, the number of daily active online gamers worldwide has reached 144.9 million.[15] Number of gamers, by region:
+
+Asia Pacific: 47.9 millions
+Europe: 45.6 millions
+North America: 30.3 millions
+Latin America: 14.9 millions
+Middle East & Africa: 6.2 millions
+Gender distribution[edit]
+For depictions of men and women in video games, see Gender representation in video games.
+The assumption that online games in general are populated mostly by male has remained somewhat accurate for years. Recent statistics begin to diminish the male domination myth in gaming culture. Although a worldwide number of male online gamers still dominates over female (52% by 48%);[16] women even accounted for more than half portion of the population in certain games, including PC games. The number of female players age of 50 or older has increased by 32% from 2012 to 2013.[16]
+
+International gamer gender ratios for 2012
+Region/Country	Study	Ratio
+(female to male)
+Australia	IGEA[17]	47 : 53
+Canada	ESAC[18]	46 : 54
+New Zealand	IGEA[19]	46: 54
+USA	ESA[20]	47 : 53
+Europe	ISFE[21]	45 : 55
+Austria	ISFE[21]	44 : 56
+Belgium	ISFE[21]	46 : 54
+Czech Republic	ISFE[21]	44 : 56
+Denmark	ISFE[21]	42 : 58
+Finland	ISFE[21]	49 : 51
+France	ISFE[21]	47 : 53
+Germany	ISFE[21]	44 : 56
+Great Britain	ISFE[21]	46 : 54
+Italy	ISFE[21]	48 : 52
+Netherlands	ISFE[21]	46 : 54
+Norway	ISFE[21]	46 : 54
+Poland	ISFE[21]	44 : 56
+Portugal	ISFE[21]	43 : 57
+Spain	ISFE[21]	44 : 56
+Sweden	ISFE[21]	47 : 53
+Switzerland	ISFE[21]	44 : 56
+Statistics in the United States show a reduction overall in the number of male gamers, but expansion in the number of female gamers.[22] In 2006, male gamers dominated female, 62% to 38%. In 2010, the number of male gamers dropped by 2%. By 2014, female gamers had just about reversed the numbers, standing 48% to 52% female to male. Other statistic in the United State shows a dominance of female population in certain online game genres.[23] The distribution of online gamers (female to male) as of October 2014, by platform and gender:
+
+Role-playing games: 53.6% to 46.5%
+PC game (including social games): 50.2% to 49.9%
+Digital console: 37% to 63%
+First-person shooting game: 34% to 66%
+Age and socioeconomics[edit]
+Current study conducted in 2014 shows an average of age of gamers is 31 years old with 29% the population is under 18, 32% is within the range of 18 to 35 years of age, and 39% is 36 or older.[16] The European Games Developer Federation (EGDF) also conducted a segmentation of gamers in coordination with age and socioeconomic status:[24]
+
+43% of gamers are older than average and more likely to be unemployed
+21% of gamers are mostly below 30 years of age
+20% of gamers are students
+9% of gamers are in range of 30 or above and more educated/employed than average
+7% of gamers are at the youngest age
+Time spent on online gaming[edit]
+More than half a billion online gamers around the globe play game on their daily basis with an average time spent online approximately reaches 3 hours per day.[25] As of 2014, types of online games played most often include:[16][26]
+
+Casual/Social games: 40%
+Puzzle, Board Game, Game Show, Trivia, Card Games: 18%
+Action, Sport, Strategy, Role-playing: 24%
+Persistent, Multi-player Universe: 11%
+Other: 8%
+Gaming platform such as Raptr and Steam collect data of players during their gaming experience. Statistics from Raptr present a list of worldwide most-played online games according to total playing time in the platform.[25] The leading game as of February 2015 is League of Legends (21.26%), followed by World of Warcraft (8.03%) and DOTA 2 (7.17%). The recent escalation of more than 7.4 million subscribers to World of Warcraft was due to the release of 'Warlords of Draenor' expansion
+
+Gaming Industry[edit]
+Further information: Online Gaming in the U.S.
+As of 2014, 59%[27] of American's regularly play video games. The total amount American's spent on gaming as a whole in 2014 reached $21.53 billion.[27]
+
+Further information: Online gaming in China
+As of 2009, the largest market is China.[28] The country has 368 million Internet users playing online games[29] and the industry was worth US$13.5 billion in 2013. 73% of gamers are male, 27% are female.[30]
+
+In 2007, the online gaming market in China was worth $1.66 bln.[31]
+
+Worldwide sales[edit]
+The report Online Game Market Forecasts estimates worldwide revenue from online games to reach $35 billion by 2017, up from $19 billion in 2011.[32]
+
+Online games sales, by years:
+
+2012: 22.6 billions of $US[33]
+2010: 15 billions of $US[34]
+2009: 12.9 billions of $US[34] or 15 billions of $US according to another estimate[35]
+2008: 10.8 billions of $US[34]
+2007: 7.9 billions of $US[34]
+2003: 1 billion of $US and 23 millions of units sold[36]
+1998: 70 millions of $US[37]
+Virtual goods[edit]
+The virtual goods revenue from online games and social networking exceeded US$7 billion in 2010.[38]
+
+In 2011, it was estimated that up to 100,000 people in China and Vietnam are playing online games to gather gold and other items for sale to Western players.[39]
+
+Online games[edit]
+First-person shooter game (FPS)[edit]
+Main article: First-person shooter
+During the 1990s, online games started to move from a wide variety of LAN protocols (such as IPX) and onto the Internet using the TCP/IP protocol. Doom popularized the concept of deathmatch, where multiple players battle each other head-to-head, as a new form of online game. Since Doom, many first-person shooter games contain online components to allow deathmatch or arena style play. And by popularity, first person shooter games are becoming more and more widespread around the world. And FPS (First Person Shooter) games are now becoming more of an art form because of the required skills and strategy with teammates. More first person shooter competitions are formed to give players a chance to showcase their talents individually or on a team. The kind of games that are played at the more popular competitions are Counter-Strike, Halo, Call of Duty: Advanced Warfare, Quake Live and Unreal Tournament. Competitions have a range of winnings from money to hardware.
+
+Hero shooter[edit]
+Main article: Hero shooter
+Expansion of hero shooters, a subgenre of shooter games, happened in 2016 when several developers released or announced their hero shooter multiplayer online game (Battleborn, Overwatch, and Paladins). [40]
+
+Real-time strategy game (RTS)[edit]
+Main article: Real-time strategy
+Early real-time strategy games often allowed multiplayer play over a modem or local network. As the Internet started to grow during the 1990s, software was developed that would allow players to tunnel the LAN protocols used by the games over the Internet. By the late 1990s, most RTS games had native Internet support, allowing players from all over the globe to play with each other. Services were created to allow players to be automatically matched against another player wishing to play, or lobbies were formed where people could meet in "rooms" to play a game. Popular RTS games with online communities have included Age of Empires, Sins of a Solar Empire, StarCraft and Warhammer 40,000: Dawn of War.
+
+Multiplayer online battle arena game (MOBA)[edit]
+Main article: Multiplayer online battle arena
+A specific subgenre of strategy video games referred to as multiplayer online battle arena (MOBA) gained popularity in the 2010s as a form of electronic sports, encompassing games such as the Defense of the Ancients mod for Warcraft III, its Valve-developed sequel Dota 2, Heroes of the Storm and League of Legends.
+
+Massively multiplayer online game (MMO)[edit]
+Main article: Massively multiplayer online game
+Massively multiplayer online games were made possible with the growth of broadband Internet access in many developed countries, using the Internet to allow hundreds of thousands of players to play the same game together. Many different styles of massively multiplayer games are available, such as:
+
+MMORPG (Massively multiplayer online role-playing game)
+MMORTS (Massively multiplayer online real-time strategy)
+MMOFPS (Massively multiplayer online first-person shooter)
+MMOSG (Massively multiplayer online social game)
+Console game[edit]
+Main articles: Xbox Live and PlayStation Network
+Xbox Live was launched in November 2002. Initially the console only used a feature called system link, where players could connect two consoles using an Ethernet cable, or multiple consoles through a router. With the original Xbox Microsoft launched Xbox Live, allowing shared play over the internet. A similar feature exists on the PlayStation 3 in the form of the PlayStation Network, and the Wii also supports a limited amount of online gaming. However, Nintendo has come with a new network dubbed "Nintendo Network", and it now fully supports online gaming with the Wii U console.
+
+Cross-platform online game[edit]
+As consoles are becoming more like computers, online gameplay is expanding. Once online games started crowding the market, networks, such as the Dreamcast, PlayStation 2, GameCube and Xbox took advantage of online functionality with its PC game counterpart. Games such as Phantasy Star Online have private servers that function on multiple consoles. Dreamcast, PC, Macintosh and GameCube players are able to share one server. Earlier games, like 4x4 Evolution, Quake III Arena and Need for Speed: Underground also have a similar function with consoles able to interact with PC users using the same server. Usually, a company like Electronic Arts or Sega runs the servers until it becomes inactive, in which private servers with their own DNS number can function. This form of networking has a small advantage over the new generation of Sony and Microsoft consoles which customize their servers to the consumer.
+
+Browser games[edit]
+Main article: Browser game
+As the World Wide Web developed and browsers became more sophisticated, people started creating browser games that used a web browser as a client. Simple single player games were made that could be played using a web browser via HTML and HTML scripting technologies (most commonly JavaScript, ASP, PHP and MySQL). More complicated games such as Legend of Empires or Travian would contact a web server to allow a multiplayer gaming environment.
+
+The development of web-based graphics technologies such as Flash and Java allowed browser games to become more complex. These games, also known by their related technology as "Flash games" or "Java games", became increasingly popular. Many games originally released in the 1980s, such as Pac-Man and Frogger, were recreated as games played using the Flash plugin on a webpage. Most browser games had limited multiplayer play, often being single player games with a high score list shared amongst all players. This has changed considerably in recent years as examples like Castle of Heroes or Canaan Online show.
+
+Browser-based pet games are popular amongst the younger generation of online gamers. These games range from gigantic games with millions of users, such as Neopets, to smaller and more community-based pet games.
+
+More recent browser-based games use web technologies like Ajax to make more complicated multiplayer interactions possible and WebGL to generate hardware-accelerated 3D graphics without the need for plugins.
+
+Java has become the most widely used programming language for browser games (though 2d).[citation needed] Applets made in Java are embedded in webpages and are run on the user's computer.
+
+MUD[edit]
+Main article: MUD
+MUD are a class of multi-user real-time virtual worlds, usually but not exclusively text-based, with a history extending back to the creation of MUD1 by Richard Bartle in 1978. MUD were the direct predecessors of MMORPG.[41]
+
+Online game governance[edit]
+Online gamer must agree to an End-user license agreement (EULA) when they first install the game application or an update. EULA is a legal contract between the producer or distributor and the end-user of an application or software, which is to prevent the program from being copied, redistributed or hacked.[42] The consequences of breaking the agreement vary according to the contract. Players could receive warnings to termination, or direct termination without warning. In the 3D immersive world Second Life where a breach of contract will append the player warnings, suspension and termination depending on the offense.[43] Enforcing the EULA is difficult, due to high economic costs of human intervention and low returns to the firm. Only in large scale games is it profitable for the firm to enforce its EULA.
+
+Where online games supports an in-game chat feature, it is not uncommon to encounter hate speech, sexual harassment and cyberbullying. The subject is controversial, with many players defending their freedom to engage in any form of behavior.[44][45] Players, developers, gaming companies, and professional observers are discussing and developing tools which discourage antisocial behavior.[46] There are also sometimes Moderators present, who attempt to prevent Anti-Social behaviour. In some online games, there are bots which automatically detect some forms of anti-social behavior, such as spam or rude language, and punish the player if detected.
+
+Recent development of gaming governance requires all video games (including online games) to hold a rating label. The voluntary rating system was established by the Entertainment Software Rating Board (ESRB). A scale can range from "E" (stands for Everyone) inferring games that is suitable for both children and adults, to "M" (stands for Mature) recommending games that is restricted to age above 17. Some explicit online game can be rated "AO" (stands for Adult Only), identifying games that content suitable for adults over age of 18.
+
+Forced online games playing[edit]
+In 2011, The Guardian reported that scores of Chinese prisoners were forced to play online games to build up credits that prison guards would then trade for real money.[47]
+
+See also[edit]
+List of video game genres
+History of online games
+Massively multiplayer online game
+Multiplayer online game
+Multiplayer video game
+References[edit]
+Jump up ^ Andrew Rollings; Ernest Adams (2006). Fundamentals of Game Design. Prentice Hall.
+Jump up ^ Quandt, Thorsten; Kröger, Sonja (2014). Multiplayer: The Social Aspects of Digital Gaming. London: Routledge. ISBN 978-0415828864.
+^ Jump up to: a b David R. Woolley. "PLATO: The Emergence of Online Community". thinkofit.com. Retrieved October 12, 2013.
+^ Jump up to: a b Mulligan, Jessica; Patrovsky, Bridgette (2003). Developing online games: an insider's guide. Indianapolis, Ind. [u.a.]: New Riders Publ. ISBN 1-59273-000-0.
+Jump up ^ The LINKS (Network), MSX Resource Center
+Jump up ^ Takano, Masaharu (September 11, 1995). "How the Famicom Modem was Born". Nikkei Electronics (in Japanese). English translation by GlitterBerri.
+^ Jump up to: a b Hachman, Mark. "Infographic: A Massive History of Multiplayer Online Gaming". PC Magazine. Retrieved October 6, 2015.
+Jump up ^ Donovan, Tristan (2010). Replay: The History of Video Games. East Sussex, England: Yellow Ant. ISBN 978-0956507204.
+^ Jump up to: a b Rouse, Margaret. "Gaming". WhatIs.com.
+Jump up ^ "Mobile Games". Techopedia.
+Jump up ^ Paul Benjamin Lowry, James Gaskin, Nathan W. Twyman, Bryan Hammer, and Tom L. Roberts (2013). “Taking ‘fun and games’ seriously: Proposing the hedonic-motivation system adoption model (HMSAM),” Journal of the Association for Information Systems (JAIS), vol. 14(11), 617–671.
+^ Jump up to: a b Martney, R. (2014). "The strategic female: gender-switching and player behavior in online games". Information, Communication & Society. 17 (3): 286–300.
+^ Jump up to: a b Worth, N. (2014). "Personality and behavior in a massively multiplayer online role-playing game". Computers in Human Behavior. 38: 322–330. doi:10.1016/j.chb.2014.06.009.
+Jump up ^ Schiano, D. "The "lonely gamer" revisited". Entertainment Computing. 5: 65–70. doi:10.1016/j.entcom.2013.08.002.
+Jump up ^ "Number of daily active online gamers worldwide as of April 2013, by region (in millions)". Statista.com.
+^ Jump up to: a b c d "Essential Facts About the Computer and Video Game Industry" (PDF). entertainment software association.
+Jump up ^ Brand, Jeffrey E.; Pascaline Lorentz; and Trishita Mathew. "Digital Australia DA14." Interactive Games & Entertainment Association. Pg.3. 2014.
+Jump up ^ "Essential Facts 2012." Entertainment Software Association of Canada. Pg.3. 2012.
+Jump up ^ Brand, Jeffrey E.; Pascaline Lorentz; and Trishita Mathew. "Digital New Zealand DNZ14." Interactive Games & Entertainment Association. Pg.3. 2014.
+Jump up ^ "2012 Sales, Demographic and Usage Data - Essential Facts About the Computer and Video Game Industry." Entertainment Software Association. Pg.3. 2012.
+^ Jump up to: a b c d e f g h i j k l m n o p q Bosmans, Dirk and Paul Maskell. "Videogames in Europe: Consumer Study." Interactive Software Federation of Europe. Pp.11, 36-51. November 2012.
+Jump up ^ "Distribution of computer and video gamers in the United States from 2006 to 2014, by gender". statista. Entertainment Software Association.
+Jump up ^ "Distribution of video gamers in the United States as of October 2014, by platform and gender". Statista. SuperData Research.
+Jump up ^ "European Online Game Survey 2012" (PDF). European Games Developer Federation.
+^ Jump up to: a b "Most played PC games on gaming platform Raptr in February 2015, by share of playing time". Statistia. Raaptr.
+Jump up ^ Galarneau, L. "2014 Global Gaming Stats: Who's Playing What, and Why?". bigfishgame.
+^ Jump up to: a b Estertainment Software Association (2014). "ESA Sales, Demographic and Usage data, 2014" (PDF). Retrieved March 24, 2015.
+Jump up ^ Yan, Hao (June 23, 2010). "China's online game revenue tops the world". www.chinadaily.com.cn. Retrieved August 4, 2014.
+Jump up ^ Bischoff, Paul (July 22, 2014). "China's mobile internet users now outnumber its PC internet users". Tech In Asia. Retrieved August 4, 2014.
+Jump up ^ Millward, Steven (January 21, 2014). "Let's take a look at China's $13.5 billion online gaming industry (INFOGRAPHIC)". Tech In Asia. Retrieved August 4, 2014.
+Jump up ^ "Online games market in China to reach $3 bln by 2010". ZDNet. March 22, 2008. Retrieved November 27, 2014.
+Jump up ^ Gaudiosi, John (July 18, 2012). "New Reports Forecast Global Video Game Industry Will Reach $82 Billion By 2017". Forbes. Retrieved November 27, 2014.
+Jump up ^ Nayak, Malathi (June 10, 2013). "FACTBOX - A look at the $66 billion video-games industry". In.reuters.com. Retrieved November 27, 2014.
+^ Jump up to: a b c d "• Value of the global video game market by component 2007-2016". Statista.com. Retrieved November 27, 2014.
+Jump up ^ Lovell, Nicholas (June 22, 2010). "The online games market was worth $15 billion in 2009, and will grow to $20 billion in 2010". Gamesbrief.com. Retrieved November 27, 2014.
+Jump up ^ "More than $1 bln of online games sold in 2003". ZDNet. March 25, 2004. Retrieved November 27, 2014.
+Jump up ^ "US Report: Online games to become billion-dollar industry". ZDNet. June 4, 1998. Retrieved November 27, 2014.
+Jump up ^ Kwang, Kevin (July 12, 2011). "Online games, social networks drive virtual goods". ZDNet. Retrieved November 27, 2014.
+Jump up ^ "Virtual sales provide aid to poorer nations". BBC. April 8, 2011. Retrieved November 27, 2014.
+Jump up ^ Wawro, Alex (May 6, 2016). "Hero Shooters: Charting the (re)birth of a genre". Gamasutra. Retrieved May 6, 2016.
+Jump up ^ Castronova, Edward (2006). Synthetic Worlds: The Business and Culture of Online Games. University Of Chicago Press. pp. 10, 291. ISBN 0-226-09627-0. [pp. 10] The ancestors of MMORPG were text-based multiuser domains (MUD) [...] [pp. 291] Indeed, MUD generate perhaps the one historical connection between game-based VR and the traditional program [...]
+Jump up ^ Nahmias, Jordan. "The EULA: What it does, how it works (and, what does EULA even mean)". nahmiaslaw.
+Jump up ^ "Community: Incident Report". Second Life. Archived from the original on August 20, 2008. Retrieved February 12, 2010.
+Jump up ^ Inkblot (February 29, 2012). "Back to Basics, Getting Beyond the Drama". shoryuken.com/. Retrieved August 2, 2012.
+Jump up ^ Amy O'Leary (August 1, 2012). "In Virtual Play, Sex Harassment Is All Too Real". The New York Times. Retrieved August 2, 2012.
+Jump up ^ Portnow, James. "Extra Credits: Harassment". penny-arcade.com: Extra Credits. Archived from the original (video) on August 2, 2012. Retrieved August 2, 2012. This week, we tackle the rampant bullying, misogyny and hate speech that occurs within the gaming community.
+Jump up ^ Danny Vincent In Beijing (May 25, 2011). "China used prisoners in lucrative internet gaming work". The Guardian. Retrieved November 27, 2014.
+[show] v t e
+Multiplayer video games
+[show] v t e
+Video game genres
+Categories: Online gamesVideo game terminology
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Languages
+العربية
+Български
+Català
+Čeština
+Dansk
+Deutsch
+Español
+Français
+Galego
+한국어
+Հայերեն
+Bahasa Indonesia
+Italiano
+עברית
+Lietuvių
+Македонски
+Nederlands
+日本語
+Norsk bokmål
+Polski
+Português
+Română
+Русский
+Simple English
+Српски / srpski
+Basa Sunda
+Suomi
+Svenska
+Tagalog
+ไทย
+Türkçe
+Українська
+Tiếng Việt
+粵語
+中文
+Edit links
+This page was last modified on 9 December 2016, at 19:10.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

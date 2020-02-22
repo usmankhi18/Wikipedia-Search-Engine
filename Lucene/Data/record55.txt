@@ -1,0 +1,247 @@
+﻿
+Maker culture
+From Wikipedia, the free encyclopedia
+
+Silicon Valley billboard
+The maker culture is a contemporary culture or subculture representing a technology-based extension of DIY culture[citation needed] that intersects with hacker culture (which is less concerned with physical objects as it focuses on software) and revels in the creation of new devices as well as tinkering with existing ones. The maker culture in general supports open-source hardware. Typical interests enjoyed by the maker culture include engineering-oriented pursuits such as electronics, robotics, 3-D printing, and the use of Computer Numeric Control tools, as well as more traditional activities such as metalworking, woodworking, and, mainly, its predecessor, the traditional arts and crafts. The subculture stresses a cut-and-paste approach to standardized hobbyist technologies, and encourages cookbook re-use of designs published on websites and maker-oriented publications.[1][2] There is a strong focus on using and learning practical skills and applying them to reference designs.[3]
+
+Contents  [hide] 
+1	Philosophical emphasis
+2	Makerspaces
+3	Maker segmentation
+4	Tools and hardware
+5	Other types of making
+5.1	Amateur scientific equipment
+5.2	Clothes
+5.3	Biology, food and composting
+5.4	Organic cosmetics
+5.5	Music making
+5.6	Tool making
+5.7	Vehicles
+6	Media
+7	Maker faires
+8	Maker Film Fest
+9	Demography
+10	See also
+11	References
+12	External links
+Philosophical emphasis[edit]
+Maker culture emphasizes learning-through-doing (active learning) in a social environment. Maker culture emphasizes informal, networked, peer-led, and shared learning motivated by fun and self-fulfillment.[4] Maker culture encourages novel applications of technologies, and the exploration of intersections between traditionally separate domains and ways of working including metal-working, calligraphy, film making, and computer programming. Community interaction and knowledge sharing are often mediated through networked technologies, with websites and social media tools forming the basis of knowledge repositories and a central channel for information sharing and exchange of ideas, and focused through social meetings in shared spaces such as hackspaces. Maker culture has attracted the interest of educators concerned about students’ disengagement from STEM subjects (science, technology, engineering and mathematics) in formal educational settings. Maker culture is seen as having the potential to contribute to a more participatory approach and create new pathways into topics that will make them more alive and relevant to learners.
+
+Some say that the maker movement is a reaction to the de-valuing of physical exploration and the growing sense of disconnection with the physical world in modern cities.[5] Other scholars including Raymond Malewitz and Charles Jencks have examined the Utopian vision of Maker culture, which they link to myths of rugged individualism, the possibility of a counterculture and libertarianism[6][7] Many products produced by the maker communities have a focus on health (food), sustainable development, environmentalism, local culture and can from that point of view also be seen as a negative response to disposables, globalised mass production, the power of chain stores, multinationals and consumerism.
+
+In reaction to the rise of maker culture, Barack Obama pledged to open several national research and development facilities to the public.[5] In addition the U.S. federal government renamed one of their national centers "America Makes".[8]
+
+The maker movement is a social movement with an artisan spirit in which the methods of digital fabrication—previously the exclusive domain of institutions—have become accessible at a personal scale, following a logical and economic progression similar to the transition from minicomputers to personal computers in the microcomputer revolution of the 1970s.[9] In 2005, Dale Dougherty launched Make magazine to serve the growing community, followed by the 2006 launch of Maker Faire.[10] The term, coined by Dougherty, grew into a full-fledged industry based on the growing number of DIYers who want to build something rather than buy it.
+
+Spurred primarily by the advent of RepRap 3D printing for the fabrication of prototypes, declining cost and broad adoption have opened up new realms of innovation. As it has become cost effective to make just one item for prototyping (or a small number of household items),[11] this approach can be depicted as personal fabrication for "a market of one person".[9]
+
+Makerspaces[edit]
+Main articles: Hackerspace and Fablab
+The rise of the maker culture is closely associated with the rise of hackerspaces, Fab Labs and other "maker spaces", of which there are now many around the world, including over 100 each in Germany and the United States.[12] Hackerspaces allow like-minded individuals to share ideas, tools, and skillsets.[13][14] Some notable hackerspaces which have been linked with the maker culture include Urban Workshop, Noisebridge, NYC Resistor, A2 Mech Shop, Pumping Station: One, Artisan's Asylum,[15] danger!awesome,[16] and TechShop. In addition, those who identify with the subculture can be found at more traditional universities with a technical orientation, such as MIT and Carnegie Mellon (specifically around "shop" areas like the MIT Hobby Shop and CMU Robotics Club). As maker culture becomes more popular, hackerspaces and Fab Labs are becoming more common in universities[17] and public libraries. The federal government has started adopting the concept of fully open makerspaces within its agencies, the first of which (SpaceShop Rapid Prototyping Lab) resides at NASA Ames Research Center.[18] In Europe the popularity of the labs is more prominent than in the US: about three times more labs exist there.[19]
+
+Outside Europe and the US, the maker culture is also on the rise, with several hacker or makerspaces being landmarks in their respective cities' entrepreneurial and educational landscape. More precisely: HackerspaceSG in Singapore has been set up by the team now leading the city-state (and, arguably, South-East Asia's) most prominent accelerator JFDI.Asia. Lamba Labs in Beirut is recognized as a hackerspace where people can collaborate freely, in a city often divided by its different ethnic and religious groups.[20] Xinjechian[21] in Shanghai is China's first hackerspace, which allows for innovation and collaboration in a country known for its strong internet censorship.
+
+With the rise of cities, which will host 60% of mankind by 2030, hackerspaces, fablabs and makerspaces will likely gain traction, as they are places for local entrepreneurs to gather and collaborate, providing local solutions to environmental, social or economical issues.[22] The Institute for the Future has launched in this regard Maker Cities, as "an open and collaborative online game, to generate ideas about how citizens are changing work, production, governance, learning, well-being, and their neighborhoods, and what this means for the future".[23]
+
+Cuba will host the first international Open Technology 4 Life Workshop inviting American Makers to collaborate with Cuban Makers in January 2016 in Havana.[24]
+
+Over the same time frame, makerspaces have started to spring up. Though desktop machines and inexpensive tools for the home have made many projects possible, some still require industrial equipment that’s not accessible to the typical maker. Makerspaces — TechShop is probably the best-known, with multiple locations around the U.S. — tend to be a community-based industrial space that operate on a membership plan, somewhat like a gym.
+
+Maker segmentation[edit]
+As tools and technology become increasingly affordable and accessible, and the business of making ecosystem more expansive, and new makers started to learn basic skills such as soldering and working with Arduino and other easy-to-program development platforms, makers began to segment into three distinct groups.[25] Dougherty identified them as zero-to-maker, maker-to-maker, and maker-to-market. A fourth segment was recently added: maker-enabler.
+
+Zero to maker: Every maker has a different starting point. However, the common thread begins with an inspiration to invent, the spark that turns an individual from purely consuming products to having a hand in actually making them. To go from zero to maker, the two most important aspects are the ability to learn the requisite skills and access to the necessary means of production.
+
+Maker to maker: The distinction in this stage is that makers begin to collaborate and access the expertise of others. At this stage, makers also contribute to existing platforms. Powerful undercurrents are at work, both from technological revolution as well as unleashing the innate desire for self-expression and creation. The desire to improve and share with others catalyzes the move to “maker to maker.”
+
+Maker to market: From the workshops and the digital communities, a new wave of invention and innovation springs forth. Knowledge flows and concentrates. Some of the inventions and creations will appeal to a broader audience than the original makers. Some may even find commercial appeal. However, even if only a few makers pursue market opportunities, the impact may be huge.
+
+Maker advocate: For every maker in the above segments there are individuals that foster and support them. Children's museums and public libraries are promoting more DIY activities and tools to expose patrons to maker culture in the zero-to-maker segment. Family members and maker space staff support the maker-to-maker segment. Many maker business have a cloud of supporting personnel that enable their success. Although not makers themselves, these maker-advocates comprise a large segment of maker culture.
+
+Tools and hardware[edit]
+See also: Free hardware
+3D printers and 3D scanners,[26] microcontrollers,[27] drones,[28] DIY electronics like littleBits,[29] are just some of the tools that are helping grow the movement. They’re growing less expensive — in some cases, they’re already very reasonable — and getting smaller. But this combined with the cloud and the openness in hardware and software give the biggest advance to the maker culture.
+
+The cloud itself is a basic tool in service of the maker movement, enabling increased collaboration, digital workflow, distributed manufacturing (i.e., the download of files that translate directly into objects via a digitized manufacturing process) and collaborative economy. This, combined with the Open source movement, initially focused on software, has been expanding into open-source hardware, assisted by easy access to online plans (in the cloud) and licensing agreements.
+
+Programmable microcontrollers and microcomputers like the Arduino, Raspberry Pi, BeagleBone Black, and Intel’s Galileo and Edison controllers, are easy to program and enable connected devices, and some open source. Combined with the cloud, they’re helping create the Internet of Things.
+
+A very important tool for the Maker culture, the additive manufacturing, like 3D printing[30] (including machining, like CNC milling and routing) have moved to the desktop. This combinates with the open hardware in the cloud for open-source 3D printing. Also combines with DIY open-source microelectronics to create autoreplicant 3d printers, as RepRap.
+
+Other types of making[edit]
+Maker culture involves many types of making - this section reviews some of the major types.
+
+Amateur scientific equipment[edit]
+This involves making scientific instruments for citizen science or open source labs.[31] With the advent of low-cost digital manufacturing it is becoming increasingly common for scientists as well as amateurs to fabricate their own scientific apparatuses from open source hardware designs.[32][33]
+
+Clothes[edit]
+See also: Ravelry
+Clothes can include sew and no-sew DIY hacks.[34][35][36]
+
+Clothing can also include knitted or crocheted clothing and accessories. Some knitters may use knitting machines with varying degrees of automatic patterning. Fully electronic knitting machines can be interfaced to computers running computer-aided design software. Arduino boards have been interfaced to electronic knitting machines to further automate the process.[37]
+
+Free People, a popular clothing retailer for young women, often hosts craft nights inside the doors of its Anthropologie locations.[38]
+
+Biology, food and composting[edit]
+Examples of maker culture in food production include baking, homebrewing, winemaking, vegoil, pickling, sausage, cheesemaking, yogurt and pastry production.
+
+This can also extend into urban agriculture, composting and synthetic biology.[39]
+
+Organic cosmetics[edit]
+See also: Organic movement
+Maker cosmetics includes parfums, creams, lotions, gels and shampoos.
+
+Tool kits for maker cosmetics can include[40] beakers (250 and 400 ml), digital scales, laboratory thermometers (if possible, from -20 to 110 °C), pH paper, glass rods, plastic spatulas, and spray to disinfect with alcohol.
+
+Parfums can be done at home using (96°) ethanol (also in the form of vodka or Everclear), essential oils or fragrance oils, infused oils, even flavour extracts (such as pure vanilla extract), distilled or spring water and glycerine. Tools glass bottles, glass jar, measuring cup/measuring spoons, a dropper, funnel and aluminum foil or wrapping paper, if you are using clear glass bottles.[41]
+
+Music making[edit]
+The concept of homemade and experimental instruments in music has its roots prior to the maker movement, from complicated experiments with figures such as Reed Ghazala and Michel Waisvisz pioneering early circuit bending techniques to simple projects such as the Cigar Box Guitar. Bart Hopkin published the magazine Experimental Musical Instruments for 15 years followed by a series of books about instrument building. Organizations such as Zvex, WORM, STEIM, Death by Audio, and Casper Electronics cater to the do-it-yourself audience, while musicians like Nicolas Collins and Yuri Landman create and perform with custom made and experimental instruments.
+
+Tool making[edit]
+Makers can also make or fabricate their own tools.[42] This includes knives, hand tools, lathes, 3-D printers, wood working tools,[43] etc.
+
+Vehicles[edit]
+A kit car, also known as a "component car", is an automobile that is available as a set of parts that a manufacturer sells and the buyer himself then assembles into a functioning car.
+
+Car tuning can include electric vehicle conversion.
+
+Media[edit]
+Some media outlets associated with the subculture include MAKE (a magazine published since 2005 by O'Reilly Media), Wamungo and the popular weblog Boing Boing. Boing Boing editor Cory Doctorow has written a novel, Makers, which he describes as being "a book about people who hack hardware, business-models, and living arrangements to discover ways of staying alive and happy even when the economy is falling down the toilet".[44] In 2016 Intel sponsored a reality TV show - America's Greatest Makers - where 24 teams of Makers compete for $1 million.
+
+Maker faires[edit]
+Since 2006 the subculture has held regular events around the world, Maker Faire, which in 2012 drew a crowd of 120,000 attendees.[45][46] Smaller, community driven Maker Faires referred to as Mini Maker Fairs are also held in various places where an O'Reilly-organised Maker Faire has not yet been held.[47][48][49][50] Maker Faire provides a Mini Maker Faire starter kit to encourage the spread of local Maker Faire events.[51]
+
+Maker Film Fest[edit]
+A Maker Film Festival was announced for August 2014 Powerhouse Science Center in Durango, Colorado, featuring "Films About Makers, and Makers Making Movies."[52]
+
+Demography[edit]
+[icon]	This section needs expansion. You can help by adding to it. (November 2016)
+Makers such as Jordan Fung Tsz Chun, a 14-year-old entrepreneur and self-taught programmer from Hong Kong, start at a very young age, and achieved and benefited a lot from participating in such activities.
+
+See also[edit]
+Autonomous building
+Bricolage
+Circuit bending
+Distributed manufacturing
+Electric vehicle conversion
+Fab Lab (fabrication laboratory)
+Hackerspace
+Instructables
+Kit car
+Modular design
+Open design
+Open-source car
+Open source hardware
+RepRap
+SparkFun
+Thingiverse
+References[edit]
+Jump up ^ Thomas MacMillan (April 30, 2012). "On State Street, "Maker" Movement Arrives". New Haven Independent.
+Jump up ^ "Makers UPV: making locally, winning globally | Startup Europe". startupeuropeclub.eu. Retrieved 2016-08-12.
+Jump up ^ Martinez, Sylvia (2013). Invent To Learn. Torrance, CA: Constructing Modern Knowledge. pp. 32–35. ISBN 978-0-9891511-0-8.
+Jump up ^ "Maker Culture (chapter in Innovating Pedagogy 2013)" (PDF). The Open University. Retrieved 2014-01-09.
+^ Jump up to: a b Noelle Swan. "The 'maker movement' creates D.I.Y. revolution". 2014.
+Jump up ^ Malewitz, R. (2014) "The Practice of Misuse". Stanford University Press. Retrieved 20 Oct 2014.
+Jump up ^ Jencks, C. (1972) "Adhocism". MIT Press. Retrieved 20 Oct 2014.
+Jump up ^ "America Makes".
+^ Jump up to: a b Neil, Gershenfeld (23 January 2015). Brockman, John, ed. "A Conversation with Neil Gershenfeld". Edge.org. Edge Foundation. Retrieved 16 February 2015. We can finally fix that boundary between art and artisans.
+Jump up ^ Chris Anderson (May 2, 2013). "20 Years of Wired: Maker Movement". Wired magazine.
+Jump up ^ Wittbrodt, B. T.; Glover, A. G.; Laureto, J.; Anzalone, G. C.; Oppliger, D.; Irwin, J. L.; Pearce, J. M. (2013-09-01). "Life-cycle economic analysis of distributed manufacturing with open-source 3-D printers". Mechatronics. 23 (6): 713–726. doi:10.1016/j.mechatronics.2013.06.002.
+Jump up ^ Justin Lahart (November 13, 2009). "Tinkering Makes Comeback Amidst Crisis". The Wall Street Journal.
+Jump up ^ Kalish, Jon (November 21, 2010). "DIY 'Hackers' Tinker Everyday Things Into Treasure". NPR.
+Jump up ^ Minsker, Evan (March 9, 2009). "Hacking Chicago — Pumping Station: One brings the hacker space movement to Chicago". The Columbia Chronicle.
+Jump up ^ "Artisan's Asylum". Artisansasylum.com. Retrieved 2013-08-13.
+Jump up ^ "Danger Awesome: How Two MIT Grads Launched a Badass Maker Shop". WIRED. Retrieved 2015-12-08.
+Jump up ^ "New student club inspired by maker subculture". ics.uci.edu. Retrieved February 25, 2013.
+Jump up ^ Mazhari, Alex (2015-02-26). "NASA Ames SpaceShop". NASA. Retrieved 2016-05-26.
+Jump up ^ "Fab Foundation – Fab Labs". Fab Foundation.
+Jump up ^ "Beirut's new hackerspace nurtures invention ideas". November 1, 2012.
+Jump up ^ "In China, Lessons of a 'Hackerspace'".
+Jump up ^ "Makers in the City - How 11 makerspaces around the world grow communities and hack urban issues".
+Jump up ^ "Maker Cities Play the game. Make the future of your city.".
+Jump up ^ "Open Technology 4 Life Workshop 2016 in Havana, Cuba".
+Jump up ^ Deloitte Center for the Edge and Maker Media, Inc. (December 2013). Impact of the Maker Movement.
+Jump up ^ Ashlee Vance (September 13, 2010). "3-D Printing Spurs a Manufacturing Revolution". New York Times.
+Jump up ^ "Make 25: Microcontrollers and Arduino".
+Jump up ^ "DIY Drones". diydrones.com.
+Jump up ^ Senese, Mike (28 October 2014). "Doing a lot with littleBits". Make:. Make:. Retrieved 26 May 2015.
+Jump up ^ 3D Printing & Imaging, Make
+Jump up ^ "Open-source Lab - Appropedia: The sustainability wiki". www.appropedia.org. Retrieved 2016-02-27.
+Jump up ^ Pearce, Joshua M. (2012-09-14). "Building Research Equipment with Free, Open-Source Hardware". Science. 337 (6100): 1303–1304. doi:10.1126/science.1228183. ISSN 0036-8075. PMID 22984059.
+Jump up ^ Baden, Tom; Chagas, Andre Maia; Gage, Greg; Marzullo, Timothy; Prieto-Godino, Lucia L.; Euler, Thomas. "Open Labware: 3-D Printing Your Own Lab Equipment". PLOS Biology. 13 (3). doi:10.1371/journal.pbio.1002086. PMC 4368627Freely accessible. PMID 25794301.
+Jump up ^ Gerstein, Julie. "41 Awesomely Easy No-Sew DIY Clothing Hacks". BuzzFeed Life. Retrieved 27 August 2015.
+Jump up ^ "Maker Faire 2011: BurdaStyle's Online Community for DIY Fashion". TreeHugger.
+Jump up ^ "Costumes Instructables". Instructables.com.
+Jump up ^ "Knitic Project".
+Jump up ^ "What Is the Maker Movement and Why Should You Care?". The Huffington Post.
+Jump up ^ http://makerfaire.com/maker/entry/58694/
+Jump up ^ Home cosmetics starting kit
+Jump up ^ ChrysN (2 November 2008). "How to make perfume". Instructables.com.
+Jump up ^ "Unplugged Tools: A Maker's Journey to Revive Traditional Woodworking | Make:". Make: DIY Projects and Ideas for Makers. Retrieved 2016-02-27.
+Jump up ^ "Hand Tool Woodworking Instruction and Thoughts". The Renaissance Woodworker. Retrieved 2016-02-27.
+Jump up ^ Doctorow, Cory (October 28, 2009). "Makers, my new novel: free downloads, donate to libraries and colleges, signings and tours". Boing Boing.
+Jump up ^ "More than just digital quilting". The Economist. December 3, 2011.
+Jump up ^ "Maker Faire Bay Area 2012: Highlights and Headlines". On 3D Printing. May 20, 2012.
+Jump up ^ "East Bay Mini Maker Faire". East Bay Mini Maker Faire.
+Jump up ^ Ken Liebeskind (April 28, 2012). "Mini Maker Faire Brings Innovation to Westport". The Weston Daily Voice. Westport, Connecticut.
+Jump up ^ Molly McGowan (May 1, 2012). "Burlington's first Mini Maker Faire a success". Times-News. Burlington, North Carolina.
+Jump up ^ "Maker Meetup! Saturday July 14th 2012". The Reuseum. 2012-06-18. Retrieved 2013-08-13.
+Jump up ^ "Mini Maker Faire Starter Kit"
+Jump up ^ E.D.W. Lynch. "The Maker Film Festival, A Film Celebration of the Maker Movement in Durango, Colorado". Laughing Squid.
+External links[edit]
+	Wikimedia Commons has media related to Maker subculture.
+The Maker Manifiesto.
+Maker Movement, P2P Foundation
+[1], Makers Turkiye, Turkish Maker Community: Biggest Maker Community in the world, after Maker Media.
+Categories: Do it yourselfDIY cultureHacker cultureSubcultures
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Languages
+Deutsch
+Español
+Français
+Italiano
+עברית
+日本語
+Polski
+Português
+Svenska
+Türkçe
+中文
+Edit links
+This page was last modified on 2 December 2016, at 10:05.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki

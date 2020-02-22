@@ -1,0 +1,383 @@
+﻿
+ This is a good article. Click here for more information.
+Watson (computer)
+From Wikipedia, the free encyclopedia
+For other uses, see Watson.
+"IBM Watson" redirects here. For the IBM laboratory, see Thomas J. Watson Research Center.
+
+Watson's avatar, inspired by the IBM "smarter planet" logo[1]
+Watson is a question answering computer system capable of answering questions posed in natural language,[2] developed in IBM's DeepQA project by a research team led by principal investigator David Ferrucci.[3] Watson was named after IBM's first CEO and industrialist Thomas J. Watson.[4][5] The computer system was specifically developed to answer questions on the quiz show Jeopardy!.[6] In 2011, Watson competed on Jeopardy! against former winners Brad Rutter and Ken Jennings.[4][7] Watson received the first place prize of $1 million.[8]
+
+Watson had access to 200 million pages of structured and unstructured content consuming four terabytes of disk storage[9] including the full text of Wikipedia,[10] but was not connected to the Internet during the game.[11][12] For each clue, Watson's three most probable responses were displayed on the television screen. Watson consistently outperformed its human opponents on the game's signaling device, but had trouble in a few categories, notably those having short clues containing only a few words.
+
+In February 2013, IBM announced that Watson software system's first commercial application would be for utilization management decisions in lung cancer treatment at Memorial Sloan Kettering Cancer Center, New York City, in conjunction with health insurance company WellPoint.[13] IBM Watson's former business chief Manoj Saxena says that 90% of nurses in the field who use Watson now follow its guidance.[14]
+
+Contents  [hide] 
+1	Description
+1.1	Software
+1.2	Hardware
+1.3	Data
+2	Operation
+2.1	Comparison with human players
+3	History
+3.1	Development
+3.2	Jeopardy!
+4	Current and future applications
+4.1	Healthcare
+4.2	IBM Watson Group
+4.3	Chatterbot
+4.4	Jill Watson: TA
+4.5	Weather Forecasting
+5	See also
+6	References
+7	Further reading
+8	External links
+8.1	J! Archive
+8.2	Videos
+Description[edit]
+
+The high-level architecture of IBM's DeepQA used in Watson[15]
+Watson is a question answering (QA) computing system that IBM built to apply advanced natural language processing, information retrieval, knowledge representation, automated reasoning, and machine learning technologies to the field of open domain question answering.[2]
+
+The key difference between QA technology and document search is that document search takes a keyword query and returns a list of documents, ranked in order of relevance to the query (often based on popularity and page ranking), while QA technology takes a question expressed in natural language, seeks to understand it in much greater detail, and returns a precise answer to the question.[16]
+
+According to IBM, "more than 100 different techniques are used to analyze natural language, identify sources, find and generate hypotheses, find and score evidence, and merge and rank hypotheses."[17]
+
+Software[edit]
+Watson uses IBM's DeepQA software and the Apache UIMA (Unstructured Information Management Architecture) framework. The system was written in various languages, including Java, C++, and Prolog, and runs on the SUSE Linux Enterprise Server 11 operating system using Apache Hadoop framework to provide distributed computing.[9][18][19]
+
+Hardware[edit]
+The system is workload-optimized, integrating massively parallel POWER7 processors and built on IBM's DeepQA technology,[20] which it uses to generate hypotheses, gather massive evidence, and analyze data.[2] Watson employs a cluster of ninety IBM Power 750 servers, each of which uses a 3.5 GHz POWER7 eight-core processor, with four threads per core. In total, the system has 2,880 POWER7 processor threads and 16 terabytes of RAM.[20]
+
+According to John Rennie, Watson can process 500 gigabytes, the equivalent of a million books, per second.[21] IBM's master inventor and senior consultant Tony Pearson estimated Watson's hardware cost at about three million dollars.[22] Its Linpack performance stands at 80 TeraFLOPs, which is about half as fast as the cut-off line for the Top 500 Supercomputers list.[23] According to Rennie, all content was stored in Watson's RAM for the Jeopardy game because data stored on hard drives would be too slow to be competitive with human Jeopardy champions.[21]
+
+Data[edit]
+The sources of information for Watson include encyclopedias, dictionaries, thesauri, newswire articles, and literary works. Watson also used databases, taxonomies, and ontologies. Specifically, DBPedia, WordNet, and Yago were used.[24] The IBM team provided Watson with millions of documents, including dictionaries, encyclopedias, and other reference material that it could use to build its knowledge.[12]
+
+Operation[edit]
+“	The computer's techniques for unraveling Jeopardy! clues sounded just like mine. That machine zeroes in on key words in a clue, then combs its memory (in Watson's case, a 15-terabyte data bank of human knowledge) for clusters of associations with those words. It rigorously checks the top hits against all the contextual information it can muster: the category name; the kind of answer being sought; the time, place, and gender hinted at in the clue; and so on. And when it feels "sure" enough, it decides to buzz. This is all an instant, intuitive process for a human Jeopardy! player, but I felt convinced that under the hood my brain was doing more or less the same thing.	”
+— Ken Jennings[25]
+Watson parses questions into different keywords and sentence fragments in order to find statistically related phrases.[12] Watson's main innovation was not in the creation of a new algorithm for this operation but rather its ability to quickly execute hundreds of proven language analysis algorithms simultaneously to find the correct answer.[12][26] The more algorithms that find the same answer independently the more likely Watson is to be correct.[12] Once Watson has a small number of potential solutions, it is able to check against its database to ascertain whether the solution makes sense.[12]
+
+Comparison with human players[edit]
+
+Ken Jennings, Watson, and Brad Rutter in their Jeopardy! exhibition match
+Watson's basic working principle is to parse keywords in a clue while searching for related terms as responses. This gives Watson some advantages and disadvantages compared with human Jeopardy! players.[27] Watson has deficiencies in understanding the contexts of the clues. As a result, human players usually generate responses faster than Watson, especially to short clues.[12] Watson's programming prevents it from using the popular tactic of buzzing before it is sure of its response.[12] Watson has consistently better reaction time on the buzzer once it has generated a response, and is immune to human players' psychological tactics, such as jumping between categories on every clue.[12][28]
+
+In a sequence of 20 mock games of Jeopardy, human participants were able to use the average six to seven seconds that Watson needed to hear the clue and decide whether to signal for responding.[12] During that time, Watson also has to evaluate the response and determine whether it is sufficiently confident in the result to signal.[12] Part of the system used to win the Jeopardy! contest was the electronic circuitry that receives the "ready" signal and then examined whether Watson's confidence level was great enough to activate the buzzer. Given the speed of this circuitry compared to the speed of human reaction times, Watson's reaction time was faster than the human contestants except when the human anticipated (instead of reacted to) the ready signal.[29] After signaling, Watson speaks with an electronic voice and gives the responses in Jeopardy!'s question format.[12] Watson's voice was synthesized from recordings that actor Jeff Woodman made for an IBM text-to-speech program in 2004.[30]
+
+The Jeopardy! staff used different means to notify Watson and the human players when to buzz,[29] which was critical in many rounds.[28] The humans were notified by a light, which took them tenths of a second to perceive.[31][32] Watson was notified by an electronic signal and could activate the buzzer within about eight milliseconds.[33] The humans tried to compensate for the perception delay by anticipating the light,[34] but the variation in the anticipation time was generally too great to fall within Watson's response time.[28] Watson did not attempt to anticipate the notification signal.[32][34]
+
+History[edit]
+Development[edit]
+Since Deep Blue's victory over Garry Kasparov in chess in 1997, IBM had been on the hunt for a new challenge. In 2004, IBM Research manager Charles Lickel, over dinner with coworkers, noticed that the restaurant they were in had fallen silent. He soon discovered the cause of this evening hiatus: Ken Jennings, who was then in the middle of his successful 74-game run on Jeopardy!. Nearly the entire restaurant had piled toward the televisions, mid-meal, to watch the phenomenon. Intrigued by the quiz show as a possible challenge for IBM, Lickel passed the idea on, and in 2005, IBM Research executive Paul Horn backed Lickel up, pushing for someone in his department to take up the challenge of playing Jeopardy! with an IBM system. Though he initially had trouble finding any research staff willing to take on what looked to be a much more complex challenge than the wordless game of chess, eventually David Ferrucci took him up on the offer.[35] In competitions managed by the United States government, Watson's predecessor, a system named Piquant, was usually able to respond correctly to only about 35% of clues and often required several minutes to respond.[36][37][38] To compete successfully on Jeopardy!, Watson would need to respond in no more than a few seconds, and at that time, the problems posed by the game show were deemed to be impossible to solve.[12]
+
+In initial tests run during 2006 by David Ferrucci, the senior manager of IBM's Semantic Analysis and Integration department, Watson was given 500 clues from past Jeopardy! programs. While the best real-life competitors buzzed in half the time and responded correctly to as many as 95% of clues, Watson's first pass could get only about 15% correct. During 2007, the IBM team was given three to five years and a staff of 15 people to solve the problems.[12] By 2008, the developers had advanced Watson such that it could compete with Jeopardy! champions.[12] By February 2010, Watson could beat human Jeopardy! contestants on a regular basis.[39]
+
+Although the system is primarily an IBM effort, Watson's development involved faculty and graduate students from Rensselaer Polytechnic Institute, Carnegie Mellon University, University of Massachusetts Amherst, the University of Southern California's Information Sciences Institute, the University of Texas at Austin, the Massachusetts Institute of Technology, and the University of Trento,[15] as well as students from New York Medical College.[40]
+
+Jeopardy![edit]
+Preparation[edit]
+
+Watson demo at an IBM booth at a trade show
+In 2008, IBM representatives communicated with Jeopardy! executive producer Harry Friedman about the possibility of having Watson compete against Ken Jennings and Brad Rutter, two of the most successful contestants on the show, and the program's producers agreed.[12][41] Watson's differences with human players had generated conflicts between IBM and Jeopardy! staff during the planning of the competition.[27] IBM repeatedly expressed concerns that the show's writers would exploit Watson's cognitive deficiencies when writing the clues, thereby turning the game into a Turing test. To alleviate that claim, a third party randomly picked the clues from previously written shows that were never broadcast.[27] Jeopardy! staff also showed concerns over Watson's reaction time on the buzzer. Originally Watson signaled electronically, but show staff requested that it press a button physically, as the human contestants would.[42] Even with a robotic "finger" pressing the buzzer, Watson remained faster than its human competitors. Ken Jennings noted, "If you're trying to win on the show, the buzzer is all," and that Watson "can knock out a microsecond-precise buzz every single time with little or no variation. Human reflexes can't compete with computer circuits in this regard."[28][34][43] Stephen Baker, a journalist who recorded Watson's development in his book "Final Jeopardy", reported that the conflict between IBM and Jeopardy! became so serious in May 2010 that the competition was almost canceled.[27] As part of the preparation, IBM constructed a mock set in a conference room at one of its technology sites to model the one used on Jeopardy!. Human players, including former Jeopardy! contestants, also participated in mock games against Watson with Todd Alan Crain of The Onion playing host.[12] About 100 test matches were conducted with Watson winning 65% of the games.[44]
+
+To provide a physical presence in the televised games, Watson was represented by an "avatar" of a globe, inspired by the IBM "smarter planet" symbol. Jennings described the computer's avatar as a "glowing blue ball criss-crossed by 'threads' of thought—42 threads, to be precise,"[25] and stated that the number of thought threads in the avatar was an in-joke referencing the significance of the number 42 in Douglas Adams' Hitchhiker's Guide to the Galaxy.[25] Joshua Davis, the artist who designed the avatar for the project, explained to Stephen Baker that there are 36 triggerable states that Watson was able to use throughout the game to show its confidence in responding to a clue correctly; he had hoped to be able to find forty-two, to add another level to the Hitchhiker's Guide reference, but he was unable to pinpoint enough game states.[45]
+
+A practice match was recorded on January 13, 2011, and the official matches were recorded on January 14, 2011. All participants maintained secrecy about the outcome until the match was broadcast in February.[46]
+
+Practice match[edit]
+In a practice match before the press on January 13, 2011, Watson won a 15-question round against Ken Jennings and Brad Rutter with a score of $4,400 to Jennings's $3,400 and Rutter's $1,200, though Jennings and Watson were tied before the final $1,000 question. None of the three players responded incorrectly to a clue.[47]
+
+First match[edit]
+The first round was broadcast February 14, 2011, and the second round, on February 15, 2011. The right to choose the first category had been determined by a draw won by Rutter.[48] Watson, represented by a computer monitor display and artificial voice, responded correctly to the second clue and then selected the fourth clue of the first category, a deliberate strategy to find the Daily Double as quickly as possible.[49] Watson's guess at the Daily Double location was correct. At the end of the first round, Watson was tied with Rutter at $5,000; Jennings had $2,000.[48]
+
+Watson's performance was characterized by some quirks. In one instance, Watson repeated a reworded version of an incorrect response offered by Jennings. (Jennings said "What are the '20s?" in reference to the 1920s. Then Watson said "What is 1920s?") Because Watson could not recognize other contestants' responses, it did not know that Jennings had already given the same response. In another instance, Watson was initially given credit for a response of "What is leg?" after Jennings incorrectly responded "What is: he only had one hand?" to a clue about George Eyser (The correct response was, "What is: he's missing a leg?"). Because Watson, unlike a human, could not have been responding to Jennings's mistake, it was decided that this response was incorrect. The broadcast version of the episode was edited to omit Trebek's original acceptance of Watson's response.[50] Watson also demonstrated complex wagering strategies on the Daily Doubles, with one bet at $6,435 and another at $1,246.[51] Gerald Tesauro, one of the IBM researchers who worked on Watson, explained that Watson's wagers were based on its confidence level for the category and a complex regression model called the Game State Evaluator.[52]
+
+Watson took a commanding lead in Double Jeopardy!, correctly responding to both Daily Doubles. Watson responded to the second Daily Double correctly with a 32% confidence score.[51]
+
+Although it wagered only $947 on the clue, Watson was the only contestant to miss the Final Jeopardy! response in the category U.S. CITIES ("Its largest airport was named for a World War II hero; its second largest, for a World War II battle"). Rutter and Jennings gave the correct response of Chicago, but Watson's response was "What is Toronto?????"[51][53][54] Ferrucci offered reasons why Watson would appear to have guessed a Canadian city: categories only weakly suggest the type of response desired, the phrase "U.S. city" didn't appear in the question, there are cities named Toronto in the U.S., and Toronto in Ontario has an American League baseball team.[55] Dr. Chris Welty, who also worked on Watson, suggested that it may not have been able to correctly parse the second part of the clue, "its second largest, for a World War II battle" (which was not a standalone clause despite it following a semicolon, and required context to understand that it was referring to a second-largest airport).[56] Eric Nyberg, a professor at Carnegie Mellon University and a member of the development team, stated that the error occurred because Watson does not possess the comparative knowledge to discard that potential response as not viable.[54] Although not displayed to the audience as with non-Final Jeopardy! questions, Watson's second choice was Chicago. Both Toronto and Chicago were well below Watson's confidence threshold, at 14% and 11% respectively. (This lack of confidence was the reason for the multiple question marks in Watson's response.)
+
+The game ended with Jennings with $4,800, Rutter with $10,400, and Watson with $35,734.[51]
+
+Second match[edit]
+During the introduction, Trebek (a Canadian native) joked that he had learned Toronto was a U.S. city, and Watson's error in the first match prompted an IBM engineer to wear a Toronto Blue Jays jacket to the recording of the second match.[57]
+
+In the first round, Jennings was finally able to choose a Daily Double clue,[58] while Watson responded to one Daily Double clue incorrectly for the first time in the Double Jeopardy! Round.[59] After the first round, Watson placed second for the first time in the competition after Rutter and Jennings were briefly successful in increasing their dollar values before Watson could respond.[59][60] Nonetheless, the final result ended with a victory for Watson with a score of $77,147, besting Jennings who scored $24,000 and Rutter who scored $21,600.[61]
+
+Final outcome[edit]
+The prizes for the competition were $1 million for first place (Watson), $300,000 for second place (Jennings), and $200,000 for third place (Rutter). As promised, IBM donated 100% of Watson's winnings to charity, with 50% of those winnings going to World Vision and 50% going to World Community Grid.[62] Similarly, Jennings and Rutter donated 50% of their winnings to their respective charities.[63]
+
+In acknowledgment of IBM and Watson's achievements, Jennings made an additional remark in his Final Jeopardy! response: "I for one welcome our new computer overlords", echoing a similar memetic reference to the episode "Deep Space Homer" on The Simpsons, in which TV news presenter Kent Brockman speaks of welcoming "our new insect overlords".[64][65] Jennings later wrote an article for Slate, in which he stated "IBM has bragged to the media that Watson's question-answering skills are good for more than annoying Alex Trebek. The company sees a future in which fields like medical diagnosis, business analytics, and tech support are automated by question-answering software like Watson. Just as factory jobs were eliminated in the 20th century by new assembly-line robots, Brad and I were the first knowledge-industry workers put out of work by the new generation of 'thinking' machines. 'Quiz show contestant' may be the first job made redundant by Watson, but I'm sure it won't be the last."[25]
+
+Philosophy[edit]
+Philosopher John Searle argues that Watson—despite impressive capabilities—cannot actually think.[66] Drawing on his Chinese room thought experiment, Searle claims that Watson, like other computational machines, is capable only of manipulating symbols, but has no ability to understand the meaning of those symbols; however, Searle's experiment has its detractors.[67]
+
+Match against members of the United States Congress[edit]
+On February 28, 2011, Watson played an untelevised exhibition match of Jeopardy! against members of the United States House of Representatives. In the first round, Rush D. Holt, Jr. (D-NJ, a former Jeopardy! contestant), who was challenging the computer with Bill Cassidy (R-LA), led with Watson in second place. However, combining the scores between all matches, the final score was $40,300 for Watson and $30,000 for the congressional players combined.[68]
+
+IBM's Christopher Padilla said of the match, "The technology behind Watson represents a major advancement in computing. In the data-intensive environment of government, this type of technology can help organizations make better decisions and improve how government helps its citizens."[68]
+
+Current and future applications[edit]
+According to IBM, "The goal is to have computers start to interact in natural human terms across a range of applications and processes, understanding the questions that humans ask and providing answers that humans can understand and justify."[39] It has been suggested by Robert C. Weber, IBM's general counsel, that Watson may be used for legal research.[69] The company also intends to use Watson in other information-intensive fields, such as telecommunications, financial services, and government.[70]
+
+Watson is based on commercially available IBM Power 750 servers that have been marketed since February 2010. IBM also intends to market the DeepQA software to large corporations, with a price in the millions of dollars, reflecting the $1 million needed to acquire a server that meets the minimum system requirement to operate Watson. IBM expects the price to decrease substantially within a decade as the technology improves.[12]
+
+Commentator Rick Merritt said that "there's another really important reason why it is strategic for IBM to be seen very broadly by the American public as a company that can tackle tough computer problems. A big slice of [IBM's profit] comes from selling to the U.S. government some of the biggest, most expensive systems in the world."[71]
+
+In 2013, it was reported that three companies were working with IBM to create apps embedded with Watson technology. Fluid is developing an app for retailers, one called "The North Face", which is designed to provide advice to online shoppers. Welltok is developing an app designed to give people advice on ways to engage in activities to improve their health. MD Buyline is developing an app for the purpose of advising medical institutions on equipment procurement decisions.[72][73]
+
+In November, 2013, IBM announced it would make Watson's API available to software application providers, enabling them to build apps and services that are embedded with Watson's capabilities. To build out its base of partners who create applications on the Watson platform, IBM consults with a network of venture capital firms, which advise IBM on which of their portfolio companies may be a logical fit for what IBM calls the Watson Ecosystem. Thus far, roughly 800 organizations and individuals have signed up with IBM, with interest in creating applications that could use the Watson platform.[74]
+
+On January 30, 2013, it was announced that Rensselaer Polytechnic Institute would receive a successor version of Watson, which would be housed at the Institute's technology park and be available to researchers and students.[75] By summer 2013, Rensselaer had become the first university to receive a Watson computer.[76]
+
+On February 6, 2014, it was reported that IBM plans to invest $100 million in a 10-year initiative to use Watson and other IBM technologies to help countries in Africa address development problems, beginning with healthcare and education.[77]
+
+On June 3, 2014, three new Watson Ecosystem partners were chosen from more than 400 business concepts submitted by teams spanning 18 industries from 43 countries. "These bright and enterprising organizations have discovered innovative ways to apply Watson that can deliver demonstrable business benefits," said Steve Gold, vice president, IBM Watson Group. The winners were Majestyk Apps with their adaptive educational platform, FANG (Friendly Anthropomorphic Networked Genome);[78][79] Red Ant with their retail sales trainer;[80] and GenieMD[81] with their medical recommendation service.[82]
+
+On July 9, 2014, Genesys Telecommunications Laboratories announced plans to integrate Watson to improve their customer experience platform, citing the sheer volume of customer data to analyze is staggering.[83]
+
+Watson has been integrated with databases including Bon Appétit magazine to perform a recipe generating platform.[84]
+
+Watson is being used by Decibel, a music discovery startup, in its app MusicGeek which uses the supercomputer to provide music recommendations to its users. The use of the artificial intelligence of Watson has also been found in hospitality industry. GoMoment uses Watson for its Rev1 app, which gives hotel staff a way to quickly respond to questions from guests.[85] Arria NLG has built an app that helps energy companies stay within regulatory guidelines, making it easier for managers to make sense of thousands of pages of legal and technical jargon.
+
+OmniEarth, Inc. uses Watson computer vision services to analyze satellite and aerial imagery, along with other municipal data, to infer water usage on a property-by-property basis, helping water districts in drought-stricken California improve water conservation efforts.[86]
+
+In September 2016, Condé Nast has started using IBM's Watson to help build and strategize social influencer campaigns for brands. Using software built by IBM and Influential, Condé Nast's clients will be able to know which influencer's demographics, personality traits and more best align with a marketer and the audience it's targeting. [87]
+
+Healthcare[edit]
+In healthcare, Watson's natural language, hypothesis generation, and evidence-based learning capabilities allow it to function as a clinical decision support system for use by medical professionals.[88] To aid physicians in the treatment of their patients, once a physician has posed a query to the system describing symptoms and other related factors, Watson first parses the input to identify the most important pieces of information; then mines patient data to find facts relevant to the patient's medical and hereditary history; then examines available data sources to form and test hypotheses;[88] and finally provides a list of individualized, confidence-scored recommendations.[89] The sources of data that Watson uses for analysis can include treatment guidelines, electronic medical record data, notes from physicians and nurses, research materials, clinical studies, journal articles, and patient information.[88] Despite being developed and marketed as a "diagnosis and treatment advisor," Watson has never been actually involved in the medical diagnosis process, only in assisting with identifying treatment options for patients who have already been diagnosed.[90]
+
+In February 2011, it was announced that IBM would be partnering with Nuance Communications for a research project to develop a commercial product during the next 18 to 24 months, designed to exploit Watson's clinical decision support capabilities. Physicians at Columbia University would help to identify critical issues in the practice of medicine where the system's technology may be able to contribute, and physicians at the University of Maryland would work to identify the best way that a technology like Watson could interact with medical practitioners to provide the maximum assistance.[91]
+
+In September 2011, IBM and WellPoint, a major American healthcare provider, announced a partnership to utilize Watson's data crunching capability to help suggest treatment options to physicians.[92] Then, in February 2013, IBM and WellPoint gave Watson its first commercial application, for utilization management decisions in lung cancer treatment at Memorial Sloan–Kettering Cancer Center.[13]
+
+IBM announced a partnership with Cleveland Clinic in October 2012. The company has sent Watson to the Cleveland Clinic Lerner College of Medicine of Case Western Reserve University, where it will increase its health expertise and assist medical professionals in treating patients. The medical facility will utilize Watson's ability to store and process large quantities of information to help speed up and increase the accuracy of the treatment process. "Cleveland Clinic's collaboration with IBM is exciting because it offers us the opportunity to teach Watson to 'think' in ways that have the potential to make it a powerful tool in medicine," said C. Martin Harris, MD, chief information officer of Cleveland Clinic.[93]
+
+On February 8, 2013, IBM announced that oncologists at the Maine Center for Cancer Medicine and Westmed Medical Group in New York have started to test the Watson supercomputer system in an effort to recommend treatment for lung cancer.[94]
+
+IBM Watson Group[edit]
+On January 9, 2014 IBM announced it was creating a business unit around Watson, led by senior vice president Michael Rhodin.[95] IBM Watson Group will have headquarters in New York's Silicon Alley and will employ 2,000 people. IBM has invested $1 billion to get the division going. Watson Group will develop three new cloud-delivered services: Watson Discovery Advisor, Watson Engagement Advisor, and Watson Explorer. Watson Discovery Advisor will focus on research and development projects in pharmaceutical industry, publishing and biotechnology, Watson Engagement Advisor will focus on self-service applications using insights on the basis of natural language questions posed by business users, and Watson Explorer will focus on helping enterprise users uncover and share data-driven insights based on federated search more easily.[95] The company is also launching a $100 million venture fund to spur application development for "cognitive" applications. According to IBM, the cloud-delivered enterprise-ready Watson has seen its speed increase 24 times over—a 2,300 percent improvement in performance, and its physical size shrank by 90 percent—from the size of a master bedroom to three stacked pizza boxes.[95] IBM CEO Virginia Rometty said she wants Watson to generate $10 billion in annual revenue within ten years.[96]
+
+Chatterbot[edit]
+Watson is being used via IBM partner program as a Chatterbot to provide the conversation for children's toys.[97]
+
+Jill Watson: TA[edit]
+Ashok Goel, professor at Georgia Tech, used Watson to create a virtual Teaching Assistant to assist students in his class.[98] Initially, Goel didn't reveal the nature of "Jill", which was created with the help of a few students and IBM. Jill answered questions where it had a 97% certainty of an accurate answer, with the remainder being answered by human assistants.
+
+Weather Forecasting[edit]
+In August 2016, IBM announced it would be using Watson for weather forecasting.[99] Specifically, the company announced they would use Watson to analyze data from over 200,000 Weather Underground personal weather stations, and data from other sources, as a part of project Deep Thunder.[100]
+
+See also[edit]
+Blue Gene
+Commonsense knowledge (artificial intelligence)
+Strong AI
+Tech companies in the New York metropolitan area
+Wolfram Alpha
+References[edit]
+Jump up ^ IBM Watson: The Face of Watson on YouTube
+^ Jump up to: a b c "DeepQA Project: FAQ". IBM. Retrieved February 11, 2011.
+Jump up ^ Ferrucci, David; Levas, Anthony; Bagchi, Sugato; Gondek, David; Mueller, Erik T. (2013-06-01). "Watson: Beyond Jeopardy!". Artificial Intelligence. 199: 93–105. doi:10.1016/j.artint.2012.06.009.
+^ Jump up to: a b Hale, Mike (February 8, 2011). "Actors and Their Roles for $300, HAL? HAL!". The New York Times. Retrieved February 11, 2011.
+Jump up ^ "The DeepQA Project". IBM Research. Retrieved February 18, 2011.
+Jump up ^ "Dave Ferrucci at Computer History Museum - How It All Began and What's Next". IBM Research. December 1, 2011. Retrieved February 11, 2012. In 2007, when IBM executive Charles Lickel challenged Dave and his team to revolutionize Deep QA and put an IBM computer against Jeopardy!'s human champions, he was off to the races.
+Jump up ^ Loftus, Jack (April 26, 2009). "IBM Prepping 'Watson' Computer to Compete on Jeopardy!". Gizmodo. Retrieved April 27, 2009.
+Jump up ^ "IBM's "Watson" Computing System to Challenge All Time Henry Lambert Jeopardy! Champions". Sony Pictures Television. December 14, 2010. Archived from the original on June 16, 2013. Retrieved November 11, 2013.
+^ Jump up to: a b Jackson, Joab (February 17, 2011). "IBM Watson Vanquishes Human Jeopardy Foes". PC World. IDG News. Retrieved February 17, 2011.
+Jump up ^ Zimmer, Ben (February 17, 2011). "Is It Time to Welcome Our New Computer Overlords?". The Atlantic. Retrieved February 17, 2011.
+Jump up ^ Raz, Guy (January 28, 2011). "Can a Computer Become a Jeopardy! Champ?". National Public Radio. Retrieved February 18, 2011.
+^ Jump up to: a b c d e f g h i j k l m n o p q r Thompson, Clive (June 16, 2010). "Smarter Than You Think: What Is I.B.M.'s Watson?". The New York Times Magazine. Retrieved February 18, 2011.
+^ Jump up to: a b Upbin, Bruce (February 8, 2013). "IBM's Watson Gets Its First Piece Of Business In Healthcare". Forbes.
+Jump up ^ Upbin, Bruce (February 8, 2013). "IBM's Watson Gets Its First Piece Of Business In Healthcare". Forbes. Retrieved March 10, 2013.
+^ Jump up to: a b Ferrucci, D.; et al. (2010). "Building Watson: An Overview of the DeepQA Project". AI Magazine. 31 (3). Retrieved February 19, 2011.
+Jump up ^ Rhinehart, Craig (January 17, 2011). "10 Things You Need to Know About the Technology Behind Watson". Entrepreneurial and Intrapreneurial Insights. Retrieved January 10, 2016.
+Jump up ^ "Watson, A System Designed for Answers: The Future of Workload Optimized Systems Design". IBM Systems and Technology. February 2011. p. 3. Retrieved September 9, 2015.
+Jump up ^ Takahashi, Dean (February 17, 2011). "IBM researcher explains what Watson gets right and wrong". VentureBeat. Retrieved February 18, 2011.
+Jump up ^ Novell (February 2, 2011). "Watson Supercomputer to Compete on 'Jeopardy!' - Powered by SUSE Linux Enterprise Server on IBM POWER7". The Wall Street Journal. Archived from the original on April 21, 2011. Retrieved February 21, 2011.
+^ Jump up to: a b "Is Watson the smartest machine on earth?". Computer Science and Electrical Engineering Department, University of Maryland Baltimore County. February 10, 2011. Retrieved February 11, 2011.
+^ Jump up to: a b Rennie, John (February 14, 2011). "How IBM's Watson Computer Excels at Jeopardy!". PLoS blogs. Retrieved February 19, 2011.
+Jump up ^ Lucas, Mearian (February 21, 2011). "Can anyone afford an IBM Watson supercomputer? (Yes)". Computerworld. Retrieved February 21, 2011.
+Jump up ^ "Top500 List - November 2013". Top500.org.
+Jump up ^ Ferrucci, David; et al. "The AI Behind Watson - The Technical Article". AI Magazine (Fall 2010). Retrieved November 11, 2013.
+^ Jump up to: a b c d Jennings, Ken (February 16, 2011). "My Puny Human Brain". Slate. Newsweek Interactive Co. LLC. Retrieved February 17, 2011.
+Jump up ^ "Will Watson Win On Jeopardy!?". Nova ScienceNOW. Public Broadcasting Service. January 20, 2011. Archived from the original on April 14, 2011. Retrieved January 27, 2011.
+^ Jump up to: a b c d Needleman, Rafe (February 18, 2011). "Reporters' Roundtable: Debating the robobrains". CNET. Retrieved February 18, 2011.
+^ Jump up to: a b c d "Jeopardy! Champ Ken Jennings". The Washington Post. February 15, 2011. Retrieved February 15, 2011.
+^ Jump up to: a b Gondek, David (January 10, 2011). "How Watson "sees," "hears," and "speaks" to play Jeopardy!". IBM Research News. Retrieved February 21, 2011.
+Jump up ^ Avery, Lise (February 14, 2011). "Interview with Actor Jeff Woodman, Voice of IBM's Watson Computer" (MP3). Anything Goes!!. Retrieved February 15, 2011.
+Jump up ^ Kosinski, Robert J. (2008). "A Literature Review on Reaction Time". Clemson University. Retrieved January 10, 2016.
+^ Jump up to: a b Baker (2011), p. 174.
+Jump up ^ Baker (2011), p. 178.
+^ Jump up to: a b c Strachan, Alex (February 12, 2011). "For Jennings, it's a man vs. man competition". The Vancouver Sun. Archived from the original on February 21, 2011. Retrieved February 15, 2011.
+Jump up ^ Baker (2011), pp. 6-8.
+Jump up ^ Baker (2011), p. 30.
+Jump up ^ Radev, Dragomir R.; Prager, John; Samn, Valerie (2000). "Ranking potential answers to natural language questions" (PDF). Proceedings of the 6th Conference on Applied Natural Language Processing.
+Jump up ^ Prager, John; Brown, Eric; Coden, Annie; Radev, Dragomir R. (July 2000). "Question-answering by predictive annotation" (PDF). Proceedings, 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.
+^ Jump up to: a b Brodkin, Jon (February 10, 2010). "IBM's Jeopardy-playing machine can now beat human contestants". Network World. Retrieved February 19, 2011.
+Jump up ^ "Medical Students Offer Expertise to IBM's Jeopardy!-Winning Computer Watson as It Pursues a New Career in Medicine" (PDF). InTouch. New York Medical College. 18: 4. June 2012.
+Jump up ^ Stelter, Brian (December 14, 2010). "I.B.M. Supercomputer 'Watson' to Challenge 'Jeopardy' Stars". The New York Times. Retrieved December 14, 2010. An I.B.M. supercomputer system named after the company's founder, Thomas J. Watson Sr., is almost ready for a televised test: a bout of questioning on the quiz show "Jeopardy." I.B.M. and the producers of "Jeopardy" will announce on Tuesday that the computer, "Watson," will face the two most successful players in "Jeopardy" history, Ken Jennings and Brad Rutter, in three episodes that will be broadcast Feb. 14–16, 2011.
+Jump up ^ Baker (2011), p. 171.
+Jump up ^ Flatow, Ira (February 11, 2011). "IBM Computer Faces Off Against 'Jeopardy' Champs". Talk of the Nation. National Public Radio. Retrieved February 15, 2011.
+Jump up ^ Sostek, Anya (February 13, 2011). "Human champs of 'Jeopardy!' vs. Watson the IBM computer: a close match". Pittsburgh Post Gazette. Retrieved February 19, 2011.
+Jump up ^ Baker (2011), p. 117.
+Jump up ^ Baker (2011), pp. 232-258.
+Jump up ^ Dignan, Larry (January 13, 2011). "IBM's Watson wins Jeopardy practice round: Can humans hang?". ZDnet. Retrieved January 13, 2011.
+^ Jump up to: a b "The IBM Challenge Day 1". Jeopardy. Season 27. Episode 23. February 14, 2011.
+Jump up ^ Lenchner, Jon (February 3, 2011). "Knowing what it knows: selected nuances of Watson's strategy". IBM Research News. IBM. Retrieved February 16, 2011.
+Jump up ^ Johnston, Casey (February 15, 2011). "Jeopardy: IBM's Watson almost sneaks wrong answer by Trebek". Ars Technica. Retrieved February 15, 2011.
+^ Jump up to: a b c d "Computer crushes the competition on 'Jeopardy!'". Associated Press. February 15, 2011. Archived from the original on February 19, 2011. Retrieved February 19, 2011.
+Jump up ^ Tesauro, Gerald (February 13, 2011). "Watson's wagering strategies". IBM Research News. IBM. Retrieved February 18, 2011.
+Jump up ^ Staff (February 15, 2011). "IBM's computer wins 'Jeopardy!' but... Toronto?". CTV News. Retrieved February 15, 2011. Watson, IBM's quiz-master computer with the strangely serene voice, beat the humans on "Jeopardy!" tonight. But it got the final question on U.S. cities wrong, answering: Toronto.
+^ Jump up to: a b Robertson, Jordan; Borenstein, Seth (February 16, 2011). "For Watson, Jeopardy! victory was elementary". The Globe and Mail. The Associated Press. Archived from the original on February 20, 2011. Retrieved February 17, 2011. A human would have considered Toronto and discarded it because it is a Canadian city, not a U.S. one, but that's not the type of comparative knowledge Watson has, Prof. Nyberg said.
+Jump up ^ Hamm, Steve (February 15, 2011). "Watson on Jeopardy! Day Two: The Confusion over and Airport Clue". A Smart Planet Blog. Retrieved February 21, 2011.
+Jump up ^ Johnston, Casey (February 15, 2011). "Creators: Watson has no speed advantage as it crushes humans in Jeopardy". Ars Technica. Retrieved February 21, 2011.
+Jump up ^ Oberman, Mira (February 17, 2011). "Computer creams human Jeopardy! champions". Vancouver Sun. Agence France-Presse. Archived from the original on February 20, 2011. Retrieved February 17, 2011. But a Final Jeopardy flub prompted one IBM engineer to wear a Toronto Blue Jays jacket to the second day of taping and Trebek to joke that he'd learned Toronto was a U.S. city.
+Jump up ^ Johnston, Casey (February 17, 2011). "Bug lets humans grab Daily Double as Watson triumphs on Jeopardy". Ars Technica. Retrieved February 21, 2011.
+^ Jump up to: a b Upbin, Bruce (February 17, 2011). "IBM's Supercomputer Watson Wins It All With $367 Bet". Forbes. Retrieved February 21, 2011.
+Jump up ^ Oldenburg, Ann (February 17, 2011). "Ken Jennings: 'My puny brain' did just fine on 'Jeopardy!'". USA Today. Retrieved February 21, 2011.
+Jump up ^ "Show 6088 - The IBM Challenge, Day 2". Jeopardy!. February 16, 2011. Syndicated.
+Jump up ^ "World Community Grid to benefit from Jeopardy! competition". World Community Grid. February 4, 2011. Retrieved February 19, 2011.
+Jump up ^ "Jeopardy! And IBM Announce Charities To Benefit From Watson Competition". IBM Corporation. January 13, 2011. Retrieved February 19, 2011.
+Jump up ^ "IBM's Watson supercomputer crowned Jeopardy king". BBC News. February 17, 2011. Retrieved February 17, 2011.
+Jump up ^ Markoff, John (February 16, 2011). "Computer Wins on 'Jeopardy!': Trivial, It's Not". The New York Times. Yorktown Heights, New York. Retrieved February 17, 2011.
+Jump up ^ Searle, John (February 23, 2011). "Watson Doesn't Know It Won on 'Jeopardy!'". The Wall Street Journal. Retrieved July 26, 2011.
+Jump up ^ Lohr, Steve (December 5, 2011). "Creating AI based on the real thing". The New York Times..
+^ Jump up to: a b "NJ congressman tops 'Jeopardy' computer Watson". Associated Press. March 2, 2011. Archived from the original on March 7, 2011. Retrieved March 2, 2011.
+Jump up ^ Weber, Robert C. (February 14, 2011). "Why 'Watson' matters to lawyers". The National Law Journal. Retrieved February 18, 2011.
+Jump up ^ Nay, Chris (September 6, 2011). "Putting Watson to work: Interview with GM of Watson Solutions Manoj Saxena". Smarter Planet Blog. IBM. Retrieved November 12, 2013.
+Jump up ^ Merritt, Rick (February 14, 2011). "IBM playing Jeopardy with tax dollars". EE Times. Retrieved February 19, 2011.
+Jump up ^ Dusto, Amy (December 3, 2013). "IBM's Watson computer helps shoppers via a new app". Internet Retailer. Retrieved January 10, 2016.
+Jump up ^ Comstock, Jonah (November 15, 2013). "With Watson API launch, IBM turns to WellTok for patients, MD Buyline for docs". MobiHealthNews. Retrieved January 10, 2016.
+Jump up ^ Upbin, Bruce (November 14, 2013). "IBM Opens Up Its Watson Cognitive Computer For Developers Everywhere". Forbes. Retrieved January 10, 2016.
+Jump up ^ "IBM's Watson to Join Research Team at Rensselaer". Rensselaer Polytechnic Institute. January 30, 2013. Retrieved October 1, 2013.
+Jump up ^ "The Independent Sector: Cultural, Economic and Social Contributions of New York's 100+, Not-for-Profit Colleges and Universities" (PDF). Commission on Independent Colleges and Universities. Summer 2013. p. 12. Retrieved October 1, 2013.
+Jump up ^ Cocks, Tim (February 6, 2014). "IBM starts rolling out Watson supercomputer in Africa". Reuters. Retrieved January 10, 2016.
+Jump up ^ Coolidge, Donald (May 29, 2014). "IBM Watson Mobile Developers Challenge Finalists: Majestyk". Majestyk Apps. Retrieved January 10, 2016.
+Jump up ^ "Majestyk Apps - An IBM Watson Mobile Developer Challenge Winner". Flickr. June 3, 2014. Retrieved January 10, 2016.
+Jump up ^ "Red Ant - An IBM Watson Mobile Developer Challenge Winner". Flickr. June 3, 2014. Retrieved January 10, 2016.
+Jump up ^ "GenieMD - An IBM Watson Mobile Developer Challenge Winner". Flickr. June 3, 2014. Retrieved January 10, 2016.
+Jump up ^ "IBM Announces Watson Mobile Developer Challenge Winners". IBM News. June 3, 2014. Retrieved January 10, 2016.
+Jump up ^ All, Ann (July 9, 2014). "Genesys to Put IBM's Watson to Work". Enterprise Apps Today. Retrieved January 10, 2016.
+Jump up ^ Wilson, Mark (June 30, 2014). "IBM's Watson Is Now A Cooking App With Infinite Recipes". fastcodesign.com. Retrieved January 10, 2016.
+Jump up ^ Hardawar, Devindra. "IBM's big bet on Watson is paying off with more apps and DNA analysis". Engadget. Retrieved July 2, 2015.
+Jump up ^ Griggs, Mary Beth (May 20, 2016). "IBM Watson can help find water wasters in drought-stricken California". Popular Science. Retrieved July 4, 2016.
+Jump up ^ Marty Swant (6 September 2016). "Condé Nast Has Started Using IBM's Watson to Find Influencers for Brands". Adweek. Retrieved 8 September 2016.
+^ Jump up to: a b c "Putting Watson to Work: Watson in Healthcare". IBM. Retrieved November 11, 2013.
+Jump up ^ "IBM Watson Helps Fight Cancer with Evidence-Based Diagnosis and Treatment Suggestions" (PDF). IBM. Retrieved November 12, 2013.
+Jump up ^ Saxena, Manoj (February 13, 2013). "IBM Watson Progress and 2013 Roadmap (Slide 7)". IBM. Retrieved November 12, 2013.
+Jump up ^ Wakeman, Nick (February 17, 2011). "IBM's Watson heads to medical school". Washington Technology. Retrieved February 19, 2011.
+Jump up ^ Mathews, Anna Wilde (September 12, 2011). "Wellpoint's New Hire: What is Watson?". The Wall Street Journal. (subscription required (help)).
+Jump up ^ Miliard, Mike (October 30, 2012). "Watson Heads to Medical School: Cleveland Clinic, IBM Send Supercomputer to College". Healthcare IT News. Retrieved November 11, 2013.
+Jump up ^ Leske, Nikola (February 9, 2013). "Doctors Seek Help on Cancer Treatment from IBM Supercomputer". Reuters. Retrieved November 11, 2013.
+^ Jump up to: a b c "IBM Watson Group Unveils Cloud-Delivered Watson Services to Transform Industrial R&D, Visualize Big Data Insights and Fuel Analytics Exploration". IBM News. January 9, 2014. Retrieved January 10, 2016.
+Jump up ^ Ante, Spencer E. (January 9, 2014). "IBM Set to Expand Watson's Reach". The Wall Street Journal. Retrieved January 9, 2014.
+Jump up ^ Takahashi, Dean. "Elemental's smart connected toy CogniToys taps IBM's Watson supercomputer for its brains". Venture Beat. Retrieved May 15, 2015.
+Jump up ^ McFarlane, Matt. "Professor reveals to students that his assistant was an AI all along". Sydney Morning Herald. Retrieved May 14, 2016.
+Jump up ^ Jancer, Matt (26 August 2016). "IBM's Watson Takes On Yet Another Job, as a Weather Forecaster". Smithsonian. Retrieved 29 August 2016.
+Jump up ^ Booton, Jennifer (15 June 2016). "IBM finally reveals why it bought The Weather Company". Market Watch. Retrieved 29 August 2016.
+Bibliography
+Baker, Stephen (2011). Final Jeopardy: Man vs. Machine and the Quest to Know Everything. Boston, New York: Houghton Mifflin Harcourt. ISBN 0-547-48316-3.
+Further reading[edit]
+Baker, Stephen (2012) Final Jeopardy: The Story of Watson, the Computer That Will Transform Our World, Mariner Books.
+http://www.andrew.cmu.edu/user/ooo/watson/ Collection of Academic papers explaining internals of Watson.
+Jackson, Joab (2014). IBM bets big on Watson-branded cognitive computing PCworld: Jan 9, 2014 2:30 PM
+Greenemeier, Larry. (2013). Will IBM’s Watson Usher in a New Era of Cognitive Computing? Scientific American. Nov 13, 2013 |* Lazarus, R. S. (1982).
+Kelly, J.E. and Hamm, S. ( 2013). Smart Machines: IBM's Watson and the Era of Cognitive Computing. Columbia Business School Publishing
+External links[edit]
+	Wikimedia Commons has media related to IBM Watson.
+Watson homepage
+DeepQA homepage
+About Watson on Jeopardy.com
+Smartest Machine on Earth (PBS NOVA documentary about the making of Watson)
+Power Systems
+The Watson Trivia Challenge. The New York Times. June 16, 2010.
+This is Watson - IBM Journal of Research and Development (published by the IEEE)
+J! Archive[edit]
+Jeopardy! Show #6086 - Game 1, Part 1
+Jeopardy! Show #6087 - Game 1, Part 2
+Jeopardy! Show #6088 - Game 2
+Videos[edit]
+PBS NOVA documentary on the making of Watson
+Building Watson – A Brief Overview of the DeepQA Project on YouTube (21:42), IBMLabs
+How Watson Answers a Question on YouTube
+David Ferrucci, Dan Cerutti and Ken Jennings on IBM's Watson at Singularity Summit 2011 on YouTube
+A Computer Called Watson on YouTube - November 15, 2011, David Ferrucci at Computer History Museum, alternate
+IBM Watson and the Future of Healthcare on YouTube - 2012
+IBM Watson-Introduction and Future Applications on YouTube - IBM at EDGE 2012
+IBM Watson for Healthcare on YouTube - Martin Kohn, 2013
+Jeopardy! IBM Watson day 3 (2011). Retrieved July 26, 2012 on YouTube
+IBM Watson playlist, IBMLabs Watson playlist
+[show] v t e
+IBM
+[show] v t e
+Computable knowledge
+[show] v t e
+Jeopardy!
+Categories: IBM supercomputersJeopardy! contestantsNatural language processing softwareOne-of-a-kind computersPower Architecture
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
+
+Search Wikipedia
+Go
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Languages
+العربية
+Български
+Català
+Deutsch
+Eesti
+Español
+Euskara
+فارسی
+Français
+한국어
+Italiano
+עברית
+Magyar
+မြန်မာဘာသာ
+Nederlands
+日本語
+Norsk bokmål
+Occitan
+Polski
+Português
+Română
+Русский
+Simple English
+Slovenčina
+Svenska
+Türkçe
+Українська
+Tiếng Việt
+中文
+Edit links
+This page was last modified on 5 December 2016, at 16:45.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki
